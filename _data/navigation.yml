@@ -4,38 +4,18 @@
 
   - title: Connect
     url: /appmanconnect/
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
 
   - title: "Pattern Libraries"
-    url: /patternlib/
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+    url: /patternLibraries/
 
   - title: "Pattern Designer"
-    url: /patterndes/
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
+    url: /patternDesigner/
+    
+  - title: "Shot Designer"
+    url: /shotDesigner/
+    
+  - title: "Core Controller"
+    url: /coreController/
       
  robotman:
    - title: Introduction
