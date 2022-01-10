@@ -43,11 +43,13 @@
       - title: "JavaScript"
       
  main:
-  - title: "App Quickstart"
-    url: /appquickstart/
+ # - title: "App Quickstart"
+ #   url: /appquickstart/
   - title: "App Manual"
     url: /appmanual/
-  - title: "App Tutorial"
-    url: /apptutorial/
+#  - title: "App Tutorial"
+#    url: /apptutorial/
   - title: "Robot Manual"
     url: /robotmanual/
+  - title: "Discussion"
+    url: https://github.com/RoBOPPics/BallBOPPer/discussions
