@@ -1,10 +1,10 @@
 main:
   - title: "App Quickstart"
-    url: /posts/
+    url: /appquickstart/
   - title: "App Manual"
-    url: /categories/
+    url: /appmanual/
   - title: "App Tutorial"
-    url: /tags/
+    url: /apptutorial/
   - title: "Robot Manual"
     url: /robotmanual/
     
