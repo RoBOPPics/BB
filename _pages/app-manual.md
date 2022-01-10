@@ -2,7 +2,7 @@
 permalink: /appmanual/
 title: "App Manual"
 sidebar:
-  nav: "docs"
+  nav: "appman"
 ---
 
 The BallBOPPer App is not yet publicly available.  
