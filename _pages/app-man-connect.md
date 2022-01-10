@@ -1,5 +1,6 @@
 ---
 permalink: /appmanconnect/
+title: "Connect"
 toc: true
 toc_sticky: true
 toc_label: "Contents"
@@ -7,7 +8,6 @@ sidebar:
   nav: "appman"
 ---
 
-# Connect
 When you first launch the BallBOPPer, you will see the alert shown below indicating that you are not currently connected to your BallBOPPer.
 
 ![Connect Alert Image](../assets/images/ConnectAlert500.png){: width="300" .align-center } 
