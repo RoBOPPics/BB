@@ -6,22 +6,24 @@ toc_label: "Contents"
 sidebar:
   nav: "appman"
 ---
+
+# Connect
 When you first launch the BallBOPPer, you will see the alert shown below indicating that you are not currently connected to your BallBOPPer.
 
-![Connect Alert Image](../assets/images/ConnectAlert500.png){: width="150" } 
+![Connect Alert Image](../assets/images/ConnectAlert500.png){: width="250" } 
 
 You then have two options: Log In Only, and Log In and Connect.
 
-![Connect Image](../assets/images/Connect500.png){: width="150" } 
+![Connect Image](../assets/images/Connect500.png){: width="250" } 
 
-# Log In Only
+## Log In Only
 You can create your Username and Password on the RoBOPPics site.
 
 "Log in Only" lets you log in, using your Username and Password, without connecting to your BallBOPPer.
 
 This allows you to create and edit your Drills, Patterns and Playlists from whereever you want: at home, on the train, or during a break at work.
 
-# Log In and Connect
+## Log In and Connect
 "Log in and Connect" is for when you are on-court and ready to play.
 
 You will need your Username and Password, along with the name of your BallBOPPer and the Key for your BallBOPPer.
