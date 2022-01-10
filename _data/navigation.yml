@@ -1,14 +1,4 @@
-main:
-  - title: "App Quickstart"
-    url: /appquickstart/
-  - title: "App Manual"
-    url: /appmanual/
-  - title: "App Tutorial"
-    url: /apptutorial/
-  - title: "Robot Manual"
-    url: /robotmanual/
-    
-docs:
+ docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
@@ -51,3 +41,13 @@ docs:
       - title: "Stylesheets"
         url: /docs/stylesheets/
       - title: "JavaScript"
+      
+ main:
+  - title: "App Quickstart"
+    url: /appquickstart/
+  - title: "App Manual"
+    url: /appmanual/
+  - title: "App Tutorial"
+    url: /apptutorial/
+  - title: "Robot Manual"
+    url: /robotmanual/
