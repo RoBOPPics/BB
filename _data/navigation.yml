@@ -1,5 +1,6 @@
  appman:
   - title: Introduction
+    url: /appmanintro/
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
@@ -49,7 +50,7 @@
  # - title: "App Quickstart"
  #   url: /appquickstart/
   - title: "App Manual"
-    url: /appmanual/
+    url: /appmanintro/
 #  - title: "App Tutorial"
 #    url: /apptutorial/
   - title: "Robot Manual"
