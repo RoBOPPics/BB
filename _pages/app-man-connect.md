@@ -10,11 +10,11 @@ sidebar:
 # Connect
 When you first launch the BallBOPPer, you will see the alert shown below indicating that you are not currently connected to your BallBOPPer.
 
-![Connect Alert Image](../assets/images/ConnectAlert500.png){: width="250" } 
+![Connect Alert Image](../assets/images/ConnectAlert500.png){: width="300" .align-center } 
 
 You then have two options: Log In Only, and Log In and Connect.
 
-![Connect Image](../assets/images/Connect500.png){: width="250" } 
+![Connect Image](../assets/images/Connect500.png){: width="300" .align-center } 
 
 ## Log In Only
 You can create your Username and Password on the RoBOPPics site.
