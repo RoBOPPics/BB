@@ -11,6 +11,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
 search: true
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
