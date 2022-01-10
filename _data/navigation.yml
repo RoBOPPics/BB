@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "App Quickstart"
     url: /posts/
-  - title: "Categories"
+  - title: "App Manual"
     url: /categories/
-  - title: "Tags"
+  - title: "App Tutorial"
     url: /tags/
-  - title: "About"
+  - title: "Robot Manual"
     url: /about/
