@@ -1,6 +1,6 @@
 ---
-permalink: /robotmanual/
-title: "Robot Manual"
+permalink: /robotmanintro/
+title: "Introduction"
 sidebar:
   nav: "robotman"
 ---
