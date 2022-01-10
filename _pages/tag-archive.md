@@ -1,6 +1,5 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
-layout: tags
-author_profile: true
+title: "App Manual"
+permalink: /appmanual/
+layout: single
 ---
