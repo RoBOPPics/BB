@@ -58,6 +58,14 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
+        layout: archive
   # _posts
   - scope:
       path: "_posts"
@@ -76,14 +84,7 @@ defaults:
     values:
       layout: archive
       author_profile: false
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
-        layout: single
+
 
 category_archive:
   type: liquid
