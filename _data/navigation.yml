@@ -1,5 +1,5 @@
- docs:
-  - title: Getting Started
+ appman:
+  - title: Introduction
     children:
       - title: "Quick-Start Guide"
         url: /docs/quick-start-guide/
@@ -10,7 +10,7 @@
       - title: "Upgrading"
         url: /docs/upgrading/
 
-  - title: Customization
+  - title: Connect
     children:
       - title: "Configuration"
         url: /docs/configuration/
@@ -23,7 +23,7 @@
       - title: "Layouts"
         url: /docs/layouts/
 
-  - title: Content
+  - title: "Pattern Libraries"
     children:
       - title: "Working with Posts"
         url: /docs/posts/
@@ -36,7 +36,7 @@
       - title: "Utility Classes"
         url: /docs/utility-classes/
 
-  - title: Extras
+  - title: "Pattern Designer"
     children:
       - title: "Stylesheets"
         url: /docs/stylesheets/
