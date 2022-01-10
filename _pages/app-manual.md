@@ -1,6 +1,6 @@
 ---
-permalink: /appmanual/
-title: "App Manual"
+permalink: /appmanintro/
+title: "Introduction"
 sidebar:
   nav: "appman"
 ---
