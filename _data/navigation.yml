@@ -6,7 +6,7 @@ main:
   - title: "App Tutorial"
     url: /tags/
   - title: "Robot Manual"
-    url: /about/
+    url: /robotmanual/
     
 docs:
   - title: Getting Started
