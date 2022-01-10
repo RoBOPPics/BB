@@ -1,7 +1,7 @@
 RoBOPPics:
   name        : "RoBOPPics"
   bio         : "Maker of the BallBOPPer, the world's first autonomous tennis training robot."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/roboppics_logo.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
