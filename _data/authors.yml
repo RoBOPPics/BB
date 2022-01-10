@@ -5,10 +5,10 @@ RoBOPPics:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
+      url: "info@roboppics.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "www.roboppics.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://twitter.com/roboppics"
