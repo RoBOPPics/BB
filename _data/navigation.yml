@@ -1,15 +1,6 @@
  appman:
   - title: Introduction
     url: /appmanintro/
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
 
   - title: Connect
     children:
@@ -45,6 +36,7 @@
       
  robotman:
    - title: Introduction
+     url: /robotmanintro/
       
  main:
  # - title: "App Quickstart"
