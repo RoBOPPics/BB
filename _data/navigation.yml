@@ -3,6 +3,7 @@
     url: /appmanintro/
 
   - title: Connect
+    url: /appmanconnect/
     children:
       - title: "Configuration"
         url: /docs/configuration/
@@ -16,6 +17,7 @@
         url: /docs/layouts/
 
   - title: "Pattern Libraries"
+    url: /patternlib/
     children:
       - title: "Working with Posts"
         url: /docs/posts/
@@ -29,6 +31,7 @@
         url: /docs/utility-classes/
 
   - title: "Pattern Designer"
+    url: /patterndes/
     children:
       - title: "Stylesheets"
         url: /docs/stylesheets/
