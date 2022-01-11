@@ -21,7 +21,7 @@ The Path screen shows the plan view of a tennis court with the BallBOPPer (large
 
 The Height and Spin page lets you specify the Height that the ball will travel above the net, and the Spin Level and Spin Angle. 
 
-Height can be set to Low Margin, Good Margin, High Margin, Lob and Moonball. Spin Level can be Flat, Light, Moderate, Heavy and Max. Spin Angle can be Top Spin, Right Top Spin, Right Spin, Right Back Spin, Back Spin, Left Back Spin, Left Spin, and Left Top Spin.
+Height can be set to Low Margin, Good Margin, High Margin, Lob and Moonball. Spin Level can be Flat, Light, Moderate, Heavy and Max. Spin Angle can be set every 45 degrees from Top Spin to Back Spin and back.
 
 ![Playlist Image](../assets/images/ShotHeightSpin.jpg){: width="300" .align-center }
 
