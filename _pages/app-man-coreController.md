@@ -45,6 +45,6 @@ sidebar:
 ![Playlist Image](../assets/images/ControllerSettings.png){: width="300" .align-center }
 
   <nav class="pagination">
-      <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Upgrading
+      <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Upgrading
 ">Previous</a>
   </nav>
