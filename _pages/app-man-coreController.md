@@ -46,9 +46,9 @@ You can add or subtract distance, adjust the shots left or right, and make them 
 
 The three Settings on this page allow you to turn three services On and Off. 
 
-If you donot have the Reloader and/or Rover attached or turned ON, it is best to turn them off here. 
+If you do not have the Ball Reloader and/or Rover attached or turned ON, it is best to turn them off here. 
 
-If you are using the BallBOPPer in a location that is not a tennis court, such as your driveway or backyard, then you must turn the Location Service OFF, otherwise the robot will not run. 
+If you are using the BallBOPPer in a location that is not a tennis court, such as your driveway or backyard, then you must turn the Location Service OFF, otherwise the robot will indicate an ERROR. 
 
 With the Location Service turned off, you will need to manually position and point the Robot in the correct direction.
 
