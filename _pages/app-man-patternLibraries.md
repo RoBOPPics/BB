@@ -22,17 +22,17 @@ Drills tend to be very predictable, and are for practicing particular skills in 
 
 Patterns of Play are for practicing tactics and strategy. They are based on different playing styles, and are less predictable, since a big part of match play is being prepared for the unexpected.
 
-The Drills and Patterns listed in the Catalog will change over time as users create and submit their own Drills and Patterns for inclusion. This is accomplished by copying a Drill or Pattern that you have created in the Custom library, into the Catalog library. If approved for inclusion in the catalog, the Drill or Pattern will then appear in the catalog for all BallBOPPer users.
+The Drills and Patterns listed in the Catalog will change over time as users create and submit their own Drills and Patterns for inclusion. This is accomplished by copying a Drill or Pattern that you have created in the Custom library, into the Catalog library. If approved for inclusion in the Catalog, the Drill or Pattern will then appear in the Catalog for all BallBOPPer users.
 
 ## Custom
-The Custom library is for creating your own custom Drills and Patterns. Simply type the name of your pattern in the box at the top, hit enter, and you will then be in the Pattern Designer where you can add and configure each Shot.
+The Custom library is for creating your own custom Drills and Patterns. Type the name for your new pattern in the box at the top, hit enter, and you will then be in the Pattern Designer where you can add and configure each Shot.
 
 ![Custom Image](../assets/images/Custom.jpg){: width="300" .align-center } 
 
 ## Playlist
-The Playlist is a list of your favorite Drills and Patterns in the order in which you want to play them.
+The Playlist is a list of your favorite Drills and Patterns arranged in the order in which you want to play them.
 
-Tapping on "Select Playlist" will transmit the Playlist to the BallBOPPer, and the Robot will then play through the list from first to last.
+Tapping on "Select Playlist" will transmit the Playlist to the BallBOPPer, and the Robot will then play through your Playlist from first to last.
 
 ![Playlist Image](../assets/images/Playlist.jpg){: width="300" .align-center } 
 
