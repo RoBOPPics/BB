@@ -12,6 +12,6 @@ The documentation for the BallBOPPer App and the BallBOPPer Robot are currently 
 ![Catalog Image](/assets/images/BallBOPPerRobotv18.png){: width="400" .align-center } 
 
   <nav class="pagination">
-      <a  class="pagination--pager disabled">Previous</a>
+      <a  class="pagination--pager disabled">The Beginning</a>
       <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Connect">Next</a> 
   </nav>
