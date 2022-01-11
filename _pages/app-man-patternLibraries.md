@@ -25,6 +25,7 @@ Patterns of Play are for practicing tactics and strategy. They are based on diff
 The Drills and Patterns listed in the Catalog will change over time as users create and submit their own Drills and Patterns for inclusion. This is accomplished by copying a Drill or Pattern that you have created in the Custom library, into the Catalog library. If approved for inclusion in the catalog, the Drill or Pattern will then appear in the catalog for all BallBOPPer users.
 
 ## Custom
+The Custom library is for creating your own custom Drills and Patterns. Simply type the name of your pattern in the box at the top, hit enter, and you will then be in the Pattern Designer where you can add and configure each Shot.
 
 ![Custom Image](../assets/images/PatternLibrariesCustom.png){: width="300" .align-center } 
 
