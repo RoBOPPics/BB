@@ -14,7 +14,7 @@ When you first launch the BallBOPPer, you will see the alert shown below indicat
 
 After clicking OK, you have two options: Log In Only, and Log In and Connect.
 
-![Connect Image](../assets/images/Connect500.png){: width="300" .align-center } 
+![Connect Image](../assets/images/Connect.png){: width="300" .align-center } 
 
 ## Log In Only
 If have not created a Username and Password, then you will now be prompted to create one. Once you have these, you can use the "Log in Only" functionality.
