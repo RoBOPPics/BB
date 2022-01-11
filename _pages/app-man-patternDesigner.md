@@ -14,6 +14,12 @@ The Pattern Designer has three tabs: Shot Pattern, Description and Settings.
 
 ## Shot Pattern
 
+![Playlist Image](../assets/images/ShotPattern.jpg){: width="300" .align-center }
+
 ## Description
 
+![Playlist Image](../assets/images/Description.jpg){: width="300" .align-center }
+
 ## Settings
+
+![Playlist Image](../assets/images/PatternSettings.jpg){: width="300" .align-center }
