@@ -38,11 +38,11 @@ Tapping on "Select Playlist" will transmit the Playlist to the BallBOPPer, and t
 
   <nav class="pagination">
     
-      <a href="/RoBOPPics/_pages/Introduction/" class="pagination--pager" title="Upgrading
+      <a href="/RoBOPPics/appmanconnect/" class="pagination--pager" title="Upgrading
 ">Previous</a>
     
     
-      <a href="/RoBOPPics/_pages/app-man-patternDesigner/" class="pagination--pager" title="Overriding Theme Defaults
+      <a href="/RoBOPPics/PatternDesigner/" class="pagination--pager" title="Overriding Theme Defaults
 ">Next</a>
     
   </nav>
