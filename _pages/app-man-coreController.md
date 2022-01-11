@@ -10,6 +10,8 @@ sidebar:
 
 ## Controller
 
+![Playlist Image](../assets/images/Controller.jpg){: width="300" .align-center }
+
 ### Play
 
 ### Pause
@@ -30,7 +32,11 @@ sidebar:
 
 ### Voice Controller using Headset
 
+![Playlist Image](../assets/images/VoiceController.jpg){: width="300" .align-center }
+
 ### Rover Manual Controller
+
+![Playlist Image](../assets/images/RoverController.jpg){: width="300" .align-center }
 
 ## Correct-Drift
 
