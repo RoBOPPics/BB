@@ -24,7 +24,7 @@ The Description contains all of the textual data for the Pattern. The Pattern Na
 
 ## Settings
 
-The Is Editable setting in the Settings page lets you make a Pattern read only. Note that fields such as the Number of Repetitions and Play in Random Order continue to be editable.
+The "Pattern Is Editable" setting in the Settings page lets you make a Pattern read only. This prevents the Pattern from being modified by accident. Note that fields such as the Number of Repetitions and Play in Random Order continue to be editable.
 
 ![Playlist Image](../assets/images/PatternSettings.jpg){: width="300" .align-center }
 
