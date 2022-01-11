@@ -11,7 +11,7 @@ The documentation for the BallBOPPer App and the BallBOPPer Robot are currently 
 
 Navigate to the App Reference link, or the NEXT button, to go to the introduction to the App Reference documents.
 
-![Catalog Image](/assets/images/BallBOPPerRobotv18.jpg){: width="400" .align-center } 
+![Catalog Image](/assets/images/BallBOPPerRobotv18.png){: width="400" .align-center } 
 
   <nav class="pagination">
       <a  class="pagination--pager disabled">Previous</a>
