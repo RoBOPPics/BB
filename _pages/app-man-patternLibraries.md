@@ -29,5 +29,8 @@ The Drills and Patterns listed in the Catalog will change over time as users cre
 ![Custom Image](../assets/images/PatternLibrariesCustom.png){: width="300" .align-center } 
 
 ## Playlist
+The Playlist is a list of your favorite Drills and Patterns in the order in which you want to play them.
+
+Tapping on "Select Playlist" will transmit the Playlist to the BallBOPPer, and the Robot will then play through the list from first to last.
 
 ![Playlist Image](../assets/images/PatternLibrariesPlaylist.png){: width="300" .align-center } 
