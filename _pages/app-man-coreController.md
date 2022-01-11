@@ -42,5 +42,9 @@ sidebar:
 ![Playlist Image](../assets/images/CorrectDrift.jpg){: width="300" .align-center }
 
 ## Settings
-![Playlist Image](../assets/images/ControllerSettings.jpg){: width="300" .align-center }
+![Playlist Image](../assets/images/ControllerSettings.png){: width="300" .align-center }
 
+  <nav class="pagination">
+      <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Upgrading
+">Previous</a>
+  </nav>
