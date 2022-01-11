@@ -23,3 +23,10 @@ The Pattern Designer has three tabs: Shot Pattern, Description and Settings.
 ## Settings
 
 ![Playlist Image](../assets/images/PatternSettings.jpg){: width="300" .align-center }
+
+  <nav class="pagination">
+      <a href="/BallBOPPer/patternLibraries/" class="pagination--pager" title="Upgrading
+">Previous</a>
+      <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Overriding Theme Defaults
+">Next</a> 
+  </nav>
