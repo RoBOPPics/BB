@@ -18,7 +18,7 @@ The Catalog lists the Drills and Patterns which come with the BallBOPPer out of 
 
 These Patterns fall into two general types: Drills and “Patterns of Play”.
 
-Drills tend to be very predictable, and are for practicing particular skills in isolation, so those skills become second nature.
+Drills tend to be very predictable, and are for practicing particular skills in isolation, in order to make those skills second nature.
 
 Patterns of Play are for practicing tactics and strategy. They are based on different playing styles, and are less predictable, since a big part of match play is being prepared for the unexpected.
 
