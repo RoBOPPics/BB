@@ -11,4 +11,4 @@ The documentation for the BallBOPPer App and the BallBOPPer Robot are currently 
 
 Navigate to the App Manual using the link at the top to access the Beta documentation files.
 
-![Catalog Image](/assets/images/ShotPath.jpg){: width="300" .align-center } 
+![Catalog Image](/assets/images/ShotPattern.jpg){: width="300" .align-center } 
