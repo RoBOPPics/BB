@@ -30,7 +30,7 @@ You will need your Player Name and Password, along with the name of your BallBOP
 
 The name and Key of your BallBOPPer are packaged with your BallBOPPer.
 
-After you enter this information once, it will be remembered by the App. The only time you will need to reenter it is when you change phones, or reinstall the App.
+After you enter your Player Name, Password, BallBOPPer Name and Key, it will be remembered by the App. The only time you will ever need to reenter it again is when you change phones, or reinstall the App.
 
   <nav class="pagination">
       <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Introduction">Previous</a>
