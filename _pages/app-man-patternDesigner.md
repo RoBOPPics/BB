@@ -18,7 +18,7 @@ The Shot Pattern shows the shots that make up the pattern, and the order of thos
 ![Playlist Image](../assets/images/ShotPattern.jpg){: width="300" .align-center }
 
 ## Description
-The Description contains all of the textual data for the Pattern. The nName and Description fields are displayed in the library view. The Pattern Nickname is flashed on the BallBOPPer's display screen prior to the start of each Drill or Pattern. The Attribution field is to record the name, website, twitter handle, of the individual or team that developed the Pattern.
+The Description contains all of the textual data for the Pattern. The Pattern Name and Description are displayed in the library view of each Pattern. The Pattern Nickname is flashed on the BallBOPPer's display screen prior to the start of each Drill or Pattern. The Attribution field is to record the name, website, twitter handle, of the individual or team that developed the Pattern.
 
 ![Playlist Image](../assets/images/Description.jpg){: width="300" .align-center }
 
