@@ -31,3 +31,9 @@ You will need your Username and Password, along with the name of your BallBOPPer
 The name and Key of your BallBOPPer will be included with your BallBOPPer.
 
 After you enter this information once, it will be remembered by the App. The only time you will need to reenter it is when you change phones, or reinstall the App.
+
+  <nav class="pagination">
+
+      <a href="/BallBOPPer/patternLibraries/" class="pagination--pager" title="Overriding Theme Defaults
+">Next</a> 
+  </nav>
