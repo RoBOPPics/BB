@@ -45,10 +45,8 @@ sidebar:
 ![Playlist Image](../assets/images/ControllerSettings.png){: width="300" .align-center }
 
   <nav class="pagination">
-      <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Upgrading
-">Previous</a>
-        <a class="pagination--pager disabled" title="Overriding Theme Defaults
-">Next</a> 
+      <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Shot Designer">Previous</a>
+        <a class="pagination--pager disabled">Next</a> 
   </nav>
   
 
