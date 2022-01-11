@@ -17,7 +17,7 @@ After clicking OK, you have two options: Log In Only, and Log In and Connect.
 ![Connect Image](../assets/images/Connect.jpg){: width="300" .align-center } 
 
 ## Log In Only
-If have not created a Username and Password, then you will now be prompted to create one. Once you have these, you can use the "Log in Only" functionality.
+If have not created a Player Name and Password, then you will now be prompted to create one. Once you have these, you can use the "Log in Only" functionality.
 
 "Log in Only" lets you log in, using your Player Name and Password, without connecting to a BallBOPPer.
 
