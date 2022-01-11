@@ -13,6 +13,12 @@ This page has three tabs across the top: Catalog, Custom and Playlist. You can t
 
 ## Catalog
 
+![Catalog Image](../assets/images/Connect500.png){: width="300" .align-center } 
+
 ## Custom
 
+![Custom Image](../assets/images/Connect500.png){: width="300" .align-center } 
+
 ## Playlist
+
+![Playlist Image](../assets/images/Connect500.png){: width="300" .align-center } 
