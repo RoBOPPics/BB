@@ -16,7 +16,7 @@ This page has three tabs across the top: Catalog, Custom and Playlist. You can t
 ## Catalog
 The Catalog lists the Drills and Patterns which come with the BallBOPPer out of the box. These Drills and Patterns cannot be edited in the Catalog library, but they can be copied into the Custom and Playlist libraries where they can be edited.
 
-These Patterns fall into two general types: Drills and “Patterns of Play”.
+Patterns fall into two general types: Drills and “Patterns of Play”.
 
 Drills tend to be very predictable, and are for practicing particular skills in isolation, in order to make those skills second nature.
 
