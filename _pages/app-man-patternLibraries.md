@@ -27,6 +27,17 @@ The Drills and Patterns listed in the Catalog will change over time as users cre
 ## Custom
 The Custom library is for creating your own custom Drills and Patterns. Simply type the name of your pattern in the box at the top, hit enter, and you will then be in the Pattern Designer where you can add and configure each Shot.
 
+
+  <nav class="pagination">
+    
+      <a href="/_pages/Introduction/" class="pagination--pager" title="Upgrading
+">Previous</a>
+    
+    
+      <a href="/_pages/PatternDesigner/" class="pagination--pager" title="Overriding Theme Defaults
+">Next</a>
+    
+  </nav>
 ![Custom Image](../assets/images/Custom.jpg){: width="300" .align-center } 
 
 ## Playlist
