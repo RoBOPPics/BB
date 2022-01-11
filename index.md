@@ -7,7 +7,7 @@ author: RoBOPPics
 layout: archive
 author_profile: true
 ---
-The documentation for the BallBOPPer App and the BallBOPPer Robot are currently under development here for those who are interested in developing "Patterns of Play" to be included in the Catalog.
+The documentation for the BallBOPPer App and the BallBOPPer Robot are currently under development. This documentation of the Beta version of the BallBOPPer is offered here for those who are interested in developing "Patterns of Play" to be included in the BallBOPPer Catalog.
 
 Navigate to the App Manual using the link at the top to access the Beta documentation files.
 
