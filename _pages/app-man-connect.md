@@ -21,7 +21,7 @@ If have not created a Player Name and Password, then you will now be prompted to
 
 "Log in Only" lets you log in, using your Player Name and Password, without connecting to a BallBOPPer.
 
-This allows you to create and edit your Drills, Patterns and Playlists from whereever you want: at home, on the train, or during a break at work.
+This allows you to create and edit your Drills, Patterns and Playlists from wherever you want: at home, on the train, or during a break at work.
 
 ## Log In and Connect
 "Log in and Connect" is for when you are on-court and ready to play.
