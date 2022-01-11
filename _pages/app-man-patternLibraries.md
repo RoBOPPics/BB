@@ -37,12 +37,8 @@ Tapping on "Select Playlist" will transmit the Playlist to the BallBOPPer, and t
 ![Playlist Image](../assets/images/Playlist.jpg){: width="300" .align-center } 
 
   <nav class="pagination">
-    
-      <a href="/RoBOPPics/appmanconnect/" class="pagination--pager" title="Upgrading
+      <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Upgrading
 ">Previous</a>
-    
-    
-      <a href="/RoBOPPics/PatternDesigner/" class="pagination--pager" title="Overriding Theme Defaults
-">Next</a>
-    
+      <a href="/BallBOPPer/patternDesigner/" class="pagination--pager" title="Overriding Theme Defaults
+">Next</a> 
   </nav>
