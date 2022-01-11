@@ -21,8 +21,6 @@ sidebar:
 ![Playlist Image](../assets/images/ShotPredictability.jpg){: width="300" .align-center }
 
   <nav class="pagination">
-      <a href="/BallBOPPer/patternDesigner/" class="pagination--pager" title="Upgrading
-">Previous</a>
-      <a href="/BallBOPPer/coreController/" class="pagination--pager" title="Overriding Theme Defaults
-">Next</a> 
+      <a href="/BallBOPPer/patternDesigner/" class="pagination--pager" title="Pattern Designer">Previous</a>
+      <a href="/BallBOPPer/coreController/" class="pagination--pager" title="Core Controller">Next</a> 
   </nav>
