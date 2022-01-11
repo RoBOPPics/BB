@@ -11,7 +11,13 @@ After the BallBOPPer Kickstarter launch (Summer of 2022), the BallBOPPer App wil
 
 The BallBOPPer App reference documentation is for Players and Coaches looking to understand how "Patterns of Play" are designed and run using the App.
 
+The information flow using the BallBOPPer App is illustrated below.
+
 ![Connect Alert Image](../assets/images/AppDataFlow.png){: width="400" .align-center } 
+
+The Pattern Libraries hold all of your "ready to run" Drills and Patterns. If you tap on a Drill or Pattern it opens in the Pattern Designer. In the Pattern Designer you can see the flow of the shots and the configuration of each shot. If you tap on a Shot within the Pattern Designer, it will open in the Shot Designer. In the Shot Designer you can see the path, height, spin and predictability of each shot.
+
+When you are ready to run a Drill or Pattern, tap on the Select button, and it will be transmitted to the BallBOPPer and begin running.
 
 Use the NEXT button to move to the first section of the App Reference.
 
