@@ -19,7 +19,7 @@ The Path screen shows the plan view of a tennis court with the BallBOPPer (large
 
 ## Height-Spin
 
-The Height and Spin page lets you specify the Height that the ball will travel above the net, and the Spin Level and Spin Angle. 
+The Height and Spin page lets you specify: the Height that the ball will travel above the net, and the Spin Level and Spin Angle. 
 
 Height can be set to Low Margin, Good Margin, High Margin, Lob and Moonball. Spin Level can be Flat, Light, Moderate, Heavy and Max. Spin Angle can be set every 45 degrees from Top Spin to Back Spin and back.
 
@@ -27,7 +27,7 @@ Height can be set to Low Margin, Good Margin, High Margin, Lob and Moonball. Spi
 
 ## Predictability
 
-The Predictability tab provides two important ways you can make your pattern less predicatable. Both of these are more advanced and are demonstrated in detail in the Demo Video that is coming in Spring of 2022.
+The Predictability tab provides two important ways you can make your patterns less predictable. The Alternate Shots lets you set three different shots for a single shot. The system will pick one of the three Alternates at launch time based on the probabilies you set. The Repeated Shot feature lets you repeat a shot an indeterminant number of times. Both of these are more advanced and will be demonstrated in detail in the Demo Video that is coming in Spring of 2022.
 
 ![Playlist Image](../assets/images/ShotPredictability.jpg){: width="300" .align-center }
 
