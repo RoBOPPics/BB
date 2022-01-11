@@ -10,6 +10,12 @@ sidebar:
 
 ## Path
 
+![Playlist Image](../assets/images/ShotPath.jpg){: width="300" .align-center }
+
 ## Height-Spin
 
+![Playlist Image](../assets/images/ShotHeightSpin.jpg){: width="300" .align-center }
+
 ## Predictability
+
+![Playlist Image](../assets/images/ShotPredictability.jpg){: width="300" .align-center }
