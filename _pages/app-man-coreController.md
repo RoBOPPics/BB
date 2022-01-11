@@ -47,4 +47,8 @@ sidebar:
   <nav class="pagination">
       <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Upgrading
 ">Previous</a>
+        <a class="pagination--pager disabled" title="Overriding Theme Defaults
+">Next</a> 
   </nav>
+  
+
