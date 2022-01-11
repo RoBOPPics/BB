@@ -50,7 +50,7 @@ With the Location Service turned off, you will need to manually position and poi
 
   <nav class="pagination">
       <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Shot Designer">Previous</a>
-        <a class="pagination--pager disabled">Next</a> 
+        <a class="pagination--pager disabled">END</a> 
   </nav>
   
 
