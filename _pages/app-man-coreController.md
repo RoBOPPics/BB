@@ -10,7 +10,11 @@ sidebar:
 
 ## Controller
 
-The Core Controller provides controls for the physical robot. The eight buttons at the top mirror the physical buttons on the BallBOPPer robot. Stop, Pause, Play are Self Explanatory. Select is for selcting the Drill or Pattern you wish to play. Reboot will reboot the BallBOPPer computer. Reload will start the Auto Reloader. Delay will delay the beginning of the running of a Drill or Pattern by 15 seconds each time it is pressed. Locate is used for calibrating the Location system before beginning a training session on a new court.
+The Core Controller provides controls for the physical robot. 
+
+When you press SELECT on any of the Patterns in a Pattern Library, the Pattern is transmitted to the Robot, and the Controller pops up automatically in the App. Press PLAY and the robot will begin running the Pattern. 
+
+The eight buttons at the top or the Controller mirror the physical buttons on the BallBOPPer robot. Stop, Pause, Play are Self Explanatory. Select is for selcting the Drill or Pattern you wish to play. Reboot will reboot the BallBOPPer computer. Reload will start the Auto Reloader. Delay will delay the beginning of the running of a Drill or Pattern by 15 seconds each time it is pressed. Locate is used for calibrating the Location system before beginning a training session on a new court.
 
 ![Playlist Image](../assets/images/Controller.jpg){: width="300" .align-center }
 
