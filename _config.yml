@@ -11,7 +11,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
 search: true
-breadcrumbs: true
+# breadcrumbs: true
 atom_feed:
   hide: true
 
