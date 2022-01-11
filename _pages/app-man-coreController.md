@@ -24,21 +24,21 @@ The eight buttons at the top or the Controller mirror the physical buttons on th
 
 The voice controller can be used with any sweatproof bluetooth headset. 
 
-It offers many of the same functions as the buttons, but you will find it much easier to run a training session without holding your smartphone in one hand.
+It offers many of the same functions as the Core Controller, but you will find it much easier to run a training session without holding your smartphone in one hand.
 
 ![Playlist Image](../assets/images/VoiceController.jpg){: width="300" .align-center }
 
 ### Rover Manual Controller
 
-The Rover Manual Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. Press the spot where you want it to move to, and it will travel that spot and wait.
+The Rover Manual Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. Press the spot where you want the BallBOPPer to move to, and it will travel to that spot, shutdown and wait.
 
 ![Playlist Image](../assets/images/RoverController.jpg){: width="300" .align-center }
 
 ## Correct-Drift
 
-The Correct Drift page is specifically for correcting for windy or other conditions that are preventing the launched balls from hitting their spots. 
+The Correct Drift page is specifically for correcting for windy, or other conditions, that are preventing the launched balls from hitting their spots. 
 
-You can add or subtract distance, adjust the shots left or right, and make them higher or lower. These settings are temporary and revert to the default settings when you turn the BallBOPPer off.
+You can add or subtract distance, adjust the shots left or right, and elevate them higher or lower. These settings are temporary and revert to the default settings when you turn the BallBOPPer off.
 
 ![Playlist Image](../assets/images/CorrectDrift.jpg){: width="300" .align-center }
 
