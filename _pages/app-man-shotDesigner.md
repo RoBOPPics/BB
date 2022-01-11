@@ -27,7 +27,7 @@ Height can be set to Low Margin, Good Margin, High Margin, Lob and Moonball. Spi
 
 ## Predictability
 
-The Predictability tab provides two important ways you can make your pattern less predicatable. Both of these are more advanced and are illustrated in the Tutorial section and shown in the Demo Video that is coming in Spring of 2022.
+The Predictability tab provides two important ways you can make your pattern less predicatable. Both of these are more advanced and are demonstrated in detail in the Demo Video that is coming in Spring of 2022.
 
 ![Playlist Image](../assets/images/ShotPredictability.jpg){: width="300" .align-center }
 
