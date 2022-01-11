@@ -39,6 +39,8 @@ sidebar:
 ![Playlist Image](../assets/images/RoverController.jpg){: width="300" .align-center }
 
 ## Correct-Drift
+![Playlist Image](../assets/images/CorrectDrift.jpg){: width="300" .align-center }
 
 ## Settings
+![Playlist Image](../assets/images/ControllerSettings.jpg){: width="300" .align-center }
 
