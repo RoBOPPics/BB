@@ -20,13 +20,6 @@ Drills tend to be very predictable, and are for practicing particular skills in 
 
 Patterns of Play are for practicing tactics and strategy. They are based on different playing styles, and are less predictable, since a big part of match play is being prepared for the unexpected.
 
-![image](https://user-images.githubusercontent.com/42704355/148958413-94acb632-9d56-4d5c-9209-9dcb8cb97b75.png)
-
- 
-
-![image](https://user-images.githubusercontent.com/42704355/148958663-56cffed5-99c4-4c4c-a75e-3def9b7acb18.png)
-
-
 ![Catalog Image](../assets/images/PatternLibrariesCatalog.png){: width="300" .align-center } 
 
 ## Custom
