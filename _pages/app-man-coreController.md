@@ -18,7 +18,9 @@ The Core Controller provides controls for the physical robot. The eight buttons 
 
 ### Voice Controller using Headset
 
-The voice controller can be used with any sweatproof bluetooth headset. It has many of the same functions as the buttons, but it is much easier to run a training session without holding your smartphone in one hand.
+The voice controller can be used with any sweatproof bluetooth headset. 
+
+It offers many of the same functions as the buttons, but you will find it much easier to run a training session without holding your smartphone in one hand.
 
 ![Playlist Image](../assets/images/VoiceController.jpg){: width="300" .align-center }
 
