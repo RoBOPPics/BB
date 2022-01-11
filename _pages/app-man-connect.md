@@ -26,7 +26,7 @@ This allows you to create and edit your Drills, Patterns and Playlists from wher
 ## Log In and Connect
 "Log in and Connect" is for when you are on-court and ready to play.
 
-You will need your Plary Name and Password, along with the name of your BallBOPPer and the Key for your BallBOPPer.
+You will need your Player Name and Password, along with the name of your BallBOPPer and the Key for your BallBOPPer.
 
 The name and Key of your BallBOPPer are packaged with your BallBOPPer.
 
