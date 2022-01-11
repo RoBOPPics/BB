@@ -17,9 +17,7 @@ The information flow using the BallBOPPer App is illustrated below.
 
 The Pattern Libraries hold all of your "ready to run" Drills and Patterns. 
 
-If you tap on a Drill or Pattern in a Pattern Library it opens in the Pattern Designer. 
-
-In the Pattern Designer you can see the flow of the shots and the configuration of each shot. 
+If you tap on a Drill or Pattern in a Pattern Library it opens in the Pattern Designer. In the Pattern Designer you can see the flow of the shots and the configuration of each shot. 
 
 If you tap on a Shot within the Pattern Designer, it will open in the Shot Designer. In the Shot Designer you can see the path, height, spin and predictability of each shot.
 
