@@ -34,9 +34,9 @@ Reload will start the Ball Reloading system. Delay will delay the beginning of t
 
 ### Voice Controller using Headset
 
-The voice controller can be used with any sweatproof bluetooth headset. 
+The voice controller can be used with any sweatproof bluetooth headset that can be paired with your phone. 
 
-It offers many of the same functions as the Core Controller, but you will find it much easier to run a training session without holding your smartphone in one hand.
+It offers many of the same functions as the Core Controller, but you will find it much easier to run a training session without holding your smartphone in one hand. The App must still be running on your smart phone, but it can be safely on the sideline rather than on your person.
 
 ![Playlist Image](../assets/images/VoiceController.jpg){: width="300" .align-center }
 
