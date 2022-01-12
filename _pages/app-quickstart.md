@@ -1,6 +1,6 @@
 ---
-permalink: /appquickstart/
-title: "App Quickstart"
+permalink: /quickstartIntro/
+title: "Quickstart"
 sidebar:
   nav: "docs"
 ---
