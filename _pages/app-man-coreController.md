@@ -26,9 +26,23 @@ Select is for selecting the Drill or Pattern you wish to play. Pressing Select i
 
 When you press the Select button on the robot, you can cycle through and select, using the buttons and display on the robot, from the Drills and Patterns that you have previously played on the robot. This makes it possible to play Drills and Patterns, those that you have previously played on the robot, when on-court without a smartphone or tablet (see the Robot Manual for more details). 
 
-Reload will start the Ball Reloading system. Delay will delay the beginning of the playing of a Drill or Pattern by 15 seconds each time it is pressed. Locate is used for calibrating the Location system before beginning a training session on an unfamiliar court.
+Delay will delay the beginning of the playing of a Drill or Pattern by 15 seconds each time it is pressed. Locate is used for calibrating the Location system before beginning a training session on an unfamiliar court.
 
-![Playlist Image](../assets/images/Controller.jpg){: width="300" .align-center }
+Pressing Reload will present you with three ball reloading options (explained below the following image).
+
+![Controller Image](../assets/images/Controller.jpg){: width="300" .align-center }
+
+The image below shows the three options for the Ball Reloader: Zone Control Sweep, Back Court Sweep and Ball Search Sweep.
+
+The Zone Control Sweep option gives you manual control over the ball reloading process. When you choose this option, you are presented with the Rover Zone Controller. You use the Zone Controller to send the BallBOPPer to a particular Zone on the court, and it will reload all of the balls it finds there. You can continue to send the BallBOPPer to the zones that contain balls until they are all collected.
+
+With the Back Court Sweep option, the BallBOPPer will sweep the entire area behind the baseline of its side of the court collecting all the balls it finds there. 
+
+With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras to locate concentrations of balls and plan and execute it's own reloading process.
+
+Note that the robot will only travel around it's side of the court.
+
+![Reloader Image](../assets/images/ReloaderOptions.jpg){: width="300" .align-center }
 
 ## Alternate Controllers
 
@@ -47,8 +61,6 @@ The Rover Zone Controller is a positional controller that gives you the ability 
 Press the spot where you want the BallBOPPer to move to, and the BallBOPPer will travel to that spot, shutdown and wait.
 
 ![Playlist Image](../assets/images/RoverController.jpg){: width="300" .align-center }
-
-Note that when the Ball Reloader is engaged, the Rover Zone Controller functions a little differently. When the Reloader is running in "Manual Reloading Mode", you use the Zone Controller to send the BallBOPPer to a particular Zone on the court, and it will reload all of the balls it finds there. 
 
 ## Correct-Drift
 
