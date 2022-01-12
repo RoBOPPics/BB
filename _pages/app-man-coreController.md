@@ -36,11 +36,11 @@ Pressing Reload will present you with three ball reloading options: Zone Control
 
 The Zone Control Sweep option gives you manual control over the ball reloading process. When you choose this option, you are presented with the Rover Zone Controller. You use the Zone Controller to send the BallBOPPer to a particular Zone on the court, and it will reload all of the balls it finds there. You can continue to send the BallBOPPer to the zones that contain balls until they are all collected.
 
-With the Back Court Sweep option, the BallBOPPer will sweep the entire area behind the baseline of its side of the court collecting all the balls it finds there. 
+With the Back Court Sweep option, the BallBOPPer will sweep the entire area behind the baseline of its side of the court, collecting all of the balls it finds there. 
 
 With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras to locate concentrations of balls and plan and execute it's own reloading process.
 
-Note that the robot will only reload balls found on it's side of the court. 
+Note that you can switch between these three methods as needed, to expedite the reloading of the balls. Also note that the robot will only reload the balls that are found on it's side of the court. See the Robot Manual for best practices when using the Reloading function.
 
 ## Alternate Controllers
 
