@@ -20,14 +20,22 @@
  robotman:
    - title: Introduction
      url: /robotmanintro/
+     
+ tutorial:
+   - title: Introduction
+     url: /tutorialIntro/
+     
+ quickstart:
+   - title: Introduction
+     url: /quickstartIntro/
       
  main:
- # - title: "App Quickstart"
- #   url: /appquickstart/
+  - title: "App Quickstart"
+    url: /appquickstartIntro/
   - title: "App Reference"
     url: /appmanintro/
-#  - title: "App Tutorial"
-#    url: /apptutorial/
+  - title: "App Tutorial"
+    url: /apptutorialIntro/
   - title: "Robot Manual"
     url: /robotmanintro/
  # - title: "Discussion"
