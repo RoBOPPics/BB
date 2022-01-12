@@ -61,12 +61,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/roboppics"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/roboppics"
-     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/company/roboppics/"
+   # - label: "Facebook"
+   #   icon: "fab fa-fw fa-facebook"
+   #   url: "https://www.facebook.com/roboppics"
+   #  - label: "LinkedIn"
+   #   icon: "fab fa-fw fa-linkedin"
+   #   url: "https://www.linkedin.com/company/roboppics/"
 
 defaults:
   # _docs
