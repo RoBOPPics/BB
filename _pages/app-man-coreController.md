@@ -58,7 +58,7 @@ It offers many of the same functions as the Core Controller, but you will find i
 
 The Rover Zone Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. 
 
-Press the spot where you want the BallBOPPer to move to, and the BallBOPPer will travel to that spot, shutdown and wait.
+Press the spot where you want the BallBOPPer to move to, and the BallBOPPer will travel to that spot, shutdown and wait. If you are using the Zone Controller in the context of the Zone Controller Sweep function, as explained above, then the robot will reload all of the balls it finds in the destination zone, and then wait to be sent to a different zone to repeat the ball reloading process.
 
 ![Playlist Image](../assets/images/RoverController.jpg){: width="300" .align-center }
 
