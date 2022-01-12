@@ -15,3 +15,4 @@ The documentation for the BallBOPPer App and the BallBOPPer Robot are currently 
       <a  class="pagination--pager disabled">The Beginning</a>
       <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Connect">Next</a> 
   </nav>
+ 
