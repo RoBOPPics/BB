@@ -36,7 +36,7 @@ The Rover Manual Controller is a positional controller that gives you the abilit
 
 ## Correct-Drift
 
-The Correct Drift page is specifically for correcting for windy, or other conditions, that are preventing the launched balls from hitting their spots. 
+The Correct Drift page is specifically for correcting for windy, or other conditions, that are preventing the launched balls from bouncing on their spots. 
 
 You can add or subtract distance, adjust the shots left or right, and elevate them higher or lower. These settings are temporary and revert to the default settings when you turn the BallBOPPer off.
 
