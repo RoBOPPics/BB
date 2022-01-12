@@ -42,7 +42,9 @@ It offers many of the same functions as the Core Controller, but you will find i
 
 ### Rover Manual Controller
 
-The Rover Manual Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. Press the spot where you want the BallBOPPer to move to, and it will travel to that spot, shutdown and wait.
+The Rover Manual Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. 
+
+Press the spot where you want the BallBOPPer to move to, and the BallBOPPer will travel to that spot, shutdown and wait.
 
 ![Playlist Image](../assets/images/RoverController.jpg){: width="300" .align-center }
 
