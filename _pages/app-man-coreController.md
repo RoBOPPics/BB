@@ -14,6 +14,8 @@ The Core Controller gives you direct control over the BallBOPPer robot.
 
 When you press SELECT on any of the Patterns in a Pattern Library, the Pattern is transmitted to the robot, and the Controller pops up automatically in the App. Press PLAY and the robot will begin playing the Pattern. 
 
+![Controller Image](../assets/images/Controller.jpg){: width="300" .align-center }
+
 The eight buttons at the top of the Controller mirror the functions of the four physical buttons on the BallBOPPer robot.
 
 The top row of buttons in the App: Stop, Pause, Play and Select; are the functions when you press the physical buttons on the robot.
@@ -28,19 +30,15 @@ When you press the Select button on the robot, you can cycle through and select,
 
 Delay will delay the beginning of the playing of a Drill or Pattern by 15 seconds each time it is pressed. Locate is used for calibrating the Location system before beginning a training session on an unfamiliar court.
 
-Pressing Reload will present you with three ball reloading options (explained below the following image).
+Pressing Reload will present you with three ball reloading options: Zone Control Sweep, Back Court Sweep and Ball Search Sweep.
 
-![Controller Image](../assets/images/Controller.jpg){: width="300" .align-center }
-
-The image below shows the three options for the Ball Reloader: Zone Control Sweep, Back Court Sweep and Ball Search Sweep.
+![Reloader Image](../assets/images/ReloaderOptions.jpg){: width="300" .align-center }
 
 The Zone Control Sweep option gives you manual control over the ball reloading process. When you choose this option, you are presented with the Rover Zone Controller. You use the Zone Controller to send the BallBOPPer to a particular Zone on the court, and it will reload all of the balls it finds there. You can continue to send the BallBOPPer to the zones that contain balls until they are all collected.
 
 With the Back Court Sweep option, the BallBOPPer will sweep the entire area behind the baseline of its side of the court collecting all the balls it finds there. 
 
 With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras to locate concentrations of balls and plan and execute it's own reloading process.
-
-![Reloader Image](../assets/images/ReloaderOptions.jpg){: width="300" .align-center }
 
 Note that the robot will only reload balls found on it's side of the court. 
 
