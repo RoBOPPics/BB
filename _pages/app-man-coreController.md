@@ -48,7 +48,9 @@ Note that you can switch between these three methods as needed, to expedite the 
 
 The voice controller can be used with any sweatproof bluetooth headset that can be paired with your phone. 
 
-It offers many of the same functions as the Core Controller, but you will find it much easier to run a training session without holding your smartphone in one hand. The App must still be running on your smart phone, but it can be safely on the sideline rather than on your person.
+It offers many of the same functions as the Core Controller, but you will find it much easier to run a training session without holding your smartphone in one hand. 
+
+Your smart phone or tablet must still be present and running the App, but it can be safely left on the sideline in your bag or on the bench.
 
 ![Playlist Image](../assets/images/VoiceController.jpg){: width="300" .align-center }
 
