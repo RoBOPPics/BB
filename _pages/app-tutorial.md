@@ -1,5 +1,5 @@
 ---
-permalink: /apptutorial/
+permalink: /tutorialIntro/
 title: "App Tutorial"
 sidebar:
   nav: "docs"
