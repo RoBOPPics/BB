@@ -31,11 +31,11 @@
       
  main:
   - title: "App Quickstart"
-    url: /appquickstartIntro/
+    url: /quickstartIntro/
   - title: "App Reference"
     url: /appmanintro/
   - title: "App Tutorial"
-    url: /apptutorialIntro/
+    url: /tutorialIntro/
   - title: "Robot Manual"
     url: /robotmanintro/
  # - title: "Discussion"
