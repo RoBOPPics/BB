@@ -30,12 +30,12 @@
      url: /quickstartIntro/
       
  main:
-  - title: "App Quickstart"
-    url: /quickstartIntro/
+#  - title: "App Quickstart"
+#    url: /quickstartIntro/
   - title: "App Reference"
     url: /appmanintro/
-  - title: "App Tutorial"
-    url: /tutorialIntro/
+#  - title: "App Tutorial"
+#    url: /tutorialIntro/
   - title: "Robot Manual"
     url: /robotmanintro/
  # - title: "Discussion"
