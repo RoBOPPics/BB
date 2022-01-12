@@ -40,9 +40,9 @@ With the Back Court Sweep option, the BallBOPPer will sweep the entire area behi
 
 With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras to locate concentrations of balls and plan and execute it's own reloading process.
 
-Note that the robot will only travel around it's side of the court.
-
 ![Reloader Image](../assets/images/ReloaderOptions.jpg){: width="300" .align-center }
+
+Note that the robot will only reload balls found on it's side of the court. 
 
 ## Alternate Controllers
 
