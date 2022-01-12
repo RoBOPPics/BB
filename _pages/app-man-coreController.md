@@ -40,13 +40,15 @@ It offers many of the same functions as the Core Controller, but you will find i
 
 ![Playlist Image](../assets/images/VoiceController.jpg){: width="300" .align-center }
 
-### Rover Manual Controller
+### Rover Zone Controller
 
-The Rover Manual Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. 
+The Rover Zone Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. 
 
 Press the spot where you want the BallBOPPer to move to, and the BallBOPPer will travel to that spot, shutdown and wait.
 
 ![Playlist Image](../assets/images/RoverController.jpg){: width="300" .align-center }
+
+Note that when the Ball Reloader is engaged, the Rover Zone Controller functions a little differently. When the Reloader is running in "Manual Reloading Mode", you use the Zone Controller to send the BallBOPPer to a particular Zone on the court, and it will reload all of the balls it finds there. 
 
 ## Correct-Drift
 
