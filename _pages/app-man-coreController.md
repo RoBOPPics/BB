@@ -18,17 +18,17 @@ When you press SELECT on any of the Patterns in a Pattern Library, the Pattern i
 
 The eight buttons at the top of the Controller mirror the functions of the four physical buttons on the BallBOPPer robot.
 
-The top row of buttons in the App: Stop, Pause, Play and Select; are the functions when you press the physical buttons on the robot.
+The top row of buttons in the App: Stop, Pause, Play and Select; are the same as when you press the identical physical buttons on the robot.
 
-The second row of buttons in the App: Reboot, Reload, Delay and Locate; are the functions when you press and hold for three seconds the physical buttons on the robot.
+The second row of buttons in the App: Reboot, Reload, Delay and Locate; are the same as the physical buttons on the robot when you press and hold the button for three seconds.
 
 Reboot will reboot the BallBOPPer's onboard computer. 
 
-Select is for selecting the Drill or Pattern you wish to play. Pressing Select in the App sends you back to the Pattern Libraries where you can select from all of the possibilities in the libraries. 
+Select is for selecting the Drill or Pattern you wish to play. Pressing Select in the App sends you back to the Pattern Libraries where you can select from all of the possibilities in the libraries. When you press the Select button on the robot, you can cycle through and select, using the buttons and display on the robot, from the Drills and Patterns that you have previously played on the robot. This makes it possible to play Drills and Patterns, those that you have previously played on the robot, when on-court without a smartphone or tablet (see the Robot Manual for more details). 
 
-When you press the Select button on the robot, you can cycle through and select, using the buttons and display on the robot, from the Drills and Patterns that you have previously played on the robot. This makes it possible to play Drills and Patterns, those that you have previously played on the robot, when on-court without a smartphone or tablet (see the Robot Manual for more details). 
+Delay will delay the beginning of the playing of a Drill or Pattern by 15 seconds each time it is pressed. Press twice for a 30 second delay, three times for 45 seconds, etc. 
 
-Delay will delay the beginning of the playing of a Drill or Pattern by 15 seconds each time it is pressed. Locate is used for calibrating the Location system before beginning a training session on an unfamiliar court.
+Locate is used for calibrating the Location system before beginning a training session on an unfamiliar court.
 
 Pressing Reload will present you with three ball reloading options: Zone Control Sweep, Back Court Sweep and Ball Search Sweep.
 
