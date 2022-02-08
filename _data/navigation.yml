@@ -21,6 +21,10 @@
    - title: Introduction
      url: /robotmanintro/
      
+ termsofuse:
+   - title: "Terms of Use"
+     url: /termsOfUse/
+     
  tutorial:
    - title: Introduction
      url: /tutorialIntro/
