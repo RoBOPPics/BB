@@ -7,3 +7,5 @@ toc_label: "termsofuse"
 sidebar:
   nav: "termsofuse"
 ---
+
+This page is under development. Please checkback later.
