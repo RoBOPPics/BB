@@ -5,5 +5,5 @@ toc: true
 toc_sticky: true
 toc_label: "termsofuse"
 sidebar:
-  nav: "termsOfUse"
+  nav: "termsofuse"
 ---
