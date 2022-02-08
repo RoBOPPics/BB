@@ -34,11 +34,11 @@
 #    url: /quickstartIntro/
   - title: "App Reference"
     url: /appmanintro/
-#  - title: "App Tutorial"
-#    url: /tutorialIntro/
   - title: "Robot Manual"
     url: /robotmanintro/
- # - title: "Discussion"
- #   url: https://github.com/RoBOPPics/BallBOPPer/discussions
+  - title: "Terms of Use"
+#   url: /termsOfUse/
+  - title: "Discussion"
+    url: https://discord.gg/ZqzEeD4CGd
   - title: "Roboppics"
     url: https://roboppics.com
