@@ -25,6 +25,9 @@
    - title: "Terms of Use"
      url: /termsOfUse/
      
+   - title: "Privacy Policy"
+     url: /privacyPolicy/
+     
  tutorial:
    - title: Introduction
      url: /tutorialIntro/
