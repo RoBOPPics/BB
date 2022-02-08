@@ -8,4 +8,4 @@ sidebar:
   nav: "termsofuse"
 ---
 
-This page is under development. Please checkback later.
+This page is under development. Please check back later.
