@@ -20,11 +20,9 @@ After checking the box and clicking OK, you will be forwarded to the login page.
 If this is your first time logging in, you will need to setup your account. Click on "Sign up now".
 
 ## Login
-"Log in and Connect" is for when you are on-court and ready to play.
+If you already have an account, enter your email address and password.
 
-You will need your Email address and Password.
-
-After logging in the first time, your credentials will be remembered by the App. The only time you will ever need to reenter it again is when you change phones, or reinstall the App.
+After logging in the first time, your credentials will be remembered by the App for up to 90 days.
 
   <nav class="pagination">
       <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Introduction">Previous</a>
