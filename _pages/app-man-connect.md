@@ -10,11 +10,11 @@ sidebar:
 
 When you first launch the BallBOPPer, you will see the alert shown below indicating that you are not currently connected to your BallBOPPer.
 
-![Connect Alert Image](../assets/images/ConnectAlert500.png){: width="300" .align-center } 
+![Connect Alert Image](../assets/images/Login500.jpg){: width="300" .align-center } 
 
 After clicking OK, you have two options: Log In Only, and Log In and Connect.
 
-![Connect Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
+![Connect Image](../assets/images/Login500.jpg){: width="300" .align-center } 
 
 ## Log In Only
 If you have not created a Player Name and Password, then you will now be prompted to create one. Once you have these, you can use the "Log in Only" functionality.
