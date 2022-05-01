@@ -8,11 +8,11 @@ sidebar:
   nav: "appman"
 ---
 
-When you first launch the BallBOPPer, you will see the alert shown below indicating that you are not currently connected to your BallBOPPer.
+When you first launch the BallBOPPer, you will see the following screen.
 
 ![Connect Alert Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
 
-After clicking OK, you have two options: Log In Only, and Log In and Connect.
+After checking the box and clicking OK, you will be forwarded to the login page.
 
 ![Connect Image](../assets/images/Login500.jpg){: width="300" .align-center } 
 
