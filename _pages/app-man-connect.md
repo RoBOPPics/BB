@@ -12,12 +12,18 @@ When you first launch the BallBOPPer, you will see the following screen.
 
 ![Connect Alert Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
 
-After checking the box and clicking OK, you will be forwarded to the login page.
+Clicking on the Privacy Policy, and Terms and Conditions buttons will take you to these documents so that you can read them.
+
+Checking the box will indicate your agreement to them, and will light up the Login button.
+
+Clicking on the Login button will take you to the login page.
 
 ![Connect Image](../assets/images/Login500.jpg){: width="300" .align-center } 
 
 ## Sign up now
-If this is your first time logging in, you will need to setup your account. Click on "Sign up now".
+If this is your first time logging in, you will need to setup your account. 
+
+Click on "Sign up now".
 
 ## Login
 If you already have an account, enter your email address and password.
