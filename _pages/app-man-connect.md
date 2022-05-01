@@ -10,7 +10,7 @@ sidebar:
 
 When you first launch the BallBOPPer, you will see the alert shown below indicating that you are not currently connected to your BallBOPPer.
 
-![Connect Alert Image](../assets/images/Login500.jpg){: width="300" .align-center } 
+![Connect Alert Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
 
 After clicking OK, you have two options: Log In Only, and Log In and Connect.
 
