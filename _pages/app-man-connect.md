@@ -16,21 +16,15 @@ After checking the box and clicking OK, you will be forwarded to the login page.
 
 ![Connect Image](../assets/images/Login500.jpg){: width="300" .align-center } 
 
-## Log In Only
-If you have not created a Player Name and Password, then you will now be prompted to create one. Once you have these, you can use the "Log in Only" functionality.
+## Sign up now
+If this is your first time logging in, you will need to setup your account. Click on "Sign up now".
 
-"Log in Only" lets you log in, using your Player Name and Password, without connecting to a BallBOPPer.
-
-This allows you to create and edit your Drills, Patterns and Playlists from wherever you want: at home, on the train, or during a break at work.
-
-## Log In and Connect
+## Login
 "Log in and Connect" is for when you are on-court and ready to play.
 
-You will need your Player Name and Password, along with the name of your BallBOPPer and the Key for your BallBOPPer.
+You will need your Email address and Password.
 
-The name and Key of your BallBOPPer are packaged with your BallBOPPer.
-
-After you enter your Player Name, Password, BallBOPPer Name and Key, it will be remembered by the App. The only time you will ever need to reenter it again is when you change phones, or reinstall the App.
+After logging in the first time, your credentials will be remembered by the App. The only time you will ever need to reenter it again is when you change phones, or reinstall the App.
 
   <nav class="pagination">
       <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Introduction">Previous</a>
