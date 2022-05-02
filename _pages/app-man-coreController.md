@@ -8,11 +8,11 @@ sidebar:
   nav: "appman"
 ---
 
-## Controller
+## Core Controller
 
 The Core Controller gives you direct control over the BallBOPPer robot. 
 
-When you press SELECT on any of the Patterns in a Pattern Library, the Pattern is transmitted to the robot, and the Controller pops up automatically in the App. Press PLAY and the robot will begin playing the Pattern. 
+When you press Play this Pattern in a Patterns kabob menu, the Pattern is transmitted to the robot, and the Controller pops up automatically in the App. Press PLAY and the robot will begin playing the Pattern. 
 
 ![Controller Image](../assets/images/CoreController500.jpg){: width="300" .align-center }
 
@@ -42,35 +42,17 @@ With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras 
 
 Note that you can switch between these three methods as needed, to expedite the reloading of the balls. Also note that the robot will only reload the balls that are found on it's side of the court. See the Robot Manual for best practices when using the Reloading function.
 
-## Alternate Controllers
-
-### Voice Controller using Headset
-
-The voice controller can be used with any sweatproof bluetooth headset that can be paired with your phone. 
-
-It offers many of the same functions as the Core Controller, but you will find it much easier to run a training session without holding your smartphone in one hand. 
-
-Your smart phone or tablet must still be present and running the App, but it can be safely left on the sideline in your bag or on the bench.
-
-![Playlist Image](../assets/images/VoiceController.jpg){: width="300" .align-center }
+## Rover
 
 ### Rover Zone Controller
 
 The Rover Zone Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. 
 
-![Playlist Image](../assets/images/RoverController.jpg){: width="300" .align-center }
+![Playlist Image](../assets/images/RoverController500.jpg){: width="300" .align-center }
 
 Press the spot where you want the BallBOPPer to move to, and the BallBOPPer will travel to that spot, shutdown and wait. 
 
 If you are using the Zone Controller in the context of the Zone Controller Sweep function, as explained above, then the robot will reload all of the balls it finds in the destination zone, and then wait to be sent to a different zone to repeat the ball reloading process.
-
-## Correct-Drift
-
-The Correct Drift page is specifically for correcting for windy, or other conditions, that are preventing the launched balls from bouncing on their spots. 
-
-You can add or subtract distance, adjust the shots left or right, and elevate them higher or lower. These settings are temporary and revert to the default settings when you turn the BallBOPPer off.
-
-![Playlist Image](../assets/images/CorrectDrift.jpg){: width="300" .align-center }
 
 ## Settings
 
@@ -78,13 +60,18 @@ The three Settings on this page allow you to turn the Location, Rover and Reload
 
 You may wish to not use the Rover and Reloader for various reasons, and you can therefore turn them off. 
 
+![Playlist Image](../assets/images/ControllerSettings500.jpg){: width="300" .align-center }
+
 If you are using the BallBOPPer in a location that is not a tennis court, such as your driveway or backyard, then the BallBOPPer will not be able to determine its location and will indicate an ERROR. 
 
 The only way the BallBOPPer will operate when not on a tennis court is with the Location service turned Off. Also note that when you turn the Location service Off, it also turns Off the Rover and Reloader services. None of these three services will operate if you are not on a tennis court. 
 
 With the Location Service turned Off, you will need to manually position and point the Robot in the correct direction. You may also need to adjust the Launch and Bounce points in your patterns according to the space that is available. 
 
-![Playlist Image](../assets/images/ControllerSettings.png){: width="300" .align-center }
+The Correct Drift settings is specifically for correcting for windy, or other conditions, that are preventing the launched balls from bouncing on their spots. 
+
+You can add or subtract distance, adjust the shots left or right, and elevate them higher or lower. These settings are temporary and revert to the default settings when you turn the BallBOPPer off.
+
 
   <nav class="pagination">
       <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Shot Designer">Previous</a>
