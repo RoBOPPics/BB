@@ -7,9 +7,9 @@ toc_label: "Contents"
 sidebar:
   nav: "appman"
 ---
+The Catalog contains additional Patterns and Playlists that you can download.
 
-
-This is the catalog page
+You can also contribute your own Patterns and Playlists to the Catalog.
 
   <nav class="pagination">
       <a href="/BallBOPPer/community/" class="pagination--pager" title="Community">Previous</a>
