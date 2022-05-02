@@ -9,12 +9,14 @@ sidebar:
 ---
 The main screen of the BallBOPPer App is the Pattern Libraries page.
 
-This page has three tabs across the top: Catalog, Custom and Playlist. You can tap each of these tabs to navigate to that page, or you can swipe left and right to navigate between them.
+This page has three tabs across the top: Pattern Library, Selected Playlist and Playlist Library. You can tap each of these tabs to navigate to that page, or you can swipe left and right to navigate between them.
 
-![Catalog Image](../assets/images/Catalog.jpg){: width="300" .align-center } 
+![Catalog Image](../assets/images/Libraries500.jpg){: width="300" .align-center } 
 
-## Catalog
-The Catalog lists the Drills and Patterns which come with the BallBOPPer out of the box. These Drills and Patterns cannot be edited in the Catalog library, but they can be copied into the Custom and Playlist libraries where they can be edited.
+## Pattern Library
+The Pattern Library lists the Drills and Patterns that you have created, or that you have downloaded from the Community Catalog. 
+
+To play a Pattern using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Play this Pattern".
 
 Patterns fall into two general types: Drills and “Patterns of Play”.
 
@@ -22,19 +24,21 @@ Drills tend to be very predictable, and are for practicing particular skills in 
 
 Patterns of Play are for practicing tactics and strategy. They are based on different playing styles, and are less predictable, since a big part of match play is being prepared for the unexpected.
 
-The Drills and Patterns listed in the Catalog will change over time as users create and submit their own Drills and Patterns for inclusion. This is accomplished by copying a Drill or Pattern that you have created in the Custom library, into the Catalog library. If approved for inclusion in the Catalog, the Drill or Pattern will then appear in the Catalog for all BallBOPPer users.
+All Patterns in the Pattern Library are editable. You cannot edit the attribution field for Patterns that have been downloaded from the Community Catalog, but everything else in these Patterns can be edited to suit your preferences.
 
-## Custom
-The Custom library is for creating your own custom Drills and Patterns. Type the name for your new pattern in the box at the top, hit enter, and you will then be in the Pattern Designer where you can add and configure each Shot.
+## Selected Playlist
+The Selected Playlist is for viewing and editing a Playlist including the individual Patterns in that Playlist. To appear in the Selected Playlist tab, you must first go to the Playlist Library, and tap on the Playlist you wish to view or edit.
 
-![Custom Image](../assets/images/Custom.jpg){: width="300" .align-center } 
+To play the Selected Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Play this Playlist".
 
-## Playlist
-The Playlist is a list of your favorite Drills and Patterns arranged in the order in which you want to play them.
+![Custom Image](../assets/images/SelectedPlaylist500.jpg){: width="300" .align-center } 
 
-Tapping on "Select Playlist" will transmit the Playlist to the BallBOPPer, and the Robot will then play through your Playlist from first to last.
+## Playlist Library
+The Playlist Library lists all of the Playlists that you have either created or downloaded from the Community Catalog.
 
-![Playlist Image](../assets/images/Playlist.jpg){: width="300" .align-center } 
+To play the Selected Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Play this Playlist".
+
+![Playlist Image](../assets/images/Playlists500.jpg){: width="300" .align-center } 
 
   <nav class="pagination">
       <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Connect">Previous</a>
