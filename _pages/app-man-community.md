@@ -10,7 +10,7 @@ sidebar:
 
 The community page
 
-![Community Image](../assets/images/Community500.jpg){: width="300" .align-center } 
+![Community Image](../assets/images/PlayerCommunity500.jpg){: width="300" .align-center } 
 
   <nav class="pagination">
       <a href="/BallBOPPer/coreController/" class="pagination--pager" title="Core Controller">Previous</a>
