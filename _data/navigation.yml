@@ -2,7 +2,7 @@
   - title: Introduction
     url: /appmanintro/
 
-  - title: Connect
+  - title: Login
     url: /appmanconnect/
 
   - title: "Pattern Libraries"
@@ -16,6 +16,12 @@
     
   - title: "Core Controller"
     url: /coreController/
+    
+  - title: "Community"
+    url: /community/
+    
+   - title: "Catalog"
+    url: /catalog/
       
  robotman:
    - title: Introduction
@@ -43,9 +49,11 @@
     url: /appmanintro/
   - title: "Robot Manual"
     url: /robotmanintro/
-  - title: "Terms of Use"
-    url: /termsOfUse/
-  - title: "Community"
+  - title: "Privacy Policy"
+    url: https://www.iubenda.com/privacy-policy/20046408
+  - title: "Terms and Conditions"
+    url: https://www.iubenda.com/terms-and-conditions/20046408
+  - title: "Q & A"
     url: https://discord.gg/ZqzEeD4CGd
   - title: "Roboppics Site"
     url: https://roboppics.com
