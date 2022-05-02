@@ -1,5 +1,5 @@
 ---
-permalink: /appmancommunity/
+permalink: /community/
 title: "Community"
 toc: true
 toc_sticky: true
