@@ -49,10 +49,8 @@
     url: /appmanintro/
   - title: "Robot Manual"
     url: /robotmanintro/
-  - title: "Privacy Policy"
-    url: https://www.iubenda.com/privacy-policy/20046408
-  - title: "Terms and Conditions"
-    url: https://www.iubenda.com/terms-and-conditions/20046408
+  - title: "Privacy and Terms"
+    url: /termsOfUse/
   - title: "Q & A"
     url: https://discord.gg/ZqzEeD4CGd
   - title: "Roboppics Site"
