@@ -13,5 +13,5 @@ This is the catalog page
 
   <nav class="pagination">
       <a href="/BallBOPPer/community/" class="pagination--pager" title="Community">Previous</a>
-        <a class="pagination--pager disabled">The End</a> 
+      <a class="pagination--pager disabled">The End</a> 
   </nav>
