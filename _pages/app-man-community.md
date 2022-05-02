@@ -9,3 +9,8 @@ sidebar:
 ---
 
 The community page
+
+  <nav class="pagination">
+      <a href="/BallBOPPer/coreController/" class="pagination--pager" title="Core Controller">Previous</a>
+      <a href="/BallBOPPer/catalog/" class="pagination--pager" title="Catalog">Next</a> 
+  </nav>
