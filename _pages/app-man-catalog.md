@@ -9,7 +9,7 @@ sidebar:
 ---
 
 
-Catalog page
+This is the catalog page
 
   <nav class="pagination">
       <a href="/BallBOPPer/community/" class="pagination--pager" title="Community">Previous</a>
