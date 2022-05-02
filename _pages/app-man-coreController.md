@@ -75,7 +75,7 @@ You can add or subtract distance, adjust the shots left or right, and elevate th
 
   <nav class="pagination">
       <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Shot Designer">Previous</a>
-        <a class="pagination--pager disabled">The End</a> 
+        <a href="/BallBOPPer/community/" class="pagination--pager" title="Shot Designer">Next</a> 
   </nav>
   
 
