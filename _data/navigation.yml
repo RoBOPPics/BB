@@ -28,11 +28,11 @@
      url: /robotmanintro/
      
  termsofuse:
-   - title: "Terms of Use"
-     url: /termsOfUse/
-     
-   - title: "Privacy Policy"
-     url: /privacyPolicy/
+  - title: "Privacy Policy"
+    url: https://www.iubenda.com/privacy-policy/20046408
+    
+  - title: "Terms and Conditions"
+    url: https://www.iubenda.com/terms-and-conditions/20046408
      
  tutorial:
    - title: Introduction
