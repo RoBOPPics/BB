@@ -17,7 +17,7 @@ The Shot Pattern shows the shots that make up the pattern, and the order of thos
 
 The display for each shot shows where the ball will be launched from, and where it will bounce. The label in the middle of each shot tells you the height above the net, and spin level and angle for that particular shot.
 
-![Playlist Image](../assets/images/ShotPattern.jpg){: width="300" .align-center }
+![Playlist Image](../assets/images/PatternDesigner500.jpg){: width="300" .align-center }
 
 ## Description
 The Description contains all of the textual data for the Pattern. 
