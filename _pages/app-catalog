@@ -1,5 +1,5 @@
 ---
-permalink: /catalog/
+permalink: /appmancatalog/
 title: "Catalog"
 toc: true
 toc_sticky: true
@@ -9,4 +9,4 @@ sidebar:
 ---
 
 
-Maybe I need some contents.
+Catalog page
