@@ -5,9 +5,9 @@ sidebar:
   nav: "appman"
 ---
 
-The BallBOPPer App is not yet publicly available.  
+The BallBOPPer App is currently available for testing on Android in the Google Play Store: https://play.google.com/store/apps/details?id=com.RoBOPPics.bbapp18 
 
-After the BallBOPPer Kickstarter launch (Summer of 2022), the BallBOPPer App will be available in the Google Play Store, the Apple App Store and the Amazon App Store.  
+After the BallBOPPer Kickstarter launch, the BallBOPPer App will be available in the Google Play Store, the Apple App Store and the Microsoft App Store.  
 
 The BallBOPPer App reference documentation is for Players and Coaches looking to understand how "Patterns of Play" are designed and run using the App.
 
