@@ -16,7 +16,7 @@ Clicking on the Privacy Policy, and Terms and Conditions buttons will take you t
 
 Checking the box will indicate your agreement to them, and will light up the Login button.
 
-Note that during beta testing prior to launch, a username and password are all that are required for login. After the launch, two factor authentication will be enabled to prevent the hijacking of player's BallBOPPers by nefarious app users.
+During beta testing prior to launch, a username and password are all that are required for login. After the launch, two factor authentication will be enabled to prevent the hijacking of player's BallBOPPers by nefarious app users.
 
 Clicking on the Login button will take you to the login page.
 
