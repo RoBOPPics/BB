@@ -26,12 +26,6 @@ The Pattern Name and Description are displayed in the library view of each Patte
 
 ![Playlist Image](../assets/images/Description.jpg){: width="300" .align-center }
 
-## Settings
-
-The "Pattern Is Editable" setting on the Settings page lets you make a Pattern read only. This prevents the Pattern from being modified by accident. Note that fields such as: the Number of Repetitions, and Play in Random Order, continue to be editable.
-
-![Playlist Image](../assets/images/PatternSettings.jpg){: width="300" .align-center }
-
   <nav class="pagination">
       <a href="/BallBOPPer/patternLibraries/" class="pagination--pager" title="Pattern Libraries">Previous</a>
       <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Shot Designer">Next</a> 
