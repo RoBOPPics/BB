@@ -21,7 +21,7 @@ If you tap on a Drill or Pattern in a Pattern Library it opens in the Pattern De
 
 If you tap on a Shot within the Pattern Designer, it will open in the Shot Designer. In the Shot Designer you can see the path, height, spin and predictability of each shot.
 
-When you are ready to run a Drill or Pattern, tap on the Select button, and it will be transmitted to the BallBOPPer and begin running.
+When you are ready to run a Drill or Pattern, tap on the kebab menu icon (three vertical dots) and select the "PLAY THIS PATTERN" item. The Pattern will be transmitted to the BallBOPPer, and the Core Controller will appear on the screen. When you are ready, tap the PLAY button and the BallBOPPer will begin playing the pattern.
 
   <nav class="pagination">
       <a  class="pagination--pager disabled">Previous</a>
