@@ -15,13 +15,19 @@ The information flow using the BallBOPPer App is illustrated below.
 
 ![Connect Alert Image](../assets/images/BallBOPPerScreenFlow002.png){: width="400" .align-center } 
 
-The Pattern Libraries hold all of your "ready to run" Drills and Patterns. 
+When you first load the App, you are required to create a login. During beta testing this requires only a username and password. Upon launch, two factor authentication will be turned on, and you will be required to enter a verifiable email address and a verifiable telephone number. These are required to prevent nefarious user's of the App from hijacking your BallBOPPer.
 
-If you tap on a Drill or Pattern in a Pattern Library it opens in the Pattern Designer. In the Pattern Designer you can see the flow of the shots and the configuration of each shot. 
+After Login, you are forwarded to the Pattern and Playlist Libraries. A set of Patterns and Playlists are preloaded. You can edit these, and you can create your own custom Patterns and Playlists.
+
+If you tap on a Drill or Pattern in a Pattern Library it will open in the Pattern Designer. In the Pattern Designer you can see the flow of the shots and the configuration of each shot. Here can add new Shots, or edit the order of the Shots.
 
 If you tap on a Shot within the Pattern Designer, it will open in the Shot Designer. In the Shot Designer you can see the path, height, spin and predictability of each shot.
 
-When you are ready to run a Drill or Pattern, tap on the kebab menu icon (three vertical dots) and select the "PLAY THIS PATTERN" item. The Pattern will be transmitted to the BallBOPPer, and the Core Controller will appear on the screen. When you are ready, tap the PLAY button and the BallBOPPer will begin playing the pattern.
+When you are ready to run a Drill or Pattern, tap on the kebab menu icon (three vertical dots) and select the "PLAY THIS PATTERN" item. If you are not already connected to the BallBOPPer, then you will be presented with the connection screen where you will need to enter your BallBOPPer's name and key. This information is included with your BallBOPPer.
+
+Once connected, the Pattern or Playlist will be transmitted to the BallBOPPer, and the Core Controller will appear on the screen. 
+
+When you are ready start, tap the PLAY button and the BallBOPPer will begin playing the pattern.
 
   <nav class="pagination">
       <a  class="pagination--pager disabled">Previous</a>
