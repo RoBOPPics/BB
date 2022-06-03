@@ -13,7 +13,7 @@ The BallBOPPer App reference documentation is for Players and Coaches looking to
 
 The information flow using the BallBOPPer App is illustrated below.
 
-![Connect Alert Image](../assets/images/AppDataFlow.png){: width="400" .align-center } 
+![Connect Alert Image](../assets/images/BallBOPPerScreenFlow002.png){: width="400" .align-center } 
 
 The Pattern Libraries hold all of your "ready to run" Drills and Patterns. 
 
