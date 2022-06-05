@@ -1,9 +1,9 @@
  appman:
-  - title: Play a Pattern
-    url: /appmanintro/
-
   - title: Login
     url: /appmanconnect/
+    
+  - title: Play a Pattern
+    url: /appmanintro/
 
   - title: "Pattern Libraries"
     url: /patternLibraries/
