@@ -5,7 +5,7 @@ sidebar:
   nav: "appman"
 ---
 
-To familiarize yourself with the BallBOPPer system, start by playing a Patter as illustrated below.
+To familiarize yourself with the BallBOPPer system, start by playing a Pattern as illustrated below.
 
 ![Connect Alert Image](../assets/images/OverviewGraphic002.png){: width="400" .align-center } 
 
