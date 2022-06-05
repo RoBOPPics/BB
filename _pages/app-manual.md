@@ -30,6 +30,6 @@ Once connected, the Pattern or Playlist will be transmitted to the BallBOPPer, a
 When you are ready start, tap the PLAY button and the BallBOPPer will begin playing the pattern.
 
   <nav class="pagination">
-      <a  class="pagination--pager disabled">Previous</a>
+      <a href="/BallBOPPer/appmanconnect">Previous</a>
       <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Connect">Next</a> 
   </nav>
