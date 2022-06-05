@@ -25,11 +25,11 @@ If you tap on a Shot within the Pattern Designer, it will open in the Shot Desig
 
 When you are ready to run a Drill or Pattern, tap on the kebab menu icon (three vertical dots), and select the "PLAY THIS PATTERN" item as shown in the following screen. 
 
-![Connect Alert Image](../assets/images/PatternKabob001.jpg){: width="400" .align-center } 
+![Connect Alert Image](../assets/images/PatternKabob001.jpg){: width="300" .align-center } 
 
 If you are not already connected to the BallBOPPer, then you will be presented with the connection screen where you will need to enter your BallBOPPer's name and key. This information is included with your BallBOPPer.
 
-![Connect Alert Image](../assets/images/ConnectionPage001.jpg){: width="400" .align-center }
+![Connect Alert Image](../assets/images/ConnectionPage001.jpg){: width="300" .align-center }
 
 Once connected, the Pattern or Playlist will be transmitted to the BallBOPPer, and the Core Controller will appear on the screen. 
 
