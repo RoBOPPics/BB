@@ -8,7 +8,7 @@ sidebar:
   nav: "appman"
 ---
 
-When you first launch the BallBOPPer, you will see the following screen.
+When you first launch the BallBOPPer App, you will see the following screen.
 
 ![Prelogin Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
 
