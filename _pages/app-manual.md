@@ -1,6 +1,6 @@
 ---
 permalink: /appmanintro/
-title: "Quick Overview"
+title: "Quick: Play a Pattern
 sidebar:
   nav: "appman"
 ---
