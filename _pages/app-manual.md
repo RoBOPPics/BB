@@ -11,7 +11,7 @@ To familiarize yourself with the BallBOPPer system, start by playing a Pattern a
 
 After Login, you are forwarded to the Pattern and Playlist Libraries. A set of Patterns and Playlists are preloaded. You can edit and play these, and you can create and play your own custom Patterns and Playlists. 
 
-If you tap on a Drill or Pattern in a Pattern Library it will open in the Pattern Designer. In the Pattern Designer you can see the flow of the shots and the configuration of each shot. Here can add new Shots, or edit the order of the Shots.
+If you tap on a Pattern in the Pattern Library it will open in the Pattern Designer. In the Pattern Designer you can see the flow of the shots and the configuration of each shot. Here can add new Shots, or edit the order of the Shots.
 
 If you tap on a Shot within the Pattern Designer, it will open in the Shot Designer. In the Shot Designer you can see the path, height, spin and predictability of each shot.
 
