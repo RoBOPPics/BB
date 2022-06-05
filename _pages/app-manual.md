@@ -9,8 +9,6 @@ To familiarize yourself with the BallBOPPer system, start by playing a Pattern a
 
 ![Connect Alert Image](../assets/images/OverviewGraphic002.png){: width="400" .align-center } 
 
-When you first load the App, you are required to create a login. During beta testing only a username and password are required. When the BallBOPPer begins shipping to Players, two factor authentication will be enabled. You will then be required to enter a verifiable email address, and a verifiable telephone number. These are required to prevent nefarious user's of the App from hijacking your BallBOPPer.
-
 After Login, you are forwarded to the Pattern and Playlist Libraries. A set of Patterns and Playlists are preloaded. You can edit and play these, and you can create and play your own custom Patterns and Playlists. 
 
 If you tap on a Drill or Pattern in a Pattern Library it will open in the Pattern Designer. In the Pattern Designer you can see the flow of the shots and the configuration of each shot. Here can add new Shots, or edit the order of the Shots.
