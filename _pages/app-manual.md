@@ -33,6 +33,8 @@ If you are not already connected to the BallBOPPer, then you will be presented w
 
 Once connected, the Pattern or Playlist will be transmitted to the BallBOPPer, and the Core Controller will appear on the screen. 
 
+![Connect Alert Image](../assets/images/Controller.jpg){: width="300" .align-center }
+
 When you are ready start, tap the PLAY button and the BallBOPPer will begin playing the pattern.
 
   <nav class="pagination">
