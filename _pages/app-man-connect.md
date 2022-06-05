@@ -27,6 +27,10 @@ If this is your first time logging in, you will need to setup your account.
 
 Click on "Sign up now".
 
+During beta testing, a username and password are required. 
+
+When the BallBOPPer starts shipping to Players, two factor authentication will be enabled. You will then be required to enter a verifiable email address, and a verifiable telephone number. These are required to prevent nefarious user's of the App from hijacking your BallBOPPer.
+
 ## Login
 If you already have an account, enter your email address and password.
 
