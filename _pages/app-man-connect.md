@@ -35,6 +35,6 @@ If you already have an account, enter your email address and password.
 After logging in the first time, your credentials will be remembered by the App for up to 90 days.
 
   <nav class="pagination">
-      <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Introduction">Previous</a>
-      <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Pattern Libraries">Next</a> 
+      <a class="pagination--pager disabled" title="None">Previous</a>
+      <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Play a Pattern">Next</a> 
   </nav>
