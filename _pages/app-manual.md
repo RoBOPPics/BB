@@ -1,6 +1,6 @@
 ---
 permalink: /appmanintro/
-title: "Introduction"
+title: "Quick Overview"
 sidebar:
   nav: "appman"
 ---
@@ -13,7 +13,7 @@ The BallBOPPer App reference documentation is for Players and Coaches looking to
 
 The information flow using the BallBOPPer App is illustrated below.
 
-![Connect Alert Image](../assets/images/BallBOPPerScreenFlow003.png){: width="400" .align-center } 
+![Connect Alert Image](../assets/images/OverviewGraphic001.png){: width="400" .align-center } 
 
 When you first load the App, you are required to create a login. During beta testing only a username and password are required. When the BallBOPPer's begin shipping, two factor authentication will be enabled. You will then be required to enter a verifiable email address, and a verifiable telephone number. These are required to prevent nefarious user's of the App from hijacking your BallBOPPer.
 
