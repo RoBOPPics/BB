@@ -41,6 +41,6 @@ To play the Selected Playlist using the BallBOPPer, tap on the kabob menu (three
 ![Playlist Image](../assets/images/Playlists500.jpg){: width="300" .align-center } 
 
   <nav class="pagination">
-      <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Connect">Previous</a>
+      <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Play a Pattern">Previous</a>
       <a href="/BallBOPPer/patternDesigner/" class="pagination--pager" title="Pattern Designer">Next</a> 
   </nav>
