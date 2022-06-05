@@ -36,5 +36,5 @@ After logging in the first time, your credentials will be remembered by the App 
 
   <nav class="pagination">
       <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Introduction">Previous</a>
-      <a href="/BallBOPPer/patternLibraries/" class="pagination--pager" title="Pattern Libraries">Next</a> 
+      <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Pattern Libraries">Next</a> 
   </nav>
