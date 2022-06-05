@@ -19,6 +19,6 @@ The BallBOPPer App reference documentation is for Players and Coaches looking to
 
   <nav class="pagination">
       <a  class="pagination--pager disabled">The Beginning</a>
-      <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Connect">Next</a> 
+      <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Connect">Next</a> 
   </nav>
  
