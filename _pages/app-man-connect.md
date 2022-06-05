@@ -16,8 +16,6 @@ Clicking on the Privacy Policy, and Terms and Conditions buttons will take you t
 
 Checking the box will indicate your agreement to them, and will light up the Login button.
 
-During beta testing prior to launch, a username and password are all that are required for login. After the launch, two factor authentication will be enabled to prevent the hijacking of player's BallBOPPers by nefarious app users.
-
 Clicking on the Login button will take you to the login page.
 
 ![Login Image](../assets/images/Login500.jpg){: width="300" .align-center } 
@@ -27,9 +25,9 @@ If this is your first time logging in, you will need to setup your account.
 
 Click on "Sign up now".
 
-During beta testing, a username and password are required. 
+During beta testing, only a username and password are required. 
 
-When the BallBOPPer starts shipping to Players, two factor authentication will be enabled. You will then be required to enter a verifiable email address, and a verifiable telephone number. These are required to prevent nefarious user's of the App from hijacking your BallBOPPer.
+When the BallBOPPer starts shipping to Players, two factor authentication will be enabled. You will then need to enter a verifiable email address, and a verifiable telephone number. These are required to prevent nefarious user's of the App from hijacking your BallBOPPer.
 
 ## Login
 If you already have an account, enter your email address and password.
