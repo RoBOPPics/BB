@@ -8,7 +8,11 @@ sidebar:
   nav: "appman"
 ---
 
-When you first launch the BallBOPPer App, you will see the following screen.
+Much of the beta version of the BallBOPPer App, that is currently available in the Google Play Store, can be navigated without having to log in. 
+
+You can download the App onto your Android device, and then go through the App and explore the Pattern and Playlist Libraries, the Community, the Catalog, and the Controller. 
+
+An email and password are all that is currently required to create a login. This will allow you to create your own custom Patterns and Playlists, and add your own Stories into the Community feed.
 
 ![Prelogin Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
 
