@@ -14,7 +14,7 @@ The Core Controller gives you direct control over the BallBOPPer robot.
 
 When you press Play this Pattern in a Patterns kabob menu, the Pattern is transmitted to the robot, and the Controller pops up automatically in the App. Press PLAY and the robot will begin playing the Pattern. 
 
-![Controller Image](../assets/images/CoreController_500.png){: width="300" .align-center }
+![Controller Image](../assets/images/ControllerScreen_500.png){: width="300" .align-center }
 
 The eight buttons at the top of the Controller mirror the functions of the four physical buttons on the BallBOPPer robot.
 
