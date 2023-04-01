@@ -35,7 +35,7 @@ The Alternate Shots lets you set three different shots for a single shot. The sy
 
 The Repeated Shot feature lets you repeat a shot an indeterminant number of times. 
 
-Both of these are more advanced and will be demonstrated in detail in the Demo Video that is coming in Spring of 2023.
+More information will be available as these features mature in the first release version.
 
 ![Playlist Image](../assets/images/ShotPredictability.jpg){: width="300" .align-center }
 
