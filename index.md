@@ -9,6 +9,8 @@ toc_sticky: true
 toc_label: "Contents"
 layout: archive
 author_profile: true
+sidebar:
+  nav: "appman"
 ---
 
 The documentation for the BallBOPPer App and the BallBOPPer Robot are currently under development. This prerelease version is offered here for those who are interested in developing "Patterns of Play" to be included in the BallBOPPer Catalog.
