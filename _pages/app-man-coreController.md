@@ -1,6 +1,6 @@
 ---
 permalink: /coreController/
-title: "Core Controller"
+title: "Controller"
 toc: true
 toc_sticky: true
 toc_label: "Contents"
@@ -8,9 +8,9 @@ sidebar:
   nav: "appman"
 ---
 
-## Core Controller
+## Controller
 
-The Core Controller gives you direct control over the BallBOPPer robot. 
+The Controller section gives you direct control over the BallBOPPer robot. 
 
 When you press "Queue this Pattern" in a Patterns kabob menu, the Pattern is transmitted to the robot, and queued on the BallBOPPer for playing. The Controller page will then pop up automatically in the App. Press PLAY and the robot will begin playing the Pattern. 
 
