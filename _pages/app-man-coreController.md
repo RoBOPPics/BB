@@ -58,6 +58,20 @@ Pressing the "Ad Hoc Launch" button in the center of the screen will launch a ba
 
 If you change the selected launch location, then the BallBOPPer will also Rove to the new launch location before launching the ball.
 
+## Voice
+
+### Voice Controller
+
+
+
+The text box at the top of the Voice Controller screen will display what the BallBOPPer is hearing you say, as you say it. This helps pinpoint and correct pronunciation/comprehension issues.
+
+For training purposes, it is best to use a Bluetooth headset that is paired and connected to your smartphone or tablet.
+
+Upon pressing the Engage Voice Control button the BallBOPPer App will begin listening for the specific BallBOPPer voice commands which you can view listed by scrolling further down on the page. 
+
+Each command is preceeded by "BB" which is short for BallBOPPer. You must say "BB" plus the command in order to get a response.
+
 ## Rover
 
 ### Rover Zone Controller
