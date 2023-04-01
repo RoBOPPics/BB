@@ -28,11 +28,11 @@ The three Settings on this page allow you to turn the Navigation, Rover and Relo
 
 You may wish to not use the Rover and Reloader for various reasons, and you can therefore turn them off. 
 
-If you are using the BallBOPPer in a location that is not a tennis court, such as your driveway or backyard, then the BallBOPPer will not be able to determine its location and will indicate an ERROR. 
+If you are using the BallBOPPer in a location that is not a tennis court, such as your driveway or backyard, then the BallBOPPer will not be able to navigate and will indicate an ERROR. 
 
-The only way the BallBOPPer will operate when not on a tennis court is with the Location service turned Off. Also note that when you turn the Location service Off, it also turns Off the Rover and Reloader services. None of these three services will operate if you are not on a tennis court. 
+The only way the BallBOPPer will operate when not on a tennis court is with the Navigation service turned Off. Also note that when you turn the Navigation service Off, it also turns Off the Rover and Reloader services. None of these three services will operate if you are not on an ITF standard tennis court in good condition. 
 
-With the Location Service turned Off, you will need to manually position and point the Robot in the correct direction. You may also need to adjust the Launch and Bounce points in your patterns according to the space that is available. 
+With the Navigation Service turned Off, you will need to manually position and point the Robot in the correct direction. You may also need to adjust the Launch and Bounce points in your patterns according to the space that is available. 
 
 ## Control
 
