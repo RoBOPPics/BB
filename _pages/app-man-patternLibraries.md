@@ -14,7 +14,7 @@ This page has three tabs across the top: Pattern Library, Selected Playlist and 
 ![Catalog Image](../assets/images/Libraries500.jpg){: width="300" .align-center } 
 
 ## Pattern Library
-The Pattern Library lists the Drills and Patterns that you have created, or that you have downloaded from the Community Catalog. 
+The Pattern Library lists the Patterns that you have created, or that you have downloaded from the Community Catalog. 
 
 To play a Pattern using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Play this Pattern".
 
