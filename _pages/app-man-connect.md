@@ -14,7 +14,7 @@ You can download the App onto your Android device, and then go through the App a
 
 An email and password are all that is currently required to create a login. This will allow you to create your own custom Patterns and Playlists, and add your own Stories into the Community feed.
 
-When the BallBOPPer is officially released, this will change, and two factor authentication, requiring a telephone number, will be the new requirement. This is to prevent a nefarious user of the App from hijacking your BallBOPPer robot.
+When the BallBOPPer is officially released, this will change, and the following Login information will apply to all users.
 
 ![Prelogin Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
 
