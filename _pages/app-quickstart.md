@@ -16,12 +16,6 @@ A beta version of the BallBOPPer App is currently available for testing on Andro
 
 ![PlayStore Image](../assets/images/BallBOPPerApp001.png){: width="400" .align-center } 
 
-Much of the beta version can be navigated without having to log in. You are invited to click through the App and explore the Pattern and Playlist Libraries, the Community, and the Controller. 
-
-A login is required if you wish to create a new Pattern or add a Story in the Community. An email and password are all that is currently required to create a login. 
-
-When the BallBOPPer is officially released, this will change, and two factor authentication, requiring a telephone number, will be the new requirement. This is to prevent a nefarious user of the App from hijacking your BallBOPPer robot.
-
 After the BallBOPPer Kickstarter launch, the BallBOPPer App will be available in the Google Play Store, the Apple App Store and the Microsoft App Store.  
 
   <nav class="pagination">
