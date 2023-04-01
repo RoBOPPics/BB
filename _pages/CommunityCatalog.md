@@ -1,6 +1,6 @@
 ---
 permalink: /appmancatalog/
-title: "Catalog"
+title: "Pattern and Playlist Catalog"
 toc: true
 toc_sticky: true
 toc_label: "Contents"
