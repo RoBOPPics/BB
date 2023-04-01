@@ -8,11 +8,13 @@ sidebar:
   nav: "appman"
 ---
 
-Much of the beta version of the BallBOPPer App, that is currently available in the Google Play Store, can be navigated without having to log in. 
+Much of the beta version of the BallBOPPer App, that is currently available in the Google Play Store  (<a href="https://play.google.com/store/apps/details?id=com.RoBOPPics.bbapp18" >BallBOPPer App on Android</a>), can be navigated without having to log in. 
 
 You can download the App onto your Android device, and then go through the App and explore the Pattern and Playlist Libraries, the Community, the Catalog, and the Controller. 
 
 An email and password are all that is currently required to create a login. This will allow you to create your own custom Patterns and Playlists, and add your own Stories into the Community feed.
+
+When the BallBOPPer is officially released, this will change, and two factor authentication, requiring a telephone number, will be the new requirement. This is to prevent a nefarious user of the App from hijacking your BallBOPPer robot.
 
 ![Prelogin Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
 
