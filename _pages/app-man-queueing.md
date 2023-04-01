@@ -44,17 +44,21 @@ When you press "Queue this Pattern" in a Patterns kabob menu, the Pattern is tra
 
 ## Submit Story on this Pattern (or Playlist)
 
-This menu item appears on both the Pattern and Playlist Queueing page and has the same effect.
+This menu item appears on both the Pattern and Playlist Queueing pages and has the same effect.
 
-If you have played a Pattern a number of times, and wish to provide information for other players on this Pattern, then you can write a Player Story. Tapping on "Submit Story on this Pattern" will bring up the Story entry form, where you can tap out your story and even add Photos or Videos of you playing this Pattern. After approval, these Stories will then show up in the window at the top of the Queueing page, to help other players decide whether they want to Download the Pattern from the Catalog.
+If you have played a Pattern (or Playlist) a number of times, and wish to provide information for other players, then you can write and submit a Player Story. Tapping on "Submit Story on this Pattern (or Playlist)" will bring up the Story entry form, where you can tap out your story and even add Photos or Videos of you playing this Pattern. 
+
+After approval, these Stories will then show up in the window at the top of the Queueing page, to help other players decide whether they want to Download the Pattern from the Catalog.
 
 Negative or derogatory information will not be approved. Only positive feedback will be published in the Catalog.
+
+There is more information on Player Stories in the Community section of this documentation.
 
 ## Submit Pattern (or Playlist) to Catalog
 
 This menu item appears on both the Pattern and Playlist Queueing page and has the same effect.
 
-Submitting a Pattern or Playlist to the Catalog it will be uploaded into the online Catalog. 
+Submitting a Pattern or Playlist to the Catalog will upload it into the online Catalog. 
 
 After it is approved, it will then appear to all users for downloading and playing.
 
