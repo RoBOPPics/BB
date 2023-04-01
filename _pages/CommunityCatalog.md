@@ -16,6 +16,8 @@ The big difference is that everything in the catalog is online, and not on your 
 
 You can also contribute your own Patterns and Playlists to the Catalog.
 
+The menu items for doing this are found on Queueing menu for the Pattern or Playlist in their respective libraries. See the Pattern and Playlist Queueing section for additional details.
+
   <nav class="pagination">
       <a href="/BallBOPPer/community/" class="pagination--pager" title="Community">Previous</a>
       <a class="pagination--pager disabled">The End</a> 
