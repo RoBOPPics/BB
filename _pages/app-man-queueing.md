@@ -14,7 +14,7 @@ When you tap on the kabob menu on a Pattern in the Pattern Library, you get the 
 
 Queueing is the process of transmitting the Pattern (or Playlist) to the BallBOPPer where it is placed on the top of Play queue. Next up to be Played.
 
-![PatternModal Image](../assets/images/PatternModal003_500.jpg){: width="300" .align-center } 
+![PatternModal Image](../assets/images/PatternModal004_500.jpg){: width="300" .align-center } 
 
 When you tap on the kabob menu on a Playlist in the Playlist Library, you get the Queueing page for the selected Playlist.
 
