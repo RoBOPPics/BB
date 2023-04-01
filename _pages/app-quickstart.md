@@ -1,25 +1,29 @@
 ---
-permalink: /quickstartIntro/
-title: "Quickstart"
+permalink: /appQuickstart/
+title: "App Reference"
+author: RoBOPPics
+toc: true
+toc_sticky: true
+toc_label: "Contents"
+layout: archive
+author_profile: true
 sidebar:
-  nav: "docs"
+  nav: "appman"
 ---
 
-TIPS to get you started
+The documentation for the BallBOPPer App and the BallBOPPer Robot are currently under development. This prerelease version is offered here for those who are interested in developing "Patterns of Play" to be included in the BallBOPPer Catalog.
 
-Most users can learn how to use the BallBOPPer app through experimentation. But here are some tips to speed your experimentation along.
+![Catalog Image](/assets/images/BallBOPPerShotCropped002_500.jpg){: width="400" .align-center } 
 
-1. Tapping on a Pattern or Playlist listing in the Pattern or Playlist Libraries will open the listing in the Pattern Designer. 
-2. Tapping on a Shot in the Pattern Designer will open that Shot in the Shot Designer.
-3. Tapping on a Story will display that Story along with all Insights and BOPPs.
-4. The author of a Story can edit their Story by tapping the edit icon.
-5. When you edit a Pattern, Shot, Playlist, or Story, your new content will be automatically saved when you click the Back Button or the Close button. 
-6. The author of a Pattern, Playlist or Story can delete the item, when in the designer or editor, by tapping the kabob menu and selecting Delete.
-7. 
-8. In the Pattern and Playlist libraries, each listing has the Kabob symbol. When you tap the kabob a full page menu will be displayed. This menu has functionality such as Playing a Pattern or Playing a Playlist, or adding a Story about a Pattern or Playlist.
+The BallBOPPer App is currently available for testing on Android in the Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.RoBOPPics.bbapp18" >BallBOPPer App on Android</a> 
 
-7. All items in the Pattern and Playlist Libraries, even those that you download from the Catalog, are editable. 
-8. All items in the Pattern and Playlist Catalogs are not editable except by the original author. The original author of a Pattern or Playlist in the Catalog can update the versions of theie Patterns and Playlists in the Catalog by editing the original item in their Pattern and Playlist libraries, and then choosing "Save to Catalog" in the Kabob menu. If the author of a Pattern or Playlist deletes the original from their Pattern or Playlist library, then they will no longer be able to update the Catalog version.
-9. Insights are not editable or deletable.
+After the BallBOPPer Kickstarter launch, the BallBOPPer App will be available in the Google Play Store, the Apple App Store and the Microsoft App Store.  
+
+The BallBOPPer App reference documentation is for Players and Coaches looking to understand how "Patterns of Play" are designed and run using the App.
+
+  <nav class="pagination">
+      <a  class="pagination--pager disabled">The Beginning</a>
+      <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Connect">Next</a> 
+  </nav>
 
 
