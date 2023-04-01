@@ -17,7 +17,7 @@ The Path screen shows the plan view of a tennis court with the BallBOPPer (large
 
 There are 20 different launch points, and 37 different bounce points to choose from. To select the launch and bounce points just tap the desired spot or zone on the screen.
 
-![Playlist Image](../assets/images/Shot_BallBOPPerApp001_500.jpg){: width="300" .align-center }
+![Playlist Image](../assets/images/Path_BallBOPPerApp001_500.jpg){: width="300" .align-center }
 
 ## Height-Spin
 
@@ -37,7 +37,7 @@ The Repeated Shot feature lets you repeat a shot an indeterminant number of time
 
 More information will be available as these features mature in the first release version.
 
-![Playlist Image](../assets/images/Predictability_BallBopperApp001_500.jpg){: width="300" .align-center }
+![Playlist Image](../assets/images/Probability_BallBopperApp001_500.jpg){: width="300" .align-center }
 
   <nav class="pagination">
       <a href="/BallBOPPer/patternDesigner/" class="pagination--pager" title="Pattern Designer">Previous</a>
