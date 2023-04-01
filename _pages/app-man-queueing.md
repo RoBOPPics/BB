@@ -8,6 +8,8 @@ sidebar:
   nav: "appman"
 ---
 
+## Queueing
+
 When you tap on the kabob menu in either a Pattern or a Playlist, you get a number of important options.
 
 ![PatternModal Image](../assets/images/PatternModal001_500.jpg){: width="300" .align-center } 
