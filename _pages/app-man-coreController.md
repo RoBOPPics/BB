@@ -66,7 +66,7 @@ With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras 
 
 Note that you can switch between these three methods as needed, to expedite the reloading of the balls. 
 
-Also note that the robot will only reload the balls that are found on it's side of the court. Any balls that the player was unable to hit over the net, or ended up on an adjacent court, will need to be rolled into the BallBOPPer's side of your practice court. See the Robot Manual for best practices when using the Reloading function.
+Also note that the robot will only reload the balls that are found on it's side of the court. Any balls that the player was unable to hit over the net, or ended up on an adjacent court, will need to be rolled into the BallBOPPer's side of the practice court. 
 
 ## Ad Hoc Launcher
 
