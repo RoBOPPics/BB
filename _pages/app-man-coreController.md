@@ -52,6 +52,8 @@ Delay will delay the beginning of the playing of a Drill or Pattern by 15 second
 
 Navigate is used for calibrating the Navigation system before beginning a training session on an unfamiliar court.
 
+## Reload
+
 Pressing Reload will present you with three ball reloading options: Zone Control Sweep, Back Court Sweep and Ball Search Sweep.
 
 ![Reloader Image](../assets/images/ReloaderOptions.jpg){: width="300" .align-center }
