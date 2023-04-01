@@ -36,7 +36,7 @@ With the Location Service turned Off, you will need to manually position and poi
 
 ## Control
 
-The eight buttons at the top of the Controller mirror the functions of the four physical buttons on the BallBOPPer robot.
+The eight buttons at the top of the Control section mirror the functions of the four physical buttons on the BallBOPPer robot.
 
 The top row of buttons in the App: Stop, Pause, Play and Queue; are the same as when you press the identical physical buttons on the robot.
 
