@@ -18,10 +18,6 @@ The Pattern Library lists the Drills and Patterns that you have created, or that
 
 To play a Pattern using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Play this Pattern".
 
-Patterns fall into two general types: Drills and “Patterns of Play”.
-
-Drills tend to be very predictable, and are for practicing particular skills in isolation, in order to make those skills second nature.
-
 Patterns of Play are for practicing tactics and strategy. They are based on different playing styles, and are less predictable, since a big part of match play is being prepared for the unexpected.
 
 All Patterns in the Pattern Library are editable. You cannot edit the attribution field for Patterns that have been downloaded from the Community Catalog, but everything else in these Patterns can be edited to suit your preferences.
