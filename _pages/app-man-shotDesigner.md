@@ -13,7 +13,7 @@ The Shot Designer opens when you tap on a Shot in the Pattern Designer.
 It has three tabs: Path, Height-Spin, and Predictability. You can tap on each tab to navigate to each page, or you can swipe.
 
 ## Path
-The Path screen shows the plan view of a tennis court with the BallBOPPer (large orange box) at the opposite side of the court, and the bounce point of the ball (small yellow box) on your side of the court. 
+The Path screen shows the plan view of a tennis court with the BallBOPPer (large orange box) at the opposite side of the court, and the bounce point of the ball (small light green box) on your side of the court. 
 
 There are 20 different launch points, and 37 different bounce points to choose from. To select the launch and bounce points just tap the desired spot or zone on the screen.
 
