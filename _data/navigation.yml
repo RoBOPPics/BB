@@ -14,6 +14,9 @@
   - title: "Shot Designer"
     url: /shotDesigner/
     
+  - title: "Queueing"
+    url: /queueing/
+    
   - title: "Controller"
     url: /coreController/
     
