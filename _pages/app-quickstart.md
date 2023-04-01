@@ -13,7 +13,7 @@ sidebar:
 
 The documentation for the BallBOPPer App and the BallBOPPer Robot are currently under development. This prerelease version is offered here for those who are interested in developing "Patterns of Play" to be included in the BallBOPPer Catalog.
 
-![Catalog Image](../assets/images/BallBOPPerShotCropped002_500.jpg){: width="400" .align-center } 
+![Catalog Image](../assets/images/BallBOPPerApp001.png){: width="400" .align-center } 
 
 The BallBOPPer App is currently available for testing on Android in the Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.RoBOPPics.bbapp18" >BallBOPPer App on Android</a> 
 
