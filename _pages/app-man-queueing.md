@@ -1,6 +1,6 @@
 ---
 permalink: /queueing/
-title: "Queueing"
+title: "Pattern and Playlist Queueing"
 toc: true
 toc_sticky: true
 toc_label: "Contents"
