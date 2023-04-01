@@ -24,7 +24,7 @@ If you have never used the BallBOPPer on this court before, then you will need t
 
 ## System Settings
 
-The three Settings on this page allow you to turn the Location, Rover and Reloader services On and Off. 
+The three Settings on this page allow you to turn the Navigation, Rover and Reloader services On and Off. 
 
 You may wish to not use the Rover and Reloader for various reasons, and you can therefore turn them off. 
 
