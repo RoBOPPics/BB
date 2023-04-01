@@ -1,6 +1,6 @@
 ---
 permalink: /patternLibraries/
-title: "Pattern Libraries"
+title: "Pattern and Playlist Libraries"
 toc: true
 toc_sticky: true
 toc_label: "Contents"
