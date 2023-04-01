@@ -46,11 +46,11 @@ Reboot will reboot the BallBOPPer's onboard computer.
 
 Pressing the Queue button in the App will send you to the Pattern Libraries where you can select from all of the possibilities in the libraries. You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu on a Pattern or Playlist to transmit and queue the Pattern or Playlist on the BallBOPPer. The BallBOPPer will respond by displaying the 8 character "Display Name" of the Pattern or Playlist on its LED display. 
 
-If you press the Queue button on the robot, you can cycle through and select, using the buttons and display on the robot, from the Drills and Patterns that you have previously queued on the robot. This makes it possible to play Drills and Patterns, those that you have previously played on the robot, when on-court without a smartphone or tablet (see the Robot Manual for more details). 
+If you press the Queue button on the robot, you can cycle through and select, using the buttons and display on the robot, from the Drills and Patterns that you have previously queued on the robot. This makes it possible to play Drills and Patterns, those that you have previously played on the robot, when on-court without a smartphone or tablet. 
 
-Delay will delay the beginning of the playing of a Drill or Pattern by 15 seconds each time it is pressed. Press twice for a 30 second delay, three times for 45 seconds, etc. 
+Delay will Play the currently Queued Pattern or Playlist, but will delay starting by 15 seconds each time you press the Delay button. Press twice for a 30 second delay, three times for 45 seconds, etc. 
 
-Navigate is used for calibrating the Navigation system before beginning a training session on an unfamiliar court.
+Navigate is used for calibrating the Navigation system before beginning a training session on an unfamiliar court. This is explained under the Court Name section above.
 
 ## Reload
 
