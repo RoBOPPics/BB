@@ -16,9 +16,25 @@ When you press "Queue this Pattern" in a Patterns kabob menu, the Pattern is tra
 
 ![Controller Image](../assets/images/ControllerScreen_500.png){: width="300" .align-center }
 
+## Court Name
+
 The name you have given to the court that you are currently training on should be displayed at the top of the Controller page.
 
 If you have never used the BallBOPPer on this court before, then you will need to run the court Navigation routine by pressing the Navigate button. This gathers navigation data on the court, such as: the GPS location of the court, the depth of the margins around the court, which sides of the court have fences, and assures that the court is an ITF standard tennis court in good condition. This data is saved under the name you assign. The next time you are training on that court, you do not have to run calibration again - the BallBOPPer will use the data previously gathered.
+
+## System Settings
+
+The three Settings on this page allow you to turn the Location, Rover and Reloader services On and Off. 
+
+You may wish to not use the Rover and Reloader for various reasons, and you can therefore turn them off. 
+
+If you are using the BallBOPPer in a location that is not a tennis court, such as your driveway or backyard, then the BallBOPPer will not be able to determine its location and will indicate an ERROR. 
+
+The only way the BallBOPPer will operate when not on a tennis court is with the Location service turned Off. Also note that when you turn the Location service Off, it also turns Off the Rover and Reloader services. None of these three services will operate if you are not on a tennis court. 
+
+With the Location Service turned Off, you will need to manually position and point the Robot in the correct direction. You may also need to adjust the Launch and Bounce points in your patterns according to the space that is available. 
+
+## Control
 
 The eight buttons at the top of the Controller mirror the functions of the four physical buttons on the BallBOPPer robot.
 
@@ -48,6 +64,8 @@ With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras 
 
 Note that you can switch between these three methods as needed, to expedite the reloading of the balls. Also note that the robot will only reload the balls that are found on it's side of the court. See the Robot Manual for best practices when using the Reloading function.
 
+## Ad Hoc Launcher
+
 Pressing the Ad Hoc Launcher button will bring up the Ad Hoc Launcher screen.
 
 ![AdHocLaunch Image](../assets/images/AdHocLaunchScreen_500.jpg){: width="300" .align-center }
@@ -57,6 +75,12 @@ The "Ad Hoc Launcher" feature has all the same functionality as the Shot Designe
 Pressing the "Ad Hoc Launch" button in the center of the screen will launch a ball from the selected location on the BallBOPPer side of the court (the top half of the screen), and bounce it on the selected spot on the player side of the court (the bottom half of the screen), with a particular spin and height above the net.
 
 If you change the selected launch location, then the BallBOPPer will also Rove to the new launch location before launching the ball.
+
+## Drift Settings
+
+The Correct Drift settings at the bottom of the page are specifically for correcting for windy, or other conditions, that are preventing the launched balls from bouncing on their spots. 
+
+You can add or subtract distance, adjust the shots left or right, and elevate them higher or lower. These settings are temporary and revert to the default settings when you turn the BallBOPPer off.
 
 ## Voice
 
@@ -83,25 +107,6 @@ The Rover Zone Controller is a positional controller that gives you the ability 
 Press the spot where you want the BallBOPPer to move to, then press the "Rove to Position" button, and the BallBOPPer will travel to that spot, shutdown and wait. The Stop button is included in the event you need to stop the BallBOPPer while roving.
 
 If you are using the Zone Controller in the context of the Zone Controller Sweep function, as explained above, then the robot will reload all of the balls it finds in the destination zone, and then wait to be sent to a different zone to repeat the ball reloading process.
-
-## Settings
-
-The three Settings on this page allow you to turn the Location, Rover and Reloader services On and Off. 
-
-You may wish to not use the Rover and Reloader for various reasons, and you can therefore turn them off. 
-
-![Playlist Image](../assets/images/ControllerSettings500.jpg){: width="300" .align-center }
-
-If you are using the BallBOPPer in a location that is not a tennis court, such as your driveway or backyard, then the BallBOPPer will not be able to determine its location and will indicate an ERROR. 
-
-The only way the BallBOPPer will operate when not on a tennis court is with the Location service turned Off. Also note that when you turn the Location service Off, it also turns Off the Rover and Reloader services. None of these three services will operate if you are not on a tennis court. 
-
-With the Location Service turned Off, you will need to manually position and point the Robot in the correct direction. You may also need to adjust the Launch and Bounce points in your patterns according to the space that is available. 
-
-The Correct Drift settings is specifically for correcting for windy, or other conditions, that are preventing the launched balls from bouncing on their spots. 
-
-You can add or subtract distance, adjust the shots left or right, and elevate them higher or lower. These settings are temporary and revert to the default settings when you turn the BallBOPPer off.
-
 
   <nav class="pagination">
       <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Shot Designer">Previous</a>
