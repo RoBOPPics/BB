@@ -62,9 +62,9 @@ If you change the selected launch location, then the BallBOPPer will also Rove t
 
 ### Voice Controller
 
+![Voice Controller Image](../assets/images/VoiceControllerScreen_500.jpg){: width="300" .align-center }
 
-
-The text box at the top of the Voice Controller screen will display what the BallBOPPer is hearing you say, as you say it. This helps pinpoint and correct pronunciation/comprehension issues.
+The text box at the top of the Voice Controller screen will display what the BallBOPPer is hearing you say, as you say it. This helps you pinpoint and correct pronunciation/comprehension issues.
 
 For training purposes, it is best to use a Bluetooth headset that is paired and connected to your smartphone or tablet.
 
