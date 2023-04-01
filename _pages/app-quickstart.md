@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 toc_label: "Contents"
 layout: archive
-author_profile: true
+author_profile: false
 sidebar:
   nav: "appman"
 ---
