@@ -62,7 +62,7 @@ The Zone Control Sweep option gives you manual control over the ball reloading p
 
 With the Back Court Sweep option, the BallBOPPer will sweep the area behind the baseline of its side of the court, where the majoriety of balls will typically collect. The BallBOPPer will begin sweeping up the balls along the outer edges, and work it's way inward, collecting all of the balls within this entire area. You can help speed things up by rolling any errant balls into the back court area.
 
-With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras to locate concentrations of balls and plan and execute it's own reloading process. Currently the camera's on the BallBOPPer can identify balls within about 20 feet. This is not a problem if the balls are evenly spread across the court, but if there are large gaps in the spread of the balls on the court, you may need to use the Rover Controller to move the BallBOPPer close enough to see the more distant groupings of balls before it will be able to reload them.
+With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras to locate concentrations of balls and plan and execute it's own reloading process. 
 
 Note that you can switch between these three methods as needed, to expedite the reloading of the balls. 
 
