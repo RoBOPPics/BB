@@ -48,6 +48,16 @@ With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras 
 
 Note that you can switch between these three methods as needed, to expedite the reloading of the balls. Also note that the robot will only reload the balls that are found on it's side of the court. See the Robot Manual for best practices when using the Reloading function.
 
+Pressing the Ad Hoc Launcher button will bring up the Ad Hoc Launcher screen.
+
+![AdHocLaunch Image](../assets/images/AdHocLaunchScreen_500.jpg){: width="300" .align-center }
+
+The "Ad Hoc Launcher" feature has all the same functionality as the Shot Designer in the Pattern Library, but makes it available for the launching of individual balls.
+
+Pressing the "Ad Hoc Launch" button in the center of the screen will launch a ball from the selected location on the BallBOPPer side of the court (the top half of the screen), and bounce it on the selected spot on the player side of the court (the bottom half of the screen), with a particular spin and height above the net.
+
+If you change the selected launch location, then the BallBOPPer will also Rove to the new launch location before launching the ball.
+
 ## Rover
 
 ### Rover Zone Controller
