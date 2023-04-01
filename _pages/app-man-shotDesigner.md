@@ -44,6 +44,6 @@ You can also use Alternate Shots and Repeating Range together on the same shot. 
 ![Playlist Image](../assets/images/Probability_BallBopperApp001_500.jpg){: width="300" .align-center }
 
   <nav class="pagination">
-      <a href="/BallBOPPer/queueing/" class="pagination--pager" title="Queueing">Previous</a>
-      <a href="/BallBOPPer/coreController/" class="pagination--pager" title="Core Controller">Next</a> 
+      <a href="/BallBOPPer/patternDesigner/" class="pagination--pager" title="Pattern Designer">Previous</a>
+      <a href="/BallBOPPer/queueing/" class="pagination--pager" title="Queueing">Next</a> 
   </nav>
