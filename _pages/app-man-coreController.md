@@ -16,7 +16,9 @@ When you press "Queue this Pattern" in a Patterns kabob menu, the Pattern is tra
 
 ![Controller Image](../assets/images/ControllerScreen_500.png){: width="300" .align-center }
 
-At the top of this page, the name you have given to the court that you are currently training on should be displayed at the top. If you have never used the BallBOPPer on this court before, then you will need to run the court Navigation routine by pressing the Navigate button. This gathers navigation data on the court, such as the depth of the margins around the court, which sides have fences, and assures that the court is an ITF standard tennis court. This data is saved under the name you assign. The next time you are training on that court, you do not have to run calibration again - the BallBOPPer will use the data previously gathered.
+The name you have given to the court that you are currently training on should be displayed at the top of the Controller page.
+
+If you have never used the BallBOPPer on this court before, then you will need to run the court Navigation routine by pressing the Navigate button. This gathers navigation data on the court, such as: the GPS location of the court, the depth of the margins around the court, which sides of the court have fences, and assures that the court is an ITF standard tennis court in good condition. This data is saved under the name you assign. The next time you are training on that court, you do not have to run calibration again - the BallBOPPer will use the data previously gathered.
 
 The eight buttons at the top of the Controller mirror the functions of the four physical buttons on the BallBOPPer robot.
 
@@ -32,7 +34,7 @@ If you press the Queue button on the robot, you can cycle through and select, us
 
 Delay will delay the beginning of the playing of a Drill or Pattern by 15 seconds each time it is pressed. Press twice for a 30 second delay, three times for 45 seconds, etc. 
 
-Locate is used for calibrating the Location system before beginning a training session on an unfamiliar court.
+Navigate is used for calibrating the Navigation system before beginning a training session on an unfamiliar court.
 
 Pressing Reload will present you with three ball reloading options: Zone Control Sweep, Back Court Sweep and Ball Search Sweep.
 
