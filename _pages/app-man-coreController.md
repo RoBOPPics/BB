@@ -14,17 +14,17 @@ The Core Controller gives you direct control over the BallBOPPer robot.
 
 When you press Play this Pattern in a Patterns kabob menu, the Pattern is transmitted to the robot, and the Controller pops up automatically in the App. Press PLAY and the robot will begin playing the Pattern. 
 
-![Controller Image](../assets/images/CoreController500.jpg){: width="300" .align-center }
+![Controller Image](../assets/images/CoreController_500.jpg){: width="300" .align-center }
 
 The eight buttons at the top of the Controller mirror the functions of the four physical buttons on the BallBOPPer robot.
 
-The top row of buttons in the App: Stop, Pause, Play and Select; are the same as when you press the identical physical buttons on the robot.
+The top row of buttons in the App: Stop, Pause, Play and Queue; are the same as when you press the identical physical buttons on the robot.
 
-The second row of buttons in the App: Reboot, Reload, Delay and Locate; are the same as the physical buttons on the robot when you press and hold the button for three seconds.
+The second row of buttons in the App: Reboot, Reload, Delay and Navigate; are the same as the physical buttons on the robot when you press and hold the button for three seconds.
 
 Reboot will reboot the BallBOPPer's onboard computer. 
 
-Select is for selecting the Drill or Pattern you wish to play. Pressing Select in the App sends you back to the Pattern Libraries where you can select from all of the possibilities in the libraries. When you press the Select button on the robot, you can cycle through and select, using the buttons and display on the robot, from the Drills and Patterns that you have previously played on the robot. This makes it possible to play Drills and Patterns, those that you have previously played on the robot, when on-court without a smartphone or tablet (see the Robot Manual for more details). 
+Queue is for queueing the Drill or Pattern you wish to play onto the BallBOPPer. Pressing Queue in the App sends you back to the Pattern Libraries where you can select from all of the possibilities in the libraries. You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu on a Pattern or Playlist to transmit and queue the Pattern or Playlist on the BallBOPPer. The BallBOPPer will respond by displaying the 8 character "Display Name" on its LED display. When you press the Queue button on the robot, you can cycle through and select, using the buttons and display on the robot, from the Drills and Patterns that you have previously queued on the robot. This makes it possible to play Drills and Patterns, those that you have previously played on the robot, when on-court without a smartphone or tablet (see the Robot Manual for more details). 
 
 Delay will delay the beginning of the playing of a Drill or Pattern by 15 seconds each time it is pressed. Press twice for a 30 second delay, three times for 45 seconds, etc. 
 
