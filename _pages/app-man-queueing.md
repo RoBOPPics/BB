@@ -26,7 +26,7 @@ This menu item on the Queueing page will copy the Pattern into the selected Play
 
 The selected Playlist is the Playlist that appears under the Selected Playlist tab in the Pattern and Playlist Libraries.
 
-This is how you construct a Playlist. You create a new Playlist and select it in the Playlist Libray. It then will be displayed under the Selected Playlist tab. Then go to your Pattern Library, click the Kabob menu on each Pattern you wish to add to your Playlist, and then select "Copy to Selected Playlist".
+This is how you construct a Playlist. You create a new Playlist and select it in the Playlist Library. It then will be displayed under the Selected Playlist tab. Then go to your Pattern Library, click the Kabob menu on each Pattern you wish to add to your Playlist, and then select "Copy to Selected Playlist". You will then be automatically forwarded to the Selected Playlist tab where you can see the Pattern has been added to the Playlist.
 
 ## Playlist Queueing
 
