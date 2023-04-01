@@ -8,9 +8,7 @@ sidebar:
   nav: "appman"
 ---
 
-## Queueing
-
-# Pattern Queueing
+## Pattern Queueing
 
 ![KabobMenu Image](../assets/images/KabobMenu001_500.jpg){: width="300" .align-center } 
 
@@ -22,7 +20,15 @@ Queueing is the process of transmitting the Pattern (or Playlist) to the BallBOP
 
 The Control page will then automatically pop up in the App, and when you click the Play button, the BallBOPPer will begin playing the Pattern.
 
-# Playlist Queueing
+## Copy to Selected Playlist
+
+This menu item on the Queueing page will copy the Pattern into the selected Playlist.
+
+The selected Playlist is the Playlist that appears under the Selected Playlist tab in the Pattern and Playlist Libraries.
+
+This is how you construct a Playlist. You create a new Playlist and select it in the Playlist Libray. It then will be displayed under the Selected Playlist tab. Then go to your Pattern Library, click the Kabob menu on each Pattern you wish to add to your Playlist, and then select "Copy to Selected Playlist".
+
+## Playlist Queueing
 
 When you tap on the kabob menu on a Playlist in the Playlist Library, you get the Queueing page for the selected Playlist.
 
@@ -35,6 +41,26 @@ The Control page will then automatically pop up in the App, and when you click t
 The Queue can have a mixture of Patterns and Playlists, but the last item that was Queued is always at the top of the queue - next up to be Played.
 
 When you press "Queue this Pattern" in a Patterns kabob menu, the Pattern is transmitted to the robot, and queued on the BallBOPPer for playing. The Controller page will then pop up automatically in the App. Press PLAY and the robot will begin playing the Pattern. 
+
+## Submit Story on this Pattern (or Playlist)
+
+This menu item appears on both the Pattern and Playlist Queueing page and has the same effect.
+
+If you have played a Pattern a number of times, and wish to provide information for other players on this Pattern, then you can write a Player Story. Tapping on "Submit Story on this Pattern" will bring up the Story entry form, where you can tap out your story and even add Photos or Videos of you playing this Pattern. After approval, these Stories will then show up in the window at the top of the Queueing page, to help other players decide whether they want to Download the Pattern from the Catalog.
+
+Negative or derogatory information will not be approved. Only positive feedback will be published in the Catalog.
+
+## Submit Pattern (or Playlist) to Catalog
+
+This menu item appears on both the Pattern and Playlist Queueing page and has the same effect.
+
+Submitting a Pattern or Playlist to the Catalog it will be uploaded into the online Catalog. 
+
+After it is approved, it will then appear to all users for downloading and playing.
+
+You can only submit a Pattern or Playlist to the Catalog that you have authored. When you open a Pattern that someone else authored, even if you have modified it, this menu item will not appear. 
+
+The "Submit Pattern (or Playlist) to Catalog" item will continue to appear on the items that you have authored after submitting to the Catalog. This allows you to upload newer versions which will replace the original version in the Catalog.
 
   <nav class="pagination">
       <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Shot Designer">Previous</a>
