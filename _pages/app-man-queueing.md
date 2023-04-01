@@ -10,11 +10,15 @@ sidebar:
 
 ## Queueing
 
-When you tap on the kabob menu on a Pattern in the Pattern Library, you get a number of important options.
+When you tap on the kabob menu on a Pattern in the Pattern Library, you get the Queueing page for the selected Pattern.
+
+Queueing is the process of transmitting the Pattern (or Playlist) to the BallBOPPer where it is placed on the top of Play queue. Next up to be Played.
 
 ![PatternModal Image](../assets/images/PatternModal003_500.jpg){: width="300" .align-center } 
 
-When you tap on the kabob menu on a Playlist in the Playlist Library, you get a similar set of options.
+When you tap on the kabob menu on a Playlist in the Playlist Library, you get the Queueing page for the selected Playlist.
+
+Queueing is the process of transmitting the Playlist to the BallBOPPer where it is placed on the top of Play queue.  The Queue can have a mixture of Patterns and Playlists, but the last item that was Queued is always at the top. Next up to be Played.
 
 ![PlaylistModal Image](../assets/images/PlaylistModal002_500.jpg){: width="300" .align-center }
 
