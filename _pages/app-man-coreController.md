@@ -108,7 +108,7 @@ The Rover Zone Controller is a positional controller that gives you the ability 
 
 Press the spot where you want the BallBOPPer to move to, then press the "Rove to Position" button, and the BallBOPPer will travel to that spot, shutdown and wait. The Stop button is included in the event you need to stop the BallBOPPer while roving.
 
-If you are using the Zone Controller in the context of the Zone Controller Sweep function, as explained above, then the robot will reload all of the balls it finds in the destination zone, and then wait to be sent to a different zone to repeat the ball reloading process.
+If you are using the Rover Controller in the context of the Zone Controller Sweep function, as explained above, then the robot will reload all of the balls it finds in the destination zone, and then wait to be sent to a different zone to repeat the ball reloading process.
 
   <nav class="pagination">
       <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Shot Designer">Previous</a>
