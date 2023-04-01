@@ -17,7 +17,7 @@ The documentation for the BallBOPPer App and the BallBOPPer Robot are currently 
 
 ![Catalog Image](/assets/images/BallBOPPerShotCropped002_500.jpg){: width="400" .align-center } 
 
-The bottom of each page has Previous and Next buttons for navigating through this information in order.
+The bottom of each page in this documentation has Previous and Next buttons. This is to make it easier to navigate through this information in sequential order.
 
   <nav class="pagination">
       <a  class="pagination--pager disabled">The Beginning</a>
