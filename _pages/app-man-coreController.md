@@ -12,8 +12,6 @@ sidebar:
 
 The Controller section gives you direct control over the BallBOPPer robot. 
 
-When you press "Queue this Pattern" in a Patterns kabob menu, the Pattern is transmitted to the robot, and queued on the BallBOPPer for playing. The Controller page will then pop up automatically in the App. Press PLAY and the robot will begin playing the Pattern. 
-
 ![Controller Image](../assets/images/ControllerScreen_500.png){: width="300" .align-center }
 
 ## Court Name
