@@ -56,13 +56,15 @@ Pressing Reload will present you with three ball reloading options: Zone Control
 
 ![Reloader Image](../assets/images/ReloaderOptions.jpg){: width="300" .align-center }
 
-The Zone Control Sweep option gives you manual control over the ball reloading process. When you choose this option, you are presented with the Rover Zone Controller. You use the Zone Controller to send the BallBOPPer to a particular Zone on the court, and it will reload all of the balls it finds there. You can continue to send the BallBOPPer to the zones that contain balls until they are all collected.
+The Zone Control Sweep option gives you manual control over the ball reloading process. When you choose this option, you can use the Rover Controller to send the BallBOPPer to a particular Zone on the court, and it will reload all of the balls it finds in that zone. You can continue to send the BallBOPPer to the zones that contain balls until they are all collected.
 
-With the Back Court Sweep option, the BallBOPPer will sweep the entire area behind the baseline of its side of the court, collecting all of the balls it finds there. 
+With the Back Court Sweep option, the BallBOPPer will sweep the area behind the baseline of its side of the court, beginning along the outer edge, collecting all of the balls it finds. You can help speed things up by rolling any errant balls into the back court area.
 
 With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras to locate concentrations of balls and plan and execute it's own reloading process.
 
-Note that you can switch between these three methods as needed, to expedite the reloading of the balls. Also note that the robot will only reload the balls that are found on it's side of the court. See the Robot Manual for best practices when using the Reloading function.
+Note that you can switch between these three methods as needed, to expedite the reloading of the balls. 
+
+Also note that the robot will only reload the balls that are found on it's side of the court. Any balls that the player was unable to hit over the net will need to be rolled into the BallBOPPer's side of the court. See the Robot Manual for best practices when using the Reloading function.
 
 ## Ad Hoc Launcher
 
