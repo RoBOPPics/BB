@@ -33,9 +33,7 @@ The Predictability tab provides two important ways you can make your patterns le
 
 The Alternate Shots lets you set three different shots for a single shot. The system will pick one of the three Alternates at launch time based on the probabilies you set. 
 
-The Repeated Shot feature lets you repeat a shot an indeterminant number of times. 
-
-More information will be available as these features mature in the first release version.
+The Repeating Range feature lets you repeat a shot an indeterminant number of times. 
 
 ![Playlist Image](../assets/images/Probability_BallBopperApp001_500.jpg){: width="300" .align-center }
 
