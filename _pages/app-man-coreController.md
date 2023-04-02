@@ -14,7 +14,7 @@ The Controller section gives you direct control over the BallBOPPer robot.
 
 ![Controller Image](../assets/images/ControllerScreen_500.png){: width="300" .align-center }
 
-## Court Name
+## Court
 
 The name you have given to the court that you are currently training on should be displayed at the top of the Controller page.
 
@@ -58,7 +58,7 @@ The robot will only reload the balls that are found on it's side of the court. A
 
 Delay will Play the currently Queued Pattern or Playlist, but will delay starting by 15 seconds each time you press the Delay button. Press twice for a 30 second delay, three times for 45 seconds, etc. 
 
-Navigate is used for calibrating the Navigation system before beginning a training session on an unfamiliar court. This is explained under the Court Name section above.
+Navigate is used for calibrating the Navigation system before beginning a training session on an unfamiliar court. This is explained under the Court section above.
 
 ## Ad Hoc Launcher
 
