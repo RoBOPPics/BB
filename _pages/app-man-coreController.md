@@ -50,7 +50,7 @@ Note that the way the Queue button works in the app, and the way the physical Qu
 
 ## Reboot, Reload, Delay, Navigate
 
-The second row of buttons in the App: Reboot, Reload, Delay and Navigate; are the same as the physical buttons on the robot when you press and hold the button for three seconds.
+The second row of buttons in the App: Reboot, Reload, Delay and Navigate; are the same as the physical buttons on the robot when you press and hold the physical button for three seconds.
 
 Reboot will reboot the BallBOPPer's onboard computer. 
 
