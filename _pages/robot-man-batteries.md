@@ -12,5 +12,5 @@ Documentation will appear here at the same time as the deliver of the first Ball
 
   <nav class="pagination">
       <a href="/BallBOPPer/appmanreloader/" class="pagination--pager" title="Reloader">Previous</a>
-       <a href="/BallBOPPer/robotmanrover/" class="pagination--pager" title="Rover">Next</a>
+       <a  class="pagination--pager disabled">The End</a>
   </nav>
