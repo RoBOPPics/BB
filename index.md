@@ -21,6 +21,6 @@ The bottom of each page in this documentation has Previous and Next buttons. Thi
 
   <nav class="pagination">
       <a  class="pagination--pager disabled">The Beginning</a>
-      <a href="/BallBOPPer/appQuickstart/" class="pagination--pager" title="Connect">Next</a> 
+      <a href="/BallBOPPer/appQuickstart/" class="pagination--pager" title="App Reference">Next</a> 
   </nav>
  
