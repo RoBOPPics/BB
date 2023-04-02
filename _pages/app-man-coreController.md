@@ -32,7 +32,7 @@ The only way the BallBOPPer will operate when not on a tennis court is with the 
 
 With the Navigation Service turned Off, you will need to manually position and point the Robot in the correct direction. You may also need to adjust the Launch and Bounce points in your patterns according to the space that is available. It is best to create your own custom patterns that work specifically in your particular off-court location.
 
-## Control
+## Stop, Play, Pause, Queue
 
 The eight buttons at the top of the Control section mirror the functions of the four physical buttons on the BallBOPPer robot.
 
@@ -40,21 +40,21 @@ The top row of buttons in the App: Stop, Pause, Play and Queue; are the same as 
 
 The second row of buttons in the App: Reboot, Reload, Delay and Navigate; are the same as the physical buttons on the robot when you press and hold the button for three seconds.
 
+Pressing the Queue button will send you to the Pattern Libraries where you can select from all of the possibilities in the libraries. You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu on a Pattern or Playlist to transmit and queue the Pattern or Playlist on the BallBOPPer. The BallBOPPer will respond by displaying the 8 character "Display Name" of the Pattern or Playlist on its LED display. See the "Pattern and Playlist Queueing" section for more information.
+
+If you press the Queue button on the robot, you can cycle through and select from the Patterns and Playlists that you have previously Queued on the robot. This makes it possible to play Patterns and Playlists when on-court without a smartphone or tablet.
+
+## Reboot, Reload, Delay, Navigate
+
 Reboot will reboot the BallBOPPer's onboard computer. 
-
-Pressing the Queue button in the App will send you to the Pattern Libraries where you can select from all of the possibilities in the libraries. You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu on a Pattern or Playlist to transmit and queue the Pattern or Playlist on the BallBOPPer. The BallBOPPer will respond by displaying the 8 character "Display Name" of the Pattern or Playlist on its LED display. 
-
-If you press the Queue button on the robot, you can cycle through and select, using the buttons and display on the robot, from the Drills and Patterns that you have previously queued on the robot. This makes it possible to play Drills and Patterns, those that you have previously played on the robot, when on-court without a smartphone or tablet. 
-
-Delay will Play the currently Queued Pattern or Playlist, but will delay starting by 15 seconds each time you press the Delay button. Press twice for a 30 second delay, three times for 45 seconds, etc. 
-
-Navigate is used for calibrating the Navigation system before beginning a training session on an unfamiliar court. This is explained under the Court Name section above.
-
-## Reload
 
 Pressing Reload will start BallBOPPer roving the court and reloading the balls back into the Ball Bucket.
 
 The robot will only reload the balls that are found on it's side of the court. Any balls that the player was unable to hit over the net, or ended up on an adjacent court, will need to be rolled into the BallBOPPer's side of the practice court for reloading. 
+
+Delay will Play the currently Queued Pattern or Playlist, but will delay starting by 15 seconds each time you press the Delay button. Press twice for a 30 second delay, three times for 45 seconds, etc. 
+
+Navigate is used for calibrating the Navigation system before beginning a training session on an unfamiliar court. This is explained under the Court Name section above.
 
 ## Ad Hoc Launcher
 
