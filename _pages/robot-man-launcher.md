@@ -1,6 +1,9 @@
 ---
 permalink: /robotmanlauncher/
 title: "Launcher"
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 sidebar:
   nav: "robotman"
 ---
