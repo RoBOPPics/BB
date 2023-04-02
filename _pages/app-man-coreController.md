@@ -18,7 +18,11 @@ The Controller section gives you direct control over the BallBOPPer robot.
 
 The name you have given to the court that you are currently training on should be displayed at the top of the Controller page.
 
-If you have never used the BallBOPPer on this court before, then you will need to run the court Navigation routine by pressing the Navigate button. This gathers navigation data on the court, such as: the GPS location of the court, the depth of the margins around the court, which sides of the court have fences, and assures that the court is an ITF standard tennis court in good condition. This data is saved under the name you assign. The next time you are training on that court, you do not have to run navigation again - the BallBOPPer will use the data previously gathered.
+If you have never used the BallBOPPer on this court before, then you will need to run the court Navigation routine by pressing the Navigate button. 
+
+After pressing the Navigate button, the BallBOPPer will gather navigation data on the court, such as: the GPS location of the court, the depth of the margins around the court, which sides of the court have fences, and assures that the court is an ITF standard tennis court in good condition. 
+
+This data is saved under the name you assign. The next time you are training on that court, you do not have to run navigation again - the BallBOPPer will use the data previously gathered.
 
 ## System Settings
 
