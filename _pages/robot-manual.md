@@ -12,7 +12,7 @@ The 2023 prototype of the BallBOPPer autonomous tennis training robot is current
 
 ![BallBOPPerSep Image](../assets/images/BallBOPPerSeparate003_500.png){: width="400" .align-center } 
 
-A technology demonstration video is expected to be released Spring of 2023.
+A technology demonstration video is expected to be available during the Spring of 2023.
 
 The Kickstarter launch is currently planned for Summer or Fall of 2023.
 
