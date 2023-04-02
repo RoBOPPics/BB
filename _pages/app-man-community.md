@@ -22,6 +22,8 @@ All Stories are reviewed before they will appear in the feed to others. Only pos
 
 Users can "Bopp" the stories that they like, and they can also add their own additional "Insights". 
 
+Users can also report Stories or Insights (using the flag button) that they feel are inappropriate.
+
 The feed also contains instructional and support information curated by RoBOPPics. 
 
 Set the filter at the top of the page to display the type of information you want to see. The choices currently are: All, Support, Workout, Skills, Tactics, Strategy, Mindset and Suggestions.
