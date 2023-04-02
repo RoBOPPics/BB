@@ -8,7 +8,7 @@ sidebar:
   nav: "robotman"
 ---
 
-Documentation will appear here at the same time as the deliver of the first BallBOPPer robots.
+The final documentation for Kickstarter version of the BallBOPPer will be found here at the same time that the first set of robots are shipped to players.
 
   <nav class="pagination">
       <a href="/BallBOPPer/robotmanlauncher/" class="pagination--pager" title="Launcher Manual">Previous</a>
