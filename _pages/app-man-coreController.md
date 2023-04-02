@@ -96,9 +96,9 @@ Each command is preceeded by "BB" which is short for BallBOPPer. You must say "B
 
 ## Rover
 
-### Rover Zone Controller
+### Rover Controller
 
-The Rover Zone Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. 
+The Rover Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. 
 
 ![Playlist Image](../assets/images/RoverControllerScreen_500.jpg){: width="300" .align-center }
 
