@@ -1,6 +1,9 @@
 ---
 permalink: /robotmanreloader/
 title: "Reloader"
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 sidebar:
   nav: "robotman"
 ---
