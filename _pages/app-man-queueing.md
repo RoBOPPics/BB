@@ -46,9 +46,9 @@ This menu item appears on both the Pattern and Playlist Queueing pages and has t
 
 If you have played a Pattern (or Playlist) a number of times, and wish to provide information for other players, then you can write and submit a Player Story. Tapping on "Submit Story on this Pattern (or Playlist)" will bring up the Story entry form, where you can tap out your story and even add Photos or Videos of you playing this Pattern. 
 
-After approval, these Stories will then show up in the window at the top of the Queueing page, to help other players decide whether they want to Download the Pattern from the Catalog.
+After approval, these Stories will then show up in the window at the top of the Queueing page, as well as in the Community Feed to help other players decide whether they want to Download and Play the Pattern or Playlist from the Catalog.
 
-Negative or derogatory information will not be approved. Only positive feedback will be published in the Catalog.
+All Stories are reviewed before they will appear in the feed to others. Only positive information will be approved.
 
 There is more information on Player Stories in the Community section of this documentation.
 
