@@ -17,5 +17,5 @@ The final documentation for the launch version of the BallBOPPer will be found h
 
   <nav class="pagination">
       <a href="/BallBOPPer/appmancatalog/" class="pagination--pager" title="Catalog">Previous</a>
-       <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Robot Manual">Next</a>
+       <a href="/BallBOPPer/robotmanlauncher/" class="pagination--pager" title="Launcher">Next</a>
   </nav>
