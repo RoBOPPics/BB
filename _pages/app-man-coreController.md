@@ -36,15 +36,19 @@ With the Navigation Service turned Off, you will need to manually position and p
 
 The eight buttons at the top of the Control section mirror the functions of the four physical buttons on the BallBOPPer robot.
 
-The top row of buttons in the App: Stop, Pause, Play and Queue; are the same as when you press the identical physical buttons on the robot.
+Stop will stop the BallBOPPer at its current position, and it will turn back in the direction of the Player and wait. When you press Stop during the playing of a Pattern or Playlist, the position in the Pattern or Playlist will be lost. The next time you press Play, the Pattern or Playlist will start playing from the beginning.
 
-The second row of buttons in the App: Reboot, Reload, Delay and Navigate; are the same as the physical buttons on the robot when you press and hold the button for three seconds.
+Pause will also stop the BallBOPPer at its current position. The difference is that if you press Pause while playing a Pattern or Playlist, the position where it was paused in the Pattern or Playlist will be remembered, and when you press Play again, it will pick up where it left off.
 
-Pressing the Queue button will send you to the Pattern Libraries where you can select from all of the possibilities in the libraries. You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu on a Pattern or Playlist to transmit and queue the Pattern or Playlist on the BallBOPPer. The BallBOPPer will respond by displaying the 8 character "Display Name" of the Pattern or Playlist on its LED display. See the "Pattern and Playlist Queueing" section for more information.
+Pressing the Queue button will send you to the Pattern Libraries where you can select from all of the possibilities in the libraries.
+
+You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu on a Pattern or Playlist to transmit and queue the Pattern or Playlist on the BallBOPPer. See the "Pattern and Playlist Queueing" section for more information.
 
 If you press the Queue button on the robot, you can cycle through and select from the Patterns and Playlists that you have previously Queued on the robot. This makes it possible to play Patterns and Playlists when on-court without a smartphone or tablet.
 
 ## Reboot, Reload, Delay, Navigate
+
+The second row of buttons in the App: Reboot, Reload, Delay and Navigate; are the same as the physical buttons on the robot when you press and hold the button for three seconds.
 
 Reboot will reboot the BallBOPPer's onboard computer. 
 
