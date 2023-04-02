@@ -36,17 +36,17 @@ With the Navigation Service turned Off, you will need to manually position and p
 
 ## Stop, Play, Pause, Queue
 
-The eight buttons at the top of the Control section mirror the functions of the four physical buttons on the BallBOPPer robot.
+The four buttons at the top of the Control section mirror the functions of the four physical buttons on the BallBOPPer robot.
 
-Stop will stop the BallBOPPer at its current position, and it will turn back in the direction of the Player and wait. When you press Stop during the playing of a Pattern or Playlist, the position in the Pattern or Playlist will be lost. The next time you press Play, the Pattern or Playlist will start playing from the beginning.
+Stop will stop the BallBOPPer at its current position, and it will turn to face in the direction of the Player and wait. When you press Stop during the playing of a Pattern or Playlist, the position in the Pattern or Playlist will be lost. The next time you press Play, the Pattern or Playlist will start playing from the beginning.
 
 Pause will also stop the BallBOPPer at its current position. The difference is that if you press Pause while playing a Pattern or Playlist, the position where it was paused in the Pattern or Playlist will be remembered, and when you press Play again, it will pick up where it left off.
 
-Pressing the Queue button will send you to the Pattern Libraries where you can select from all of the possibilities in the libraries.
+Pressing the Queue button will send you to the Pattern Libraries where you can select from all of the possibilities in the libraries. 
 
 You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu on a Pattern or Playlist to transmit and queue the Pattern or Playlist on the BallBOPPer. See the "Pattern and Playlist Queueing" section for more information.
 
-If you press the Queue button on the robot, you can cycle through and select from the Patterns and Playlists that you have previously Queued on the robot. This makes it possible to play Patterns and Playlists when on-court without a smartphone or tablet.
+Note that the way the Queue button works in the app, and the way the physical Queue button works on the robot, is different. If you press the Queue button on the robot, you can cycle through and select from the Patterns and Playlists that you have previously Queued on the robot. This makes it possible to play Patterns and Playlists when on-court without a smartphone or tablet.
 
 ## Reboot, Reload, Delay, Navigate
 
