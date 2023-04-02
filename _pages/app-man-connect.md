@@ -13,11 +13,9 @@ Much of the beta version of the BallBOPPer App, that is currently available in t
 
 You can download the App onto your Android device, and then go through the App and explore the Pattern and Playlist Libraries, the Community, the Catalog, and the Controller. 
 
-An email and password are all that is currently required to create a login. This will allow you to create your own custom Patterns and Playlists, and add your own Stories into the Community feed.
-
-When the BallBOPPer is officially released, this will change, and two factor authentication will be required.
-
 ## Login
+
+An email and password are all that is required to create a login for the beta App. This will allow you to create your own custom Patterns and Playlists, and add your own Stories into the Community feed.
 
 ![Prelogin Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
 
@@ -30,6 +28,7 @@ Clicking on the Login button will take you to the login page.
 ![Login Image](../assets/images/Login500.jpg){: width="300" .align-center } 
 
 ## Sign up now
+
 If this is your first time logging in, you will need to setup your account. 
 
 Click on "Sign up now".
