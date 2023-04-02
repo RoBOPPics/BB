@@ -38,9 +38,7 @@ Queueing is the process of transmitting the Playlist to the BallBOPPer. When you
 
 The Control page will then automatically pop up in the App, and when you click the Play button, the BallBOPPer will begin playing the Playlist.
 
-The Queue can have a mixture of Patterns and Playlists, but the last item that was Queued is always at the top of the queue - next up to be Played.
-
-When you press "Queue this Pattern" in a Patterns kabob menu, the Pattern is transmitted to the robot, and queued on the BallBOPPer for playing. The Controller page will then pop up automatically in the App. Press PLAY and the robot will begin playing the Pattern. 
+The Queue can have a mixture of Patterns and Playlists, but the last item that was Queued is always at the top of the queue - next up to be Played. 
 
 ## Submit Story on this Pattern (or Playlist)
 
