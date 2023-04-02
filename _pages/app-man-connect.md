@@ -15,7 +15,7 @@ You can download the App onto your Android device, and then go through the App a
 
 ## Login
 
-An email and password are all that is required to create a login for the beta App. This will allow you to create your own custom Patterns and Playlists, and add your own Stories into the Community feed.
+Creating a login will allow you to create your own custom Patterns and Playlists, and add your own Stories into the Community feed.
 
 ![Prelogin Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
 
