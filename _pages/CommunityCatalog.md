@@ -20,5 +20,5 @@ The menu items for doing this are found on Queueing menu for the Pattern or Play
 
   <nav class="pagination">
       <a href="/BallBOPPer/community/" class="pagination--pager" title="Community">Previous</a>
-       <a href="/BallBOPPer/appmanintro/" class="pagination--pager" title="Robot Manual">Next</a>
+       <a href="/BallBOPPer/robotmanintro/" class="pagination--pager" title="Robot Manual">Next</a>
   </nav>
