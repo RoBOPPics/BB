@@ -22,6 +22,10 @@ To play a Pattern using the BallBOPPer, tap on the kabob menu (three vertical do
 
 See the "Pattern and Playlist Queueing" section for more information. 
 
+The BallBOPPer robot and the Pattern Library are all about creating "Patterns of Play".
+
+For more information on Patterns of Play, see the <a href="https://roboppics.com/blogs/news">What are Patterns of Play</a> article in the News section of the RoBOPPics website.
+
 Patterns of Play are for practicing tactics and strategy. They are based on different playing styles, and are less predictable, since a big part of match play is being prepared for the unexpected.
 
 All Patterns in the Pattern Library are editable. You cannot edit the attribution field for Patterns that have been downloaded from the Pattern and Playlist Catalog, but everything else in these Patterns can be edited to suit your preferences.
