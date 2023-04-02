@@ -1,12 +1,13 @@
 ---
 permalink: /appmanconnect/
-title: "Login"
+title: "Loging in to the App"
 toc: true
 toc_sticky: true
 toc_label: "Contents"
 sidebar:
   nav: "appman"
 ---
+## Beta Login Not Required
 
 Much of the beta version of the BallBOPPer App, that is currently available in the Google Play Store  (<a href="https://play.google.com/store/apps/details?id=com.RoBOPPics.bbapp18" >BallBOPPer App on Android</a>), can be navigated without having to log in. 
 
@@ -15,6 +16,8 @@ You can download the App onto your Android device, and then go through the App a
 An email and password are all that is currently required to create a login. This will allow you to create your own custom Patterns and Playlists, and add your own Stories into the Community feed.
 
 When the BallBOPPer is officially released, this will change, and the following Login information will apply to all users.
+
+## Login
 
 ![Prelogin Image](../assets/images/Prelogin500.jpg){: width="300" .align-center } 
 
@@ -35,10 +38,12 @@ During beta testing, only a username and password are required.
 
 When the BallBOPPer starts shipping to Players, two factor authentication will be enabled. You will then need to enter a verifiable email address, and a verifiable telephone number. These are required to prevent nefarious user's of the App from hijacking your BallBOPPer.
 
-## Login
+## Already have an account?
+
 If you already have an account, enter your email address and password.
 
 After logging in the first time, your credentials will be remembered by the App for up to 90 days.
+
 
   <nav class="pagination">
       <a href="/BallBOPPer/appQuickstart/" class="pagination--pager" title="App Reference">Previous</a>
