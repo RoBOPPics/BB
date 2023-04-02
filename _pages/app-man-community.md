@@ -22,7 +22,7 @@ The feed also contains instructional and support information. Set the filter at 
 
 ## Profile
 
-The Player Profile page lists your basic information along with links to the user manuals and other resources.
+The Player Profile page lists, and lets you edit, your user information. It also contains links to the user agreements, user manuals and other resources.
 
 ## Activity
 
