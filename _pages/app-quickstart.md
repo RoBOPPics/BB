@@ -19,7 +19,7 @@ A beta version of the BallBOPPer App is currently available for testing on Andro
 After the BallBOPPer Kickstarter launch, the release version of the BallBOPPer App will be available in the Google Play Store, the Apple App Store and the Microsoft App Store.  
 
   <nav class="pagination">
-      <a  class="pagination--pager disabled">The Beginning</a>
+      <a href="/BallBOPPer/appHome/" class="pagination--pager" title="Connect">Home</a> 
       <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Connect">Next</a> 
   </nav>
 
