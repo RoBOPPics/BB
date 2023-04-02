@@ -18,9 +18,7 @@ The Pattern Library lists the Patterns that you have created, or that you have d
 
 ![KabobMenu Image](../assets/images/KabobMenu001_500.jpg){: width="300" .align-center } 
 
-To play a Pattern using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Queue this Pattern". The Controller page will appear. Press Play and the BallBOPPer will begin playing the Pattern. 
-
-See the "Pattern and Playlist Queueing" section for more information. 
+To play a Pattern using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Queue this Pattern". The Controller page will appear. Press Play and the BallBOPPer will begin playing the Pattern. It really is that simple, but if you want to know more, see the "Pattern and Playlist Queueing" section for more information. 
 
 The BallBOPPer robot and the Pattern Library are all about creating "Patterns of Play".
 
