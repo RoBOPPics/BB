@@ -52,19 +52,9 @@ Navigate is used for calibrating the Navigation system before beginning a traini
 
 ## Reload
 
-Pressing Reload will present you with three ball reloading options: Zone Control Sweep, Back Court Sweep and Ball Search Sweep.
+Pressing Reload will start BallBOPPer roving the court and reloading the balls back into the Ball Bucket.
 
-![Reloader Image](../assets/images/ReloaderOptions.jpg){: width="300" .align-center }
-
-The Zone Control Sweep option gives you manual control over the ball reloading process. When you choose this option, you use the Rover Controller to send the BallBOPPer to a particular Zone on the court, and it will reload all of the balls it finds in that zone. You can continue to send the BallBOPPer to the zones that contain balls until they are all collected.
-
-With the Back Court Sweep option, the BallBOPPer will sweep the area behind the baseline of its side of the court, where the majoriety of balls will typically collect. The BallBOPPer will begin sweeping up the balls along the outer edges, and work it's way inward, collecting all of the balls within this entire area. You can help speed things up by rolling any errant balls into the back court area.
-
-With the Ball Search Sweep option, the BallBOPPer will use it's onboard cameras to locate concentrations of balls and plan and execute it's own reloading process. 
-
-Note that you can switch between these three methods as needed, to expedite the reloading of the balls. 
-
-Also note that the robot will only reload the balls that are found on it's side of the court. Any balls that the player was unable to hit over the net, or ended up on an adjacent court, will need to be rolled into the BallBOPPer's side of the practice court for reloading. 
+The robot will only reload the balls that are found on it's side of the court. Any balls that the player was unable to hit over the net, or ended up on an adjacent court, will need to be rolled into the BallBOPPer's side of the practice court for reloading. 
 
 ## Ad Hoc Launcher
 
