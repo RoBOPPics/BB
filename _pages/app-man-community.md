@@ -12,15 +12,15 @@ The Community has three tabs: Community, Profile and Activity.
 
 ## Community
 
-The Community provides a place for users of the App to post their stories about their training experiences using the BallBOPPer into the community feed. 
+The Community provides a place for users of the App for posting their stories, regarding their training experiences using the BallBOPPer, into the community feed. 
 
-You tap the title of your story at the top. Press enter. And you will be presented with the Story Entry form.
+You tap in the title of your story at the top. Press enter. And you will be presented with the Story Entry form.
 
 The form allows you to also add photos and videos of your training sessions.
 
 All Stories are reviewed before they will appear in the feed to others. Only positive information will be approved. 
 
-Others can "Bopp" your stories, and they can also add their own additional "Insights". 
+Users can "Bopp" the stories that they like, and they can also add their own additional "Insights". 
 
 The feed also contains instructional and support information curated by RoBOPPics. 
 
