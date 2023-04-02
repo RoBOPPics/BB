@@ -10,11 +10,11 @@ sidebar:
 
 The Catalog is similar to the Pattern and Playlist Libraries in that it has the same three tabs: Patterns, Selected Playlist, and Playlists. 
 
-The big difference between them is that everything in the catalog is online, and not on your phone or tablet. The Catalog contains additional Patterns and Playlists that you can browse through and download.
+The big difference between them is that everything in the catalog is online and is available to all BallBOPPer users, while the Patterns and Playlists in your Libraries are only on your phone or tablet. The Catalog contains community Patterns and Playlists that you can browse through and download.
 
 ![Catalog Image](../assets/images/Catalog500.jpg){: width="300" .align-center } 
 
-You cannot create a new Pattern or Playlist in the Catalog. 
+One other difference is that you cannot create a new Pattern or Playlist in the Catalog. 
 
 You create new Patterns and Playlists in your Library, and then if you want to share them with other BallBOPPer users, you can upload them to the Catalog. The menu items for doing this are found on Queueing menu for the Pattern or Playlist in their respective libraries. See the Pattern and Playlist Queueing section for additional details.
 
