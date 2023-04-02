@@ -28,9 +28,23 @@
     
   - title: "Pattern and Playlist Catalog"
     url: /appmancatalog/
+    
+ robotman:
       
    - title: "Robot Manual"
      url: /robotmanintro/
+     
+   - title: "Launcher"
+     url: /robotmanlauncher/
+     
+   - title: "Rover"
+     url: /robotmanrover/
+     
+   - title: "Reloader"
+     url: /robotmanreloader/
+     
+   - title: "Batteries"
+     url: /robotmanbatteries/
      
  termsofuse:
   - title: "Privacy Policy"
