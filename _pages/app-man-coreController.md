@@ -28,11 +28,9 @@ This data is saved under the name you assign. The next time you are training on 
 
 The three Settings on this page allow you to turn the Navigation, Rover and Reloader services On and Off. 
 
-You may wish to not use the Rover and Reloader for various reasons, and you can therefore turn them off. 
-
 If you are using the BallBOPPer in a location that is not a tennis court, such as your driveway or backyard, then the BallBOPPer will not be able to navigate and will indicate an ERROR. 
 
-The only way the BallBOPPer will operate when not on a tennis court is with the Navigation service turned Off. Also note that when you turn the Navigation service Off, it also turns Off the Rover and Reloader services. None of these three services will operate if you are not on an ITF standard tennis court in good condition. 
+The only way the BallBOPPer will operate when not on a tennis court is with the Navigation service turned Off. 
 
 With the Navigation Service turned Off, you will need to manually position and point the Robot in the correct direction. You may also need to adjust the Launch and Bounce points in your patterns according to the space that is available. It is best to create your own custom patterns that work specifically in your particular off-court location.
 
