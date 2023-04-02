@@ -12,9 +12,11 @@ The Community has three tabs: Community, Profile and Activity.
 
 ## Community
 
-The Community provides a place for users of the App to post their stories about their training experience into the community feed. 
+The Community provides a place for users of the App to post their stories about their training experiences using the BallBOPPer into the community feed. 
 
-Your Stories can also contain photos and videos.
+You tap the title of your story at the top. Press enter. And you will be presented with the Story Entry form.
+
+The form allows you to also add photos and videos of your training sessions.
 
 All Stories are reviewed before they will appear in the feed to others. Only positive information will be approved. 
 
@@ -30,11 +32,11 @@ Set the filter at the top of the page to display the type of information you wan
 
 The Player Profile page lists, and lets you edit, your user information. 
 
-It also contains links to the user agreements, user manuals and other resources.
+It also contains links to the Privacy Policy, Terms and Conditions, Instruction and Operating Manuals and a link for reporting Issues.
 
 ## Activity
 
-The Activity page lists everything you have created or played in the app. 
+The Activity page is simply a list of everything you have created or played using the app. 
 
 Each entry is a link to that item, giving you an easy way to go back to a Pattern, Playlist, Story or Insight that you created or enjoyed playing.
 
