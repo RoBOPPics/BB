@@ -1,4 +1,7 @@
  appman:
+   - title: App Reference
+    url: /appQuickstart/
+    
   - title: Login
     url: /appmanconnect/
     
