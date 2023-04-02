@@ -1,6 +1,9 @@
 ---
 permalink: /robotmanbatteries/
 title: "Batteries"
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 sidebar:
   nav: "robotman"
 ---
