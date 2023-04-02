@@ -1,8 +1,8 @@
 ---
 permalink: /robotmanintro/
-title: "Introduction"
+title: "Robot Manual"
 sidebar:
-  nav: "robotman"
+  nav: "appman"
 ---
 
 The 2023 prototype of the BallBOPPer autonomous tennis training robot is currently being tested, and is evolving rapidly towards a first release.
