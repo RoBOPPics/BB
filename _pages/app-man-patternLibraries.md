@@ -29,7 +29,7 @@ The Pattern Queuing page will then appear with the options for the selected Patt
 
 ![PatternModal Image](../assets/images/PatternModal005_500.jpg){: width="300" .align-center } 
 
-After selecting Queue this Pattern, and after the Pattern is transmitted to the BallBOPPer, the Controller page will appear. 
+Tap the "Queue this Pattern" button, and after the Pattern is transmitted to the BallBOPPer, the Controller page will appear. 
 
 Press Play in the Controller and the BallBOPPer will begin playing the Pattern. See the "Pattern and Playlist Queueing" section for more information. 
 
@@ -41,7 +41,7 @@ The Selected Playlist is for viewing and editing a Playlist including the indivi
 
 ![Custom Image](../assets/images/SelectedPatternScreen_500.png){: width="300" .align-center } 
 
-To play the Selected Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Play this Playlist".
+Here you can see all of the Patterns that make up the Playlist. You can drill down in each to see how they are set up. And you can edit them. Note that Patterns in a Playlist are copies. Changes you make to them will not effect the originals in the Pattern Library.
 
 ## Playlist Library
 The Playlist Library lists all of the Playlists that you have either created or downloaded from the Pattern and Playlist Catalog.
