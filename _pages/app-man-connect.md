@@ -17,7 +17,7 @@ You can download the App onto your Android device, and then go through the App a
 
 Creating a login will allow you to create your own custom Patterns and Playlists, and add your own Stories into the Community feed.
 
-![Prelogin Image](../assets/images/LogInScreen_500.jpg){: width="300" .align-center } 
+![Prelogin Image](../assets/images/LogInScreen_500.png){: width="300" .align-center } 
 
 Clicking on the Privacy Policy, and Terms and Conditions buttons will take you to these documents so that you can read them.
 
@@ -25,7 +25,7 @@ Checking the box will indicate your agreement to them, and will light up the Log
 
 Clicking on the Login button will take you to the login page.
 
-![Login Image](../assets/images/LogInPage_500.jpg){: width="300" .align-center } 
+![Login Image](../assets/images/LogInPage_500.png){: width="300" .align-center } 
 
 ## Creating an Account
 
