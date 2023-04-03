@@ -66,7 +66,7 @@ Note that Patterns in a Playlist are copies. Changes you make to them will not e
 ## Playlist Library
 The Playlist Library lists all of the Playlists that you have either created or downloaded from the Pattern and Playlist Catalog.
 
-![Catalog Image](../assets/images/PatternLibrary_500.jpg){: width="300" .align-center } 
+![Catalog Image](../assets/images/PlaylistLibrary_500.jpg){: width="300" .align-center } 
 
 # Playlist Kabob Menu
 
