@@ -59,15 +59,16 @@ The Selected Playlist is for viewing and editing a Playlist including the indivi
 
 ![Custom Image](../assets/images/SelectedPatternScreen_500.png){: width="300" .align-center } 
 
-To appear in the Selected Playlist tab, you first go to the Playlist Library, and tap on the Playlist you wish to view or edit.
+To display a Playlist in the Selected Playlist tab, you first go to the Playlist Library, and tap on the Playlist you wish to view or edit.
 
 The Selected Playlist will then display all of the Patterns in the Playlist in the order in which they will be played. 
 
-You can tap on each Pattern to open them in the Pattern Designer where you can view and edit the Pattern and Shot details.
+In the Selected Playlist, you can tap on each Pattern to open them in the Pattern Designer, where you can view and edit the Pattern and Shot details.
 
 The Patterns in a Playlist are copies. Changes you make to them will not effect the originals in the Pattern Library.
 
 ## Playlist Library
+
 The Playlist Library lists all of the Playlists that you have either created or downloaded from the Pattern and Playlist Catalog.
 
 ![Catalog Image](../assets/images/PlaylistScreen_500.jpg){: width="300" .align-center } 
