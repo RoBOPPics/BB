@@ -28,7 +28,7 @@ The feed also contains instructional and support information curated by RoBOPPic
 
 Set the filter at the top of the page to display the type of information you want to see. The choices currently are: All, Support, Workout, Skills, Tactics, Strategy, Mindset and Suggestions.
 
-![Community Image](../assets/images/PlayerCommunity500.jpg){: width="300" .align-center } 
+![Community Image](../assets/images/PlayerCommunity_500.jpg){: width="300" .align-center } 
 
 ## Profile
 
