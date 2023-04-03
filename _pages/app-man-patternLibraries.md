@@ -70,7 +70,11 @@ The Playlist Library lists all of the Playlists that you have either created or 
 
 # Playlist Kabob Menu
 
-To play a Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots) and the Playlist menu page will appear. 
+To play a Playlist using the BallBOPPer, tap on the kabob menu. 
+
+![KabobMenu Image](../assets/images/PlaylistKabobMenu001_500.jpg){: width="300" .align-center } 
+
+The Playlist Kabob Menu will appear.
 
 ![PatternModal Image](../assets/images/PlaylistModal005_500.jpg){: width="300" .align-center }
 
