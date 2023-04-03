@@ -41,7 +41,9 @@ The Selected Playlist is for viewing and editing a Playlist including the indivi
 
 ![Custom Image](../assets/images/SelectedPatternScreen_500.png){: width="300" .align-center } 
 
-Here you can see all of the Patterns that make up the Playlist. You can drill down in each to see how they are set up. And you can edit them. Note that Patterns in a Playlist are copies. Changes you make to them will not effect the originals in the Pattern Library.
+Here you can see all of the Patterns that make up the Playlist. You can drill down in each to see how they are set up. And you can edit them. 
+
+Note that Patterns in a Playlist are copies. Changes you make to them will not effect the originals in the Pattern Library.
 
 ## Playlist Library
 The Playlist Library lists all of the Playlists that you have either created or downloaded from the Pattern and Playlist Catalog.
