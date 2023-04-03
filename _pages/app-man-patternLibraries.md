@@ -21,6 +21,10 @@ The Pattern Library lists the Patterns that you have created, or that you have d
 
 ![Catalog Image](../assets/images/PatternLibrary_500.jpg){: width="300" .align-center } 
 
+All Patterns in the Pattern Library are editable. Tap on a Pattern and it will open in the Pattern Designer. 
+
+You cannot edit the attribution field for Patterns that have been downloaded from the Pattern and Playlist Catalog, but everything else in Catalog Patterns can be edited to suit your preferences.
+
 To play a Pattern using the BallBOPPer, tap on the kabob menu (three vertical dots).
 
 ![KabobMenu Image](../assets/images/KabobMenu001_500.jpg){: width="300" .align-center } 
@@ -28,10 +32,6 @@ To play a Pattern using the BallBOPPer, tap on the kabob menu (three vertical do
 The Pattern menu page will then appear with the options for the selected Pattern.
 
 ![PatternModal Image](../assets/images/PatternModal005_500.jpg){: width="300" .align-center } 
-
-All Patterns in the Pattern Library are editable. Tap on a Pattern and it will open in the Pattern Designer. 
-
-You cannot edit the attribution field for Patterns that have been downloaded from the Pattern and Playlist Catalog, but everything else in Catalog Patterns can be edited to suit your preferences.
 
 ## Queue this Pattern
 
