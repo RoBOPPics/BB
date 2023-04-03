@@ -27,7 +27,7 @@ Clicking on the Login button will take you to the login page.
 
 ![Login Image](../assets/images/Login500.jpg){: width="300" .align-center } 
 
-## Sign up now
+## Creating an Account
 
 If this is your first time logging in, you will need to setup your account. 
 
