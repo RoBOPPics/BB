@@ -25,9 +25,11 @@ To play a Pattern using the BallBOPPer, tap on the kabob menu (three vertical do
 
 ![KabobMenu Image](../assets/images/KabobMenu001_500.jpg){: width="300" .align-center } 
 
-The Pattern Queuing page will then appear with the options for the selected Pattern.
+The Pattern menu page will then appear with the options for the selected Pattern.
 
 ![PatternModal Image](../assets/images/PatternModal005_500.jpg){: width="300" .align-center } 
+
+## Queue this Pattern
 
 Tap the "Queue this Pattern" button, and after the Pattern is transmitted to the BallBOPPer, the Controller page will appear. 
 
