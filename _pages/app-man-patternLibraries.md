@@ -12,9 +12,9 @@ The Patterns and Playlists section has three tabs across the top: Patterns, Sele
 
 The BallBOPPer robot and the Pattern Library are all about creating "Patterns of Play".
 
-For more information on Patterns of Play, see the <a href="https://roboppics.com/blogs/news">What are Patterns of Play</a> article in the News section of the RoBOPPics website.
+Patterns of Play are for practicing tactics and strategy. They are based on different playing styles, and are less predictable than drills, since a big part of match play is being prepared for the unexpected.
 
-Patterns of Play are for practicing tactics and strategy. They are based on different playing styles, and are less predictable, since a big part of match play is being prepared for the unexpected.
+For more information on Patterns of Play, see the <a href="https://roboppics.com/blogs/news">What are Patterns of Play</a> article in the News section of the RoBOPPics website.
 
 ## Pattern Library
 The Pattern Library lists the Patterns that you have created, or that you have downloaded from the Pattern and Playlists Catalog. 
