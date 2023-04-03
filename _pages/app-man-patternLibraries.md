@@ -33,7 +33,7 @@ Tap the "Queue this Pattern" button, and after the Pattern is transmitted to the
 
 Press Play in the Controller and the BallBOPPer will begin playing the Pattern. See the "Pattern and Playlist Queueing" section for more information. 
 
-All Patterns in the Pattern Library are editable. You cannot edit the attribution field for Patterns that have been downloaded from the Pattern and Playlist Catalog, but everything else in these Patterns can be edited to suit your preferences.
+All Patterns in the Pattern Library are editable. You cannot edit the attribution field for Patterns that have been downloaded from the Pattern and Playlist Catalog, but everything else in Catalog Patterns can be edited to suit your preferences.
 
 ## Selected Playlist
 
