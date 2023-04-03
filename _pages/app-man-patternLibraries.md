@@ -40,7 +40,7 @@ The Playlist Library lists all of the Playlists that you have either created or 
 
 To play a Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Queue this Playlist". The Controller page will appear. Press Play and the BallBOPPer will begin playing the Playlist. See the "Pattern and Playlist Queueing" section for more information. 
 
-![Playlist Image](../assets/images/Playlists500.jpg){: width="300" .align-center } 
+![Playlist Image](../assets/images/PlaylistScreen_500.jpg){: width="300" .align-center } 
 
   <nav class="pagination">
       <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Login">Previous</a>
