@@ -17,8 +17,8 @@
   - title: "Shot Designer"
     url: /shotDesigner/
     
-  - title: "Pattern and Playlist Queueing"
-    url: /queueing/
+  #- title: "Pattern and Playlist Queueing"
+  #  url: /queueing/
     
   - title: "Controller"
     url: /coreController/
