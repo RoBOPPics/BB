@@ -11,7 +11,7 @@ The main screen of the BallBOPPer App is the Pattern Libraries page.
 
 This page has three tabs across the top: Patterns, Selected Playlist and Playlists. You can tap each of these tabs to navigate to that page, or you can swipe left and right to navigate between them.
 
-![Catalog Image](../assets/images/Libraries500.jpg){: width="300" .align-center } 
+![Catalog Image](../assets/images/PatternLibrary_500.jpg){: width="300" .align-center } 
 
 ## Pattern Library
 The Pattern Library lists the Patterns that you have created, or that you have downloaded from the Pattern and Playlists Catalog. 
