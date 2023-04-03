@@ -10,6 +10,8 @@ sidebar:
 
 When you tap on a pattern in a Pattern Library, it opens up in the Pattern Designer.
 
+![Playlist Image](../assets/images/PatternDesigner500.jpg){: width="300" .align-center }
+
 The Pattern Designer has three tabs: Shot Pattern, Description and Settings. Tapping on each tab will navigate to that page, or you can swipe to move between each page.
 
 ## Shot Pattern
@@ -18,8 +20,6 @@ The Shot Pattern shows the shots that make up the pattern, and the order of thos
 The display for each shot shows where the ball will be launched from, and where it will bounce. 
 
 The label in the middle of each shot tells you the height above the net, and spin level and angle for that particular shot.
-
-![Playlist Image](../assets/images/PatternDesigner500.jpg){: width="300" .align-center }
 
 ## Description
 The Description contains all of the textual data for the Pattern. 
