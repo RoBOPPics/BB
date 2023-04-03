@@ -25,6 +25,8 @@ All Patterns in the Pattern Library are editable. Tap on a Pattern and it will o
 
 You cannot edit the attribution field for Patterns that have been downloaded from the Pattern and Playlist Catalog, but everything else in Catalog Patterns can be edited to suit your preferences.
 
+## Pattern Kabob Menu
+
 To play a Pattern using the BallBOPPer, tap on the kabob menu (three vertical dots).
 
 ![KabobMenu Image](../assets/images/KabobMenu001_500.jpg){: width="300" .align-center } 
@@ -64,11 +66,13 @@ The Playlist Library lists all of the Playlists that you have either created or 
 
 ![Catalog Image](../assets/images/PatternLibrary_500.jpg){: width="300" .align-center } 
 
-# Queueing this Playlist
+# Playlist Kabob Menu
 
 To play a Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots) and the Playlist menu page will appear. 
 
-![PatternModal Image](../assets/images/PlaylistModal005_500.jpg){: width="300" .align-center } 
+![PatternModal Image](../assets/images/PlaylistModal005_500.jpg){: width="300" .align-center }
+
+# Queueing this Playlist
 
 Queueing is the process of transmitting the Playlist to the BallBOPPer. When you tap on the "QUEUE THIS PLAYLIST", the Playlist is transmitted to the BallBOPPer where it is placed on the top of the Play queue.  
 
