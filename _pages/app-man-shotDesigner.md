@@ -45,5 +45,5 @@ You can also use Alternate Shots and Repeating Range together on the same shot. 
 
   <nav class="pagination">
       <a href="/BallBOPPer/patternDesigner/" class="pagination--pager" title="Pattern Designer">Previous</a>
-      <a href="/BallBOPPer/queueing/" class="pagination--pager" title="Queueing">Next</a> 
+      <a href="/BallBOPPer/coreController/" class="pagination--pager" title="Core Controller">Next</a>  
   </nav>
