@@ -9,9 +9,9 @@ sidebar:
 ---
 The main screen of the BallBOPPer App is the Pattern Libraries page.
 
-This page has three tabs across the top: Patterns, Selected Playlist and Playlists. You can tap each of these tabs to navigate to that page, or you can swipe left and right to navigate between them.
-
 ![Catalog Image](../assets/images/PatternLibrary_500.jpg){: width="300" .align-center } 
+
+This page has three tabs across the top: Patterns, Selected Playlist and Playlists. You can tap each of these tabs to navigate to that page, or you can swipe left and right to navigate between them.
 
 ## Pattern Library
 The Pattern Library lists the Patterns that you have created, or that you have downloaded from the Pattern and Playlists Catalog. 
@@ -31,16 +31,16 @@ All Patterns in the Pattern Library are editable. You cannot edit the attributio
 ## Selected Playlist
 The Selected Playlist is for viewing and editing a Playlist including the individual Patterns in that Playlist. To appear in the Selected Playlist tab, you must first go to the Playlist Library, and tap on the Playlist you wish to view or edit.
 
-To play the Selected Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Play this Playlist".
-
 ![Custom Image](../assets/images/SelectedPatternScreen_500.png){: width="300" .align-center } 
+
+To play the Selected Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Play this Playlist".
 
 ## Playlist Library
 The Playlist Library lists all of the Playlists that you have either created or downloaded from the Pattern and Playlist Catalog.
 
-To play a Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Queue this Playlist". The Controller page will appear. Press Play and the BallBOPPer will begin playing the Playlist. See the "Pattern and Playlist Queueing" section for more information. 
-
 ![Playlist Image](../assets/images/PlaylistScreen_500.jpg){: width="300" .align-center } 
+
+To play a Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Queue this Playlist". The Controller page will appear. Press Play and the BallBOPPer will begin playing the Playlist. See the "Pattern and Playlist Queueing" section for more information. 
 
   <nav class="pagination">
       <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Login">Previous</a>
