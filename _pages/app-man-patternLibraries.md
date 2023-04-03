@@ -29,13 +29,25 @@ The Pattern menu page will then appear with the options for the selected Pattern
 
 ![PatternModal Image](../assets/images/PatternModal005_500.jpg){: width="300" .align-center } 
 
+All Patterns in the Pattern Library are editable. Tap on a Pattern and it will open in the Pattern Designer. 
+
+You cannot edit the attribution field for Patterns that have been downloaded from the Pattern and Playlist Catalog, but everything else in Catalog Patterns can be edited to suit your preferences.
+
 ## Queue this Pattern
 
-Tap the "Queue this Pattern" button, and after the Pattern is transmitted to the BallBOPPer, the Controller page will appear. 
+Queueing is the process of transmitting the Pattern (or Playlist) to the BallBOPPer. When you tap on the item "QUEUE THIS PATTERN", the pattern is transmitted to the BallBOPPer where it is placed on the top of the Play queue - next up to be Played.
 
-Press Play in the Controller and the BallBOPPer will begin playing the Pattern. See the "Pattern and Playlist Queueing" section for more information. 
+The Control page will then automatically pop up in the App, and when you click the Play button, the BallBOPPer will begin playing the Pattern.
 
-All Patterns in the Pattern Library are editable. You cannot edit the attribution field for Patterns that have been downloaded from the Pattern and Playlist Catalog, but everything else in Catalog Patterns can be edited to suit your preferences.
+## Copy to Selected Playlist
+
+When you tap on the "Copy to Selected Playlist" the Pattern will be copied into the selected Playlist.
+
+The selected Playlist is the Playlist that appears under the Selected Playlist tab in the Pattern and Playlist Libraries.
+
+This is how you construct a Playlist. You create a new Playlist and select it in the Playlist Library. It then will be displayed under the Selected Playlist tab. Then go to your Pattern Library, click the Kabob menu on each Pattern you wish to add to your Playlist, and then select "Copy to Selected Playlist". 
+
+You are then forwarded to the Selected Playlist tab where you can see the Pattern has been added to the Playlist. Repeat this process to add as many Patterns as you want to the Selected Playlist.
 
 ## Selected Playlist
 
