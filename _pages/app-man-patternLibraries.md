@@ -33,7 +33,7 @@ The Selected Playlist is for viewing and editing a Playlist including the indivi
 
 To play the Selected Playlist using the BallBOPPer, tap on the kabob menu (three vertical dots), and select "Play this Playlist".
 
-![Custom Image](../assets/images/SelectedPatternScreen_500.jpg){: width="300" .align-center } 
+![Custom Image](../assets/images/SelectedPatternScreen_500.png){: width="300" .align-center } 
 
 ## Playlist Library
 The Playlist Library lists all of the Playlists that you have either created or downloaded from the Pattern and Playlist Catalog.
