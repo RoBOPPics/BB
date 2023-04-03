@@ -15,7 +15,7 @@ The Pattern Designer has three tabs: Shot Pattern, Description and Settings. Tap
 ## Shot Pattern
 The Shot Pattern shows the shots that make up the pattern, and the order of those shots. 
 
-![Playlist Image](../assets/images/ShotPattern_500.png){: width="300" .align-center }
+![Playlist Image](../assets/images/PatternDesigner_500.jpg){: width="300" .align-center }
 
 The display for each shot shows where the ball will be launched from, and where it will bounce. 
 
@@ -24,7 +24,7 @@ The label in the middle of each shot tells you the height above the net, and spi
 ## Description
 The Description contains all of the textual data for the Pattern. 
 
-![Playlist Image](../assets/images/PatternDescription_500.png){: width="300" .align-center }
+![Playlist Image](../assets/images/PatternDescription_500.jpg){: width="300" .align-center }
 
 The Pattern Name and Description are displayed in the library view of each Pattern. The Pattern Nickname is Announced on the BallBOPPer's display screen prior to the start of each Drill or Pattern. The Attribution field is to record the name, website, or twitter handle etc., of the individual or team that developed the Pattern.
 
