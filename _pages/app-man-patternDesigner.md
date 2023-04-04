@@ -46,7 +46,7 @@ If the Coaching field has content, then a Coaching link will appear at the botto
 
 If you are using Voice Control and a Bluetooth headset, the Coaching information can be read back to you by saying "BB Read Coaching". See Voice under the Controller section of this documentation for more information on Voice Control.
 
-The "Byline" of every Pattern and Playlist is a combination of the Player Name and Player Team that the Player entered into their Player Profile. See the Profile item under the Community section of this documentation.
+The "Byline" of every Pattern and Playlist is a combination of the Player Name and Player Team that the author of the Pattern or Playist entered into their Player Profile. See the Profile item under the Community section of this documentation.
 
   <nav class="pagination">
       <a href="/BallBOPPer/patternLibraries/" class="pagination--pager" title="Pattern Libraries">Previous</a>
