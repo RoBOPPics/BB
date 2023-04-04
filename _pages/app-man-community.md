@@ -18,6 +18,8 @@ The Community page provides a place for users of the App to post stories regardi
 
 You tap in the title of your story at the top of the page. Press enter. And you will be presented with the Story Entry form.
 
+![StoryPosting Image](../assets/images/StoryPosting_500.jpg){: width="300" .align-center }
+
 The form allows you to also add photos and videos of your training sessions.
 
 All Stories are reviewed before they will appear in the feed to others. Only positive information will be approved. 
