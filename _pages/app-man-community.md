@@ -16,7 +16,11 @@ The Community page provides a place for users of the App to post stories regardi
 
 ![Community Image](../assets/images/PlayerCommunity_500.jpg){: width="300" .align-center } 
 
-You tap in the title of your story at the top of the page. Press enter. And you will be presented with the Story Entry form.
+## Post a Story
+
+Tap the title box at the top of the page and enter the title of Story. 
+
+Press enter. And you will be presented with the Story Entry form.
 
 ![StoryPosting Image](../assets/images/StoryPosting_500.jpg){: width="300" .align-center }
 
