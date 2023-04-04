@@ -27,7 +27,7 @@ Patterns that employ Predictability settings will look a little different.
 
 Shots that have Alternates, will display the letter of the Alternate and its percentage. For instance, Shot 01 shown above is showing the A alternate which has a probability of 40%. 
 
-The Shot label for a shot with Alternates is a black button. Tapping that button will cycle through the Alternate shots.
+The Shot label at the bottom of a shot with Alternates is a black button. Tapping that button will cycle through the Alternate shots.
 
 Shots that have a Repeat Range of more than 1, will show the Repeat Range setting. For instance, Shot 02 shown above has a Repeat Range of 1 to 5. This means it will repeat anywhere from 1 to 5 times. 
 
