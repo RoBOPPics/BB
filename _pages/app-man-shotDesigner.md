@@ -27,6 +27,8 @@ A Shot that has Alternates will show the letter of the Alternate on the left sid
 
 A shot that has a Repeat Range of more than 1, will display the range on the right side of the label. The image above shows that this Shot has "1 to 3 Repeats".
 
+More information on Repeat Range and Alternates can be found below under the Predictability item.
+
 ## Height-Spin
 
 The Height and Spin page lets you specify: the Height that the ball will travel above the net, and the Spin Level and Spin Angle. 
