@@ -90,9 +90,11 @@ The text box at the top of the Voice Controller screen will display what the Bal
 
 For solo training purposes, it is best to use a Bluetooth headset that is paired and connected to your smartphone or tablet. That way you can place your smartphone or tablet out of harms way while you play.
 
-Upon pressing the Engage Voice Control button the BallBOPPer App will begin listening for the specific BallBOPPer voice commands which you can view listed by scrolling further down on the page. 
+Upon pressing the Engage Voice Control button the BallBOPPer App will begin listening for the specific BallBOPPer voice commands which you can view by scrolling further down on the page. 
 
-Each command is preceeded by "BB" which is short for BallBOPPer. You must say "BB" plus the command in order to get a response.
+Each command is preceeded by "BB" which is short for BallBOPPer. 
+
+You must say "BB" plus the command in order to get a response.
 
 ## Rover
 
