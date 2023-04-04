@@ -21,7 +21,7 @@ The display for each shot shows where the ball will be launched from, and where 
 
 The label in the middle of each shot tells you the height above the net, and spin level and angle for that particular shot.
 
-Patterns that employ Probability settings will look a little different.
+Patterns that employ Predictability settings will look a little different.
 
 ![Probability Image](../assets/images/ProbabilityPattern_500.jpg){: width="300" .align-center }
 
@@ -31,7 +31,7 @@ The Shot label for a shot with Alternates is a black button. Tapping that button
 
 Shots that have a Repeat Range of more than 1, will show the Repeat Range setting. For instance, Shot 02 shown above has a Repeat Range of 1 to 5. This means it will repeat anywhere from 1 to 5 times. 
 
-See the Probability item under the Shot Designer section of this documentation for more information.
+See the Predictability item under the Shot Designer section of this documentation for more information.
 
 ## Description
 The Description contains all of the textual data for the Pattern. 
