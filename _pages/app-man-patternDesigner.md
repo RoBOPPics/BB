@@ -26,7 +26,13 @@ The Description contains all of the textual data for the Pattern.
 
 ![Playlist Image](../assets/images/PatternDescription_500.jpg){: width="300" .align-center }
 
-The Pattern Name and Description are displayed in the library view of each Pattern. The Pattern Nickname is Announced on the BallBOPPer's display screen prior to the start of each Drill or Pattern. The Attribution field is to record the name, website, or twitter handle etc., of the individual or team that developed the Pattern.
+The Pattern Name and Description are displayed in the library view of each Pattern. 
+
+The Pattern Nickname (limited to 8 characters) is displayed on the BallBOPPer's display screen prior to the start of each Drill or Pattern. 
+
+If the Coaching field has content, then a Coaching link will appear at the bottom of the Pattern. Clicking on that link will display the Coaching information in a popup. If you are using Voice Control, the Coaching information can be read back to you by saying "BB Read Coaching". See Voice  under the Controller section of this documentation.
+
+The Attribution field or "Byline" is a combination of the Player Name and Player Team that you entered into your Player Profile. See the Profile item under Community section of this documentation.
 
   <nav class="pagination">
       <a href="/BallBOPPer/patternLibraries/" class="pagination--pager" title="Pattern Libraries">Previous</a>
