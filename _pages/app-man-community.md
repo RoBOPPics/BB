@@ -22,6 +22,12 @@ The form allows you to also add photos and videos of your training sessions.
 
 All Stories are reviewed before they will appear in the feed to others. Only positive information will be approved. 
 
+## Story Details
+
+Tapping on a Story will open it in the Story Details view. Here can add and read Bopps and Insights.
+
+![StoryDetails Image](../assets/images/StoryDetails_500.jpg){: width="300" .align-center }
+
 Users can "Bopp" the stories that they like, and they can also add their own additional "Insights". 
 
 Users can also report Stories or Insights (using the flag button) that they feel are inappropriate.
