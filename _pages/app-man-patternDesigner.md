@@ -30,7 +30,7 @@ The Pattern Name and Description are displayed in the library view of each Patte
 
 The Pattern Nickname (limited to 8 characters) is displayed on the BallBOPPer's display screen prior to the start of each Drill or Pattern. 
 
-If the Coaching field has content, then a Coaching link will appear at the bottom of the Pattern. Clicking on that link will display the Coaching information in a popup. If you are using Voice Control, the Coaching information can be read back to you by saying "BB Read Coaching". See Voice  under the Controller section of this documentation.
+If the Coaching field has content, then a Coaching link will appear at the bottom of the Pattern. Clicking on that link will display the Coaching information in a popup. If you are using Voice Control, the Coaching information can be read back to you by saying "BB Read Coaching". See Voice  under the Controller section of this documentation for more information on Voice Control.
 
 The Attribution field or "Byline" is a combination of the Player Name and Player Team that you entered into your Player Profile. See the Profile item under Community section of this documentation.
 
