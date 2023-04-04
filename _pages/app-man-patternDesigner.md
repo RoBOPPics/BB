@@ -15,11 +15,19 @@ The Pattern Designer has three tabs: Shot Pattern, Description and Settings. Tap
 ## Shot Pattern
 The Shot Pattern shows the shots that make up the pattern, and the order of those shots. 
 
-![Playlist Image](../assets/images/PatternDesigner_500.jpg){: width="300" .align-center }
+![Pattern Image](../assets/images/PatternDesigner_500.jpg){: width="300" .align-center }
 
 The display for each shot shows where the ball will be launched from, and where it will bounce. 
 
 The label in the middle of each shot tells you the height above the net, and spin level and angle for that particular shot.
+
+Patterns that employ Probability settings will look a little different.
+
+![Probability Image](../assets/images/ProbabilityPattern_500.jpg){: width="300" .align-center }
+
+Shots that have Alternates, will display the letter of the Alternate and its percentage. The Shot label at the bottom will now be a black button. Tapping that button will cycle through the Alternate shots.
+
+Shots that have a Repeat Range of more than 1, will show the Repeat Range setting. For instance, Shot O2 shown above has a Repeat Range of 1 to 5. This means it will repeat anywhere from 1 to 5 times. See the Probability item under the Shot Designer section of this documentation for more information.
 
 ## Description
 The Description contains all of the textual data for the Pattern. 
