@@ -27,9 +27,9 @@ A Shot that has Alternates will show the letter of the Alternate on the left sid
 
 The Shot label for a Shot with Alternates is a black button that displays the Alternate probability percentage - 50% in this case. If you tap that button, you will cycle through the Alternate shots.
 
-A shot that has a Repeat Range of more than 1, will display the range on the right side of the label. The image above shows that this Shot has "1 to 3 Repeats".
+A shot that has a Repeating Range of more than 1, will display the Repeating Range on the right side of the center label. The label on the image above shows that this Shot has "1 to 3 Repeats".
 
-More information on Repeat Range and Alternates can be found below under the Predictability item.
+More information on Repeating Range and Alternates can be found below under the Predictability item.
 
 ## Height-Spin
 
