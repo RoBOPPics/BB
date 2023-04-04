@@ -37,7 +37,11 @@ The Height and Spin page lets you specify: the Height that the ball will travel 
 
 ![Playlist Image](../assets/images/Spin_BallBopperApp001_500.jpg){: width="300" .align-center }
 
-Height can be set to Low Margin, Good Margin, High Margin, Lob and Moonball. Spin Level can be Flat, Light, Moderate, Heavy and Max. Spin Angle can be set every 45 degrees from Top Spin to Back Spin and back.
+Height can be set to Low Margin, Good Margin, High Margin, Lob and Moonball. 
+
+Spin Level can be Flat, Light, Moderate, Heavy and Max. 
+
+Spin Angle can be set every 45 degrees from Top Spin to Back Spin and back.
 
 ## Predictability
 
