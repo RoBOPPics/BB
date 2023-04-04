@@ -52,7 +52,7 @@ The Player Profile page lists, and lets you edit, your user information.
 
 It also contains links to the Privacy Policy, Terms and Conditions, Instruction and Operating Manuals and a link for reporting Issues.
 
-The Community Content Byline appears on all of your Patterns, Playlists, Stories, Bopps and Insights. It is a combination of the Player Name and Player Team. Be sure to enter the information into the fields to create the Byline that you want.
+The Community Content Byline appears on all of your Patterns, Playlists, Stories, Bopps and Insights. It is a combination of the Player Name and Player Team. Be sure to enter the information into the Player Name and Team fields to create the Byline that you want.
 
 ## Activity
 
