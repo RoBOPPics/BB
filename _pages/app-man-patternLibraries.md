@@ -59,7 +59,7 @@ To display a Playlist in the Selected Playlist tab, you first go to the Playlist
 
 When a Playlist is open in the Selected Playlist, it will display all of the Patterns in the Playlist in the order in which they will be played
 
-Tapping on a Pattern in your Selected Playlist will open it in the Pattern Designer, giving you the ability to edit that Pattern in the same way you would in the Pattern Library. See the Pattern Designer and Shot Designer sections of this documentation for more information editing Patterns.
+Tapping on a Pattern in your Selected Playlist will open it in the Pattern Designer, giving you the ability to edit that Pattern in the same way you would in the Pattern Library. See the Pattern Designer and Shot Designer sections of this documentation for more information on editing Patterns.
 
 The Patterns in a Playlist are copies. Changes you make to them will not effect the originals in the Pattern Library.
 
