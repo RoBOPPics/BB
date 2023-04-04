@@ -16,6 +16,8 @@ The Community page provides a place for users of the App to post stories regardi
 
 ![Community Image](../assets/images/PlayerCommunity_500.jpg){: width="300" .align-center } 
 
+Set the filter at the top of the page to display the type of information you want to see. The choices currently are: All, Support, Workout, Skills, Tactics, Strategy, Mindset and Suggestions.
+
 ## Post a Story
 
 Tap the title box at the top of the page and enter the title of Story. 
@@ -39,8 +41,6 @@ Users can "Bopp" the stories that they like, and they can also add their own add
 Users can also report Stories or Insights (using the flag button) that they feel are inappropriate.
 
 The feed also contains instructional and support information curated by RoBOPPics. 
-
-Set the filter at the top of the page to display the type of information you want to see. The choices currently are: All, Support, Workout, Skills, Tactics, Strategy, Mindset and Suggestions.
 
 ## Profile
 
