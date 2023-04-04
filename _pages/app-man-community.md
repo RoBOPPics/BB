@@ -30,6 +30,8 @@ The form allows you to also add photos and videos of your training sessions.
 
 All Stories are reviewed before they will appear in the feed to others. Only positive information will be approved. 
 
+The "Byline" that appears on all of your Patterns, Playlists, Stories, Bopps and Insights is a combination of the Player Name and Player Team that you entered into your Player Profile. See the Profile item below for more information.
+
 ## Story Details
 
 Tapping on a Story will open it in the Story Details view. Here you can add and read the Bopps and Insights that other players have added to the Story.
@@ -49,6 +51,8 @@ The Player Profile page lists, and lets you edit, your user information.
 ![Profile Image](../assets/images/EnzoProfile_500.jpg){: width="300" .align-center } 
 
 It also contains links to the Privacy Policy, Terms and Conditions, Instruction and Operating Manuals and a link for reporting Issues.
+
+The Community Content Byline appears on all of your Patterns, Playlists, Stories, Bopps and Insights. It is a combination of the Player Name and Player Team. Be sure to enter the information into the fields to create the Byline that you want.
 
 ## Activity
 
