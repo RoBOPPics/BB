@@ -16,15 +16,15 @@ The big difference between the Libraries and the Catalog is that everything in t
 
 The Catalog contains community Patterns and Playlists that you can browse through and download.
 
-One other difference is that you cannot create a new Pattern or Playlist in the Catalog. You create new Patterns and Playlists in your Library, and then if you want to share them with other BallBOPPer users, you can upload them to the Catalog. 
+One other difference is that you cannot create a new Pattern or Playlist in the Catalog. You create new Patterns and Playlists in the Patterns and Playlists Libraries, and then if you want to share them with other BallBOPPer users, you can upload them to the Catalog. 
 
-The menu items for doing this are found on the Kabob menu for each Pattern or Playlist in their respective libraries. See the Pattern and Playlist Libraries section for additional details.
+The menu items for uploading a Pattern or Playlist to the Catalog are found on the Kabob menu for each Pattern or Playlist in their respective libraries. See the Pattern and Playlist Libraries section for additional details.
 
-When you tap the Kabob menu on a Pattern or Playlist in the Catalog, you only have one option: Download Pattern or Download Playlist.
+When you tap the Kabob menu on a Pattern or Playlist in the Pattern and Playlist Catalog, you only have one option: Download Pattern or Download Playlist.
 
 Tapping on this item will download the selected Pattern or Playlist into your Pattern or Playlist Library. 
 
-You can then Edit, Queue and Play the Pattern or Playlist the same as the Patterns and Playlists that you create.
+You can then Edit, Queue and Play the Pattern or Playlist the same as the Patterns and Playlists that you have created.
 
 Note that you can edit the Patterns and Playlists that you download from the Catalog with the one exception that you cannot change the Attribution to the original author. 
 
