@@ -21,9 +21,9 @@ The Pattern Library lists the Patterns that you have created, or that you have d
 
 ![Catalog Image](../assets/images/PatternLibrary_500.jpg){: width="300" .align-center } 
 
-All Patterns in the Pattern Library are editable. Tap on a Pattern and it will open in the Pattern Designer. 
+All Patterns in the Pattern Library are editable. Tap on a Pattern and it will open in the Pattern Designer.
 
-You cannot edit the attribution field for Patterns that have been downloaded from the Pattern and Playlist Catalog, but everything else in Catalog Patterns can be edited to suit your preferences.
+All of the Patterns in your Pattern Library will initially be Catalog Patterns and Playlists. These are slightly different from Patterns and Playlists that you create yourself. You cannot edit the attribution field for Patterns that have been downloaded from the Pattern and Playlist Catalog. Everything else in Catalog Patterns and Playlists can be edited to suit your preferences.
 
 ## Pattern Kabob Menu
 
