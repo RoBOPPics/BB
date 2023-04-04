@@ -22,7 +22,7 @@ Set the filter at the top of the page to display the type of information you wan
 
 Tap the title box at the top of the page and enter the title of Story. 
 
-Press enter. And you will be presented with the Story Entry form.
+Press enter, and you will be presented with the Story Posting form.
 
 ![StoryPosting Image](../assets/images/StoryPosting_500.jpg){: width="300" .align-center }
 
