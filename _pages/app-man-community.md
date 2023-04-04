@@ -40,9 +40,7 @@ Tapping on a Story will open it in the Story view. Here you can see the full sto
 
 Players can "Bopp" the stories that they like, and they can also add their own "Insights". 
 
-Users can also report Stories or Insights (using the flag button) that they feel are inappropriate.
-
-The feed also contains instructional and support information curated by RoBOPPics. 
+Users can also report Stories or Insights that they feel are inappropriate using the flag button.
 
 ## Profile
 
