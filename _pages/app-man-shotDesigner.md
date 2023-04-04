@@ -19,11 +19,11 @@ The Path screen shows the plan view of a tennis court with the BallBOPPer (large
 
 There are 20 different launch points, and 37 different bounce points to choose from. To select the launch and bounce points just tap the desired spot or zone on the screen.
 
-Shots that employ Probability settings will look a little different.
+Shots that employ Predictability settings will look a little different.
 
 ![ShotProbability Image](../assets/images/ShotProbability_500.jpg){: width="300" .align-center }
 
-A Shot that has Alternates will show the letter of the Alternate on the left side of the label. The "A" as shown above. And the Shot label is a black button. If you tap that button, you will cycle through the Alternate shots.
+A Shot that has Alternates will show the letter of the Alternate on the left side of the label. The "A" as shown above. And the Shot label is a black button with the Shot probability percentage - 40% in this case. If you tap that button, you will cycle through the Alternate shots.
 
 A shot that has a Repeat Range of more than 1, will display the range on the right side of the label. The image above shows that this Shot has "1 to 3 Repeats".
 
