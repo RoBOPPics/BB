@@ -49,7 +49,7 @@ The Predictability tab provides two important ways you can make your patterns le
 
 ![Playlist Image](../assets/images/Predictability_500.jpg){: width="300" .align-center }
 
-The Alternate Shots lets you set two or three different shots for a single shot. The system will pick one of the two or three Alternates at launch time based on the probabilies you set. 
+The Alternate Shots lets you set two or three different shots for a single shot. The system will pick one of the two or three Alternates at launch time based on the probabilities you set. 
 
 The Alternates might be as simple as a shot down the left, a shot down the right, and a shot down the middle; or as complicated as a dropshot, a topspin lob, and a moonball. 
 
