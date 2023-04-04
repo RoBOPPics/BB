@@ -10,9 +10,9 @@ sidebar:
 
 The Community has three tabs: Community, Profile and Activity.
 
-## Community Feed
+## Community
 
-The Community Feed provides a place for users of the App to post stories regarding their training experiences using the BallBOPPer. 
+The Community page provides a place for users of the App to post stories regarding their training experiences using the BallBOPPer. 
 
 ![Community Image](../assets/images/PlayerCommunity_500.jpg){: width="300" .align-center } 
 
