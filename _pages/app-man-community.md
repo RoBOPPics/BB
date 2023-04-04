@@ -32,7 +32,7 @@ All Stories are reviewed before they will appear in the feed to others. Only pos
 
 ## Story Details
 
-Tapping on a Story will open it in the Story Details view. Here can add and read Bopps and Insights.
+Tapping on a Story will open it in the Story Details view. Here you can add and read the Bopps and Insights that other players have added to the Story.
 
 ![StoryDetails Image](../assets/images/StoryDetails_500.jpg){: width="300" .align-center }
 
