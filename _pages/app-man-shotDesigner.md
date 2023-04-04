@@ -47,7 +47,7 @@ Spin Angle can be set every 45 degrees from Top Spin to Back Spin and back.
 
 The Predictability tab provides two important ways you can make your patterns less predictable. 
 
-![Playlist Image](../assets/images/Probability_BallBopperApp001_500.jpg){: width="300" .align-center }
+![Playlist Image](../assets/images/Predictability_500.jpg){: width="300" .align-center }
 
 The Alternate Shots lets you set two or three different shots for a single shot. The system will pick one of the two or three Alternates at launch time based on the probabilies you set. 
 
