@@ -21,7 +21,7 @@ The Pattern Library lists the Patterns that you have created, or that you have d
 
 ![Catalog Image](../assets/images/PatternLibrary_500.jpg){: width="300" .align-center } 
 
-All Patterns in the Pattern Library are editable to suit your preferences. Tap on a Pattern and it will open in the Pattern Designer.
+All Patterns in the Pattern Library are editable to suit your preferences. Tap on a Pattern and it will open in the Pattern Designer. The Pattern Designer and the Shot Designer are explained in the next two sections of this documentation.
 
 All of the Patterns in your Pattern Library will initially be Catalog Patterns and Playlists. These are slightly different from Patterns and Playlists that you create yourself in that you cannot edit the Attribution field for Patterns or Playlists from the Pattern and Playlist Catalog. The Attribution will always be that of the original author of the Pattern or Playlist.
 
