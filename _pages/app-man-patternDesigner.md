@@ -29,7 +29,7 @@ Shots that have Alternates, will display the letter of the Alternate and its per
 
 The Shot label at the bottom of a shot with Alternates is a black button. Tapping that button will cycle through the Alternate shots.
 
-Shots that have a Repeat Range of more than 1, will show the Repeat Range setting. For instance, Shot 02 shown above has a Repeat Range of 1 to 5. This means it will repeat anywhere from 1 to 5 times. 
+Shots that have a Repeating Range of more than 1, will show the Repeating Range setting. For instance, Shot 02 shown above has a Repeating Range of 1 to 5. This means it will repeat anywhere from 1 to 5 times. 
 
 See the Predictability item under the Shot Designer section of this documentation for more information.
 
