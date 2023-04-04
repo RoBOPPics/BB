@@ -26,7 +26,7 @@ Tapping on this item will download the selected Pattern or Playlist into your Pa
 
 You can then Edit, Queue and Play the Pattern or Playlist the same as the Patterns and Playlists that you have created.
 
-Note that you can edit the Patterns and Playlists that you download from the Catalog with the one exception that you cannot change the Attribution to the original author. 
+Note that you can edit the Patterns and Playlists that you download from the Catalog with the one exception: you cannot change the Attribution to the original author. 
 
 Also if you look at the Kabob menu on an item that you downloaded from the Catalog, you will note that the "Upload to Catalog" option is missing. The original author of the item in the Catalog is the only one who can update their own items in the Catalog. 
 
