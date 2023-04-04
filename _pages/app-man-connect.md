@@ -33,7 +33,7 @@ If this is your first time logging in, you will need to setup your account.
 
 Click on "Sign up now".
 
-During beta testing, only a username and password are required. 
+During beta testing, only an email address and password are required. The email address will be verified by emailing you a code.
 
 When the BallBOPPer starts shipping to Players, two factor authentication will be enabled. You will then need to enter a verifiable email address, and a verifiable telephone number. 
 
