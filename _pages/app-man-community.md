@@ -14,6 +14,8 @@ The Community has three tabs: Community, Profile and Activity.
 
 The Community Feed provides a place for users of the App to post stories regarding their training experiences using the BallBOPPer. 
 
+![Community Image](../assets/images/PlayerCommunity_500.jpg){: width="300" .align-center } 
+
 You tap in the title of your story at the top of the page. Press enter. And you will be presented with the Story Entry form.
 
 The form allows you to also add photos and videos of your training sessions.
@@ -27,8 +29,6 @@ Users can also report Stories or Insights (using the flag button) that they feel
 The feed also contains instructional and support information curated by RoBOPPics. 
 
 Set the filter at the top of the page to display the type of information you want to see. The choices currently are: All, Support, Workout, Skills, Tactics, Strategy, Mindset and Suggestions.
-
-![Community Image](../assets/images/PlayerCommunity_500.jpg){: width="300" .align-center } 
 
 ## Profile
 
