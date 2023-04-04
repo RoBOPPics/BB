@@ -41,7 +41,7 @@ The Pattern menu page will then appear with the options for the selected Pattern
 
 ## Queue this Pattern
 
-Queueing is the process of transmitting the Pattern (or Playlist) to the BallBOPPer. When you tap on the item "QUEUE THIS PATTERN", the pattern is transmitted to the BallBOPPer where it is placed on the top of the Play queue - next up to be Played.
+Queueing is the process of transmitting the Pattern to the BallBOPPer. When you tap on the item "QUEUE THIS PATTERN", the pattern is transmitted to the BallBOPPer where it is placed on the top of the Play queue - next up to be Played.
 
 The Control page will then automatically pop up in the App, and when you click the Play button, the BallBOPPer will begin playing the Pattern.
 
