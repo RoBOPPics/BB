@@ -23,7 +23,9 @@ Shots that employ Predictability settings will look a little different.
 
 ![ShotProbability Image](../assets/images/ShotProbability_500.jpg){: width="300" .align-center }
 
-A Shot that has Alternates will show the letter of the Alternate on the left side of the center label. The "A" as shown above. And the Shot label is a black button with the Shot probability percentage - 50% in this case. If you tap that button, you will cycle through the Alternate shots.
+A Shot that has Alternates will show the letter of the Alternate on the left side of the center label. The "A" as shown above. 
+
+The Shot label for a Shot with Alternates is a black button that displays the Alternate probability percentage - 50% in this case. If you tap that button, you will cycle through the Alternate shots.
 
 A shot that has a Repeat Range of more than 1, will display the range on the right side of the label. The image above shows that this Shot has "1 to 3 Repeats".
 
