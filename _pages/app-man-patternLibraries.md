@@ -73,7 +73,7 @@ The Playlist Library lists all of the Playlists that you have either created or 
 
 ![Catalog Image](../assets/images/PlaylistScreen_500.jpg){: width="300" .align-center } 
 
-# Playlist Kabob Menu
+## Playlist Kabob Menu
 
 To play a Playlist using the BallBOPPer, tap on the kabob menu. 
 
@@ -83,13 +83,15 @@ The Playlist Kabob Menu will appear.
 
 ![PatternModal Image](../assets/images/PlaylistModal005_500.jpg){: width="300" .align-center }
 
-# Queueing this Playlist
+## Queue this Playlist
 
 Queueing is the process of transmitting the Playlist to the BallBOPPer. When you tap on the "QUEUE THIS PLAYLIST", the Playlist is transmitted to the BallBOPPer where it is placed on the top of the Play queue.  
 
 The Control page will then automatically pop up in the App, and when you click the Play button, the BallBOPPer will begin playing the Playlist.
 
 The Queue can have a mixture of Patterns and Playlists, but the last item that was Queued is always at the top of the queue - next up to be Played. 
+
+The Queue is also persistant across sessions. If the last thing you played on Wednesday was your favorite Playlist, then your Favorite Playlist is already queued up on Thursday. You do not need to queue it again, just press Play, either in the Controller or the Play button on the BallBOPPer itself.
 
 ## Submit Story on this Pattern (or Playlist)
 
