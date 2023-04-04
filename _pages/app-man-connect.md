@@ -1,6 +1,6 @@
 ---
 permalink: /appmanconnect/
-title: "Loging in to the App"
+title: "Logging into the App"
 toc: true
 toc_sticky: true
 toc_label: "Contents"
