@@ -45,25 +45,21 @@ The Control page will then automatically pop up in the App, and when you click t
 
 When you tap on the "Copy to Selected Playlist" the Pattern will be copied into the selected Playlist.
 
-The selected Playlist is the Playlist that appears under the Selected Playlist tab in the Pattern and Playlist Libraries.
+The selected Playlist is the Playlist that appears under the Selected Playlist tab in the Pattern and Playlist Libraries. There is more information on the Selected Playlist in the next section of this page.
 
-This is how you construct a Playlist. You create a new Playlist and select it in the Playlist Library. It then will be displayed under the Selected Playlist tab. Then go to your Pattern Library, click the Kabob menu on the Pattern you wish to add to your Playlist, and tap "Copy to Selected Playlist". 
+To construct a Playlist, you first create a new empty Playlist in the Playlist Library. You then tap on it and it will then be  displayed under the Selected Playlist tab. Then go to your Pattern Library, click the Kabob menu on the Pattern you wish to add to your new Playlist, and tap "Copy to Selected Playlist". 
 
-You are then forwarded to the Selected Playlist tab where you can see the Pattern has been added to the Playlist. 
-
-Repeat this process to add up to 25 Patterns to the Selected Playlist.
+Repeat this process to add up to 25 Patterns to your Playlist.
 
 ## Selected Playlist
 
-The Selected Playlist is for viewing and editing a Playlist including the individual Patterns in that Playlist. 
+To display a Playlist in the Selected Playlist tab, you first go to the Playlist Library, and tap on the Playlist you wish to view or edit.
 
 ![Custom Image](../assets/images/SelectedPatternScreen_500.png){: width="300" .align-center } 
 
-To display a Playlist in the Selected Playlist tab, you first go to the Playlist Library, and tap on the Playlist you wish to view or edit.
+When a Playlist is open in the Selected Playlist, it will display all of the Patterns in the Playlist in the order in which they will be played
 
-The Selected Playlist will then display all of the Patterns in the Playlist in the order in which they will be played. 
-
-In the Selected Playlist, you can tap on each Pattern to open them in the Pattern Designer, where you can view and edit the Pattern and Shot details.
+Tapping on a Pattern in your Selected Playlist will open it in the Pattern Designer, giving you the ability to edit that Pattern in the same way you would in the Pattern Library. See the Pattern Designer and Shot Designer sections of this documentation for more information editing Patterns.
 
 The Patterns in a Playlist are copies. Changes you make to them will not effect the originals in the Pattern Library.
 
@@ -72,6 +68,8 @@ The Patterns in a Playlist are copies. Changes you make to them will not effect 
 The Playlist Library lists all of the Playlists that you have either created or downloaded from the Pattern and Playlist Catalog.
 
 ![Catalog Image](../assets/images/PlaylistScreen_500.jpg){: width="300" .align-center } 
+
+You can create a new Playlist by tapping the title of the Playlist at the top, and hitting enter. This will open the Playlist information page where you can enter the details. When you hit the backbutton, you will see your new empty Playlist. The procedure for adding Patterns to your Playlist is described above in the "Copy to Selected Playlist" item.
 
 ## Playlist Kabob Menu
 
