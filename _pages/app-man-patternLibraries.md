@@ -21,6 +21,10 @@ The Pattern Library lists the Patterns that you have created, or that you have d
 
 ![Catalog Image](../assets/images/PatternLibrary_500.jpg){: width="300" .align-center } 
 
+You can filter the list of Patterns by their Training Focus. The current choices are: All, Workout, Skills, Tactics, Strategy, and Mindset.
+
+The Patterns are ordered according to their Rating with the highest rated Patterns at the top. The ratings here are your Ratings. As you play different Patterns, you should adjust the Ratings so your favorites appear at the top.
+
 All Patterns in the Pattern Library are editable to suit your preferences. Tap on a Pattern and it will open in the Pattern Designer. The Pattern Designer and the Shot Designer are explained in the next two sections of this documentation.
 
 All of the Patterns in your Pattern Library will initially be Catalog Patterns and Playlists. These are slightly different from Patterns and Playlists that you create yourself in that you cannot edit the Attribution field. The Attribution will always be that of the original author of the Pattern or Playlist.
@@ -68,6 +72,10 @@ The Patterns in a Playlist are copies. Changes you make to them will not effect 
 The Playlist Library lists all of the Playlists that you have either created or downloaded from the Pattern and Playlist Catalog.
 
 ![Catalog Image](../assets/images/PlaylistScreen_500.jpg){: width="300" .align-center } 
+
+You can filter the list of Playlists by their Training Focus. The current choices are: All, Workout, Skills, Tactics, Strategy, and Mindset.
+
+The Playlists are ordered according to their Rating with the highest rated Playlists at the top. The ratings here are your Ratings. As you play different Playlists, you should adjust the Ratings so your favorites appear at the top.
 
 You can create a new Playlist by tapping the title of the Playlist at the top, and hitting enter. This will open the Playlist information page where you can enter the details. When you hit the backbutton, you will see your new empty Playlist. The procedure for adding Patterns to your Playlist is described above in the "Copy to Selected Playlist" item.
 
