@@ -32,13 +32,13 @@ All Stories are reviewed before they will appear in the feed to others. Only pos
 
 The "Byline" that appears on all of your Patterns, Playlists, Stories, Bopps and Insights is a combination of the Player Name and Player Team that you entered into your Player Profile. See the Profile item below for more information.
 
-## Story Details
+## Story View
 
-Tapping on a Story will open it in the Story Details view. Here you can add and read the Bopps and Insights that other players have added to the Story.
+Tapping on a Story will open it in the Story view. Here you can see the full story including the info that other players have added.
 
 ![StoryDetails Image](../assets/images/StoryDetails_500.jpg){: width="300" .align-center }
 
-Users can "Bopp" the stories that they like, and they can also add their own additional "Insights". 
+Players can "Bopp" the stories that they like, and they can also add their own "Insights". 
 
 Users can also report Stories or Insights (using the flag button) that they feel are inappropriate.
 
