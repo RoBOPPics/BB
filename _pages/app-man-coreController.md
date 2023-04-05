@@ -66,9 +66,9 @@ Press Delay instead of Play if you wish to Play a Pattern or Playlist after a sh
 
 Navigate is used for calibrating the Navigation system before beginning a training session on an unfamiliar court. This is explained under the Court section above.
 
-## Ad Hoc Launcher
+## Controller: Ad Hoc Launcher
 
-Pressing the Ad Hoc Launcher button will bring up the Ad Hoc Launcher screen.
+Pressing the Ad Hoc Launcher button in the Controller section will bring up the Ad Hoc Launcher screen.
 
 ![AdHocLaunch Image](../assets/images/AdHocLaunchScreen_500.jpg){: width="300" .align-center }
 
