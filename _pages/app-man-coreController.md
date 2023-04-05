@@ -38,15 +38,19 @@ With the Navigation Service turned Off, you will need to manually position and p
 
 The four buttons at the top of the Control section mirror the functions of the four physical buttons on the BallBOPPer robot.
 
-Stop will stop the BallBOPPer at its current position, and it will turn to face in the direction of the Player and wait. When you press Stop during the playing of a Pattern or Playlist, the position in the Pattern or Playlist will be lost. The next time you press Play, the Pattern or Playlist will start playing from the beginning.
+Stop will stop the BallBOPPer at its current position, and it will turn to face in the direction of the Player and wait. 
 
-Pause will also stop the BallBOPPer at its current position. The difference is that if you press Pause while playing a Pattern or Playlist, the position where it was paused in the Pattern or Playlist will be remembered, and when you press Play again, it will pick up where it left off.
+When you press Stop during the playing of a Pattern or Playlist, the position in the Pattern or Playlist will be lost. The next time you press Play, the Pattern or Playlist will start playing from the beginning.
+
+Pause will also stop the BallBOPPer at its current position. 
+
+The difference is that if you press Pause while playing a Pattern or Playlist, the position where it was paused in the Pattern or Playlist will be remembered, and when you press Play again, it will pick up where it left off.
 
 Pressing the Queue button will send you to the Pattern Libraries where you can select from all of the possibilities in the libraries. 
 
 You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu on a Pattern or Playlist to transmit and queue the Pattern or Playlist on the BallBOPPer. These items are explained in the Patterns and Playlist Libraries section of this documentation.
 
-Note that the way the Queue button works in the app, and the way the physical Queue button works on the robot, is different. If you press the Queue button on the robot, you can cycle through and select from the Patterns and Playlists that you have previously Queued on the robot. This makes it possible to play Patterns and Playlists when on-court without a smartphone or tablet.
+The way the Queue button works in the app, and the way the physical Queue button works on the robot, is different. If you press the Queue button on the robot, you can cycle through and select from only the Patterns and Playlists that you have previously Queued on the robot. This makes it possible to play Patterns and Playlists when on-court without a smartphone or tablet.
 
 ## Reboot, Reload, Delay, Navigate
 
@@ -58,7 +62,7 @@ Pressing Reload will start BallBOPPer roving the court and reloading the balls b
 
 The robot will only reload the balls that are found on it's side of the court. Any balls that the player was unable to hit over the net, or ended up on an adjacent court, will need to be rolled into the BallBOPPer's side of the practice court for reloading. 
 
-Delay will Play the currently Queued Pattern or Playlist, but will delay starting by 15 seconds each time you press the Delay button. Press twice for a 30 second delay, three times for 45 seconds, etc. 
+Press Delay instead of Play if you wish to Play a Pattern or Playlist after a short delay. Each time you press Delay will delay the start by 15 seconds. Press twice for a 30 second delay, three times for 45 seconds, etc. 
 
 Navigate is used for calibrating the Navigation system before beginning a training session on an unfamiliar court. This is explained under the Court section above.
 
@@ -68,7 +72,7 @@ Pressing the Ad Hoc Launcher button will bring up the Ad Hoc Launcher screen.
 
 ![AdHocLaunch Image](../assets/images/AdHocLaunchScreen_500.jpg){: width="300" .align-center }
 
-The "Ad Hoc Launcher" feature has all the same functionality as the Shot Designer in the Pattern Library, but makes it available for the launching of individual balls.
+The "Ad Hoc Launcher" feature has all the same functionality as the Shot Designer in the Pattern Library, but makes it available for the launching of individual balls. This is useful for coaches when they want to directly control the launching of each ball while working with a Player.
 
 Pressing the "Ad Hoc Launch" button in the center of the screen will launch a ball from the selected location on the BallBOPPer side of the court (the top half of the screen), and bounce it on the selected spot on the player side of the court (the bottom half of the screen), with a particular spin and height above the net.
 
