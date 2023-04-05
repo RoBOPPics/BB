@@ -86,15 +86,17 @@ You can add or subtract distance, adjust the shots left or right, and elevate th
 
 ## Voice
 
-### Voice Controller
+### Voice Control
+
+The Voice Control feature offers many of the same Commands as the Controller using your voice. It is best to use a Bluetooth headset that is paired and connected to your smartphone or tablet. That way you can place your smartphone or tablet out of harms way while you play.
 
 ![Voice Controller Image](../assets/images/VoiceControllerScreen_500.jpg){: width="300" .align-center }
 
+Upon pressing the Engage Voice Control button the BallBOPPer App will begin listening.
+
 The text box at the top of the Voice Controller screen will display what the BallBOPPer is hearing you say, as you say it. This helps you pinpoint and correct pronunciation/comprehension issues.
 
-For solo training purposes, it is best to use a Bluetooth headset that is paired and connected to your smartphone or tablet. That way you can place your smartphone or tablet out of harms way while you play.
-
-Upon pressing the Engage Voice Control button the BallBOPPer App will begin listening for the specific BallBOPPer voice commands which you can view by scrolling further down on the page. 
+The list of specific BallBOPPer voice commands can be viewed by scrolling further down on the page. 
 
 Each command is preceeded by "BB" which is short for BallBOPPer. 
 
@@ -104,11 +106,13 @@ You must say "BB" plus the command in order to get a response.
 
 ### Rover Controller
 
-The Rover Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on it's side of the court. 
+The Rover Controller is a positional controller that gives you the ability to send the BallBOPPer to a particular position on the BallBOPPer's side of the court. 
 
 ![Playlist Image](../assets/images/RoverControllerScreen_500.jpg){: width="300" .align-center }
 
-Press the spot where you want the BallBOPPer to move to, then press the "Rove to Position" button, and the BallBOPPer will travel to that spot, shutdown and wait. The Stop button is included in the event you need to stop the BallBOPPer while roving.
+Press the spot where you want the BallBOPPer to move to, then press the "Rove to Position" button, and the BallBOPPer will travel to that spot, shutdown and wait. 
+
+The Stop button is included in the event you need to stop the BallBOPPer while roving.
 
   <nav class="pagination">
       <a href="/BallBOPPer/shotDesigner/" class="pagination--pager" title="Shot Designer">Previous</a>
