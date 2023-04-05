@@ -24,9 +24,9 @@ After pressing the Navigate button, the BallBOPPer will gather navigation data o
 
 This data is saved under the name you assign. The next time you are training on that court, you do not have to run navigation again - the BallBOPPer will use the data previously gathered.
 
-## System Settings
+## Services
 
-The three Settings on this page allow you to turn the Navigation, Rover and Reloader services On and Off. 
+The three Services switches on this page allow you to turn the Navigation, Rover and Reloader services On and Off. 
 
 If you are using the BallBOPPer in a location that is not a tennis court, such as your driveway or backyard, then the BallBOPPer will not be able to navigate and will indicate an ERROR. 
 
