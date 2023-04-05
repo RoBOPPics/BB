@@ -35,7 +35,7 @@ More information on Repeating Range and Alternates can be found below under the 
 
 The Height and Spin page lets you specify: the Height that the ball will travel above the net, and the Spin Level and Spin Angle. 
 
-![Playlist Image](../assets/images/Spin_BallBopperApp001_500.jpg){: width="300" .align-center }
+![Playlist Image](../assets/images/SpinHeight04A_500.jpg){: width="300" .align-center }
 
 Height can be set to Low Margin, Good Margin, High Margin, Lob and Moonball. 
 
