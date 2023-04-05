@@ -34,9 +34,9 @@ The only way the BallBOPPer will operate when not on a tennis court is with the 
 
 With the Navigation Service turned Off, you will need to manually position and point the Robot in the correct direction. You may also need to adjust the Launch and Bounce points in your patterns according to the space that is available. It is best to create your own custom patterns that work specifically in your particular off-court location.
 
-## Stop, Play, Pause, Queue
+## Controller: Stop, Play, Pause, Queue
 
-The four buttons at the top of the Control section mirror the functions of the four physical buttons on the BallBOPPer robot.
+The four buttons at the top of the Controller section mirror the functions of the four physical buttons on the BallBOPPer robot.
 
 Stop will stop the BallBOPPer at its current position, and it will turn to face in the direction of the Player and wait. 
 
@@ -52,9 +52,9 @@ You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu
 
 The way the Queue button works in the app, and the way the physical Queue button works on the robot, is different. If you press the Queue button on the robot, you can cycle through and select from only the Patterns and Playlists that you have previously Queued on the robot. This makes it possible to play Patterns and Playlists when on-court without a smartphone or tablet.
 
-## Reboot, Reload, Delay, Navigate
+## Controller: Reboot, Reload, Delay, Navigate
 
-The second row of buttons in the App: Reboot, Reload, Delay and Navigate; are the same as the physical buttons on the robot when you press and hold the physical button for three seconds.
+The second row of buttons in the Controller section: Reboot, Reload, Delay and Navigate; are the same as the physical buttons on the robot when you press and hold the physical button for three seconds.
 
 Reboot will reboot the BallBOPPer's onboard computer. 
 
