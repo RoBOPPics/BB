@@ -88,13 +88,15 @@ You can add or subtract distance, adjust the shots left or right, and elevate th
 
 ### Voice Control
 
-The Voice Control feature offers many of the same Commands as the Controller using your voice. It is best to use a Bluetooth headset that is paired and connected to your smartphone or tablet. That way you can place your smartphone or tablet out of harms way while you play.
+The Voice Control feature offers many of the same Commands as the Controller, but using your voice. 
+
+It is best to use a Bluetooth headset that is paired and connected to your smartphone or tablet. That way you can place your smartphone or tablet out of harms way while you play.
 
 ![Voice Controller Image](../assets/images/VoiceControllerScreen_500.jpg){: width="300" .align-center }
 
 Upon pressing the Engage Voice Control button the BallBOPPer App will begin listening.
 
-The text box at the top of the Voice Controller screen will display what the BallBOPPer is hearing you say, as you say it. This helps you pinpoint and correct pronunciation/comprehension issues.
+The text box at the top of the Voice Controller screen will display what the BallBOPPer is hearing you say, as you say it. This helps you pinpoint and correct command comprehension issues.
 
 The list of specific BallBOPPer voice commands can be viewed by scrolling further down on the page. 
 
