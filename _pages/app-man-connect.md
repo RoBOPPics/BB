@@ -47,11 +47,13 @@ These will be required to prevent nefarious user's of the App from hijacking you
 
 If you already have an account, enter your email address and password.
 
-After logging in the first time, your credentials will be remembered by the App for up to 90 days.
+If you check the "Keep me signed in" box, then after logging in, your credentials will be remembered by the App for up to 90 days.
 
-## Edit or Delete your account
+## Change Password, Edit or Delete your account
 
-After you have created an account and are logged in, you go to your Profile in the Community section of the App. The Profile page has a kabob menu (three vertical dots) that includes items for Editing and Deleting your account.
+After you have created an account and are logged in, you go to your Profile in the Community section of the App. The Profile page has a kabob menu (three vertical dots) that includes items for Logging out, Editing and Deleting your account.
+
+To change your Password, log out. Then on the login page, click on "Forgot your password". This will allow you to create a new password.
 
 
   <nav class="pagination">
