@@ -51,7 +51,7 @@ After logging in the first time, your credentials will be remembered by the App 
 
 ## Edit or Delete your account
 
-After you have created an account and are logged in, you will find your Profile in the Community section. The Profile page has a kabob menu (three vertical dots) that includes for Editing or Deleting your account.
+After you have created an account and are logged in, you go to your Profile in the Community section of the App. The Profile page has a kabob menu (three vertical dots) that includes items for Editing and Deleting your account.
 
 
   <nav class="pagination">
