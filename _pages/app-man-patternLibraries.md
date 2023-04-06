@@ -27,7 +27,7 @@ The Patterns are ordered according to their Rating with the highest rated Patter
 
 All Patterns in the Pattern Library are editable to suit your preferences. Tap on a Pattern and it will open in the Pattern Designer. The Pattern Designer and the Shot Designer are explained in the next two sections of this documentation.
 
-All of the Patterns in your Pattern Library will initially be Catalog Patterns and Playlists. These are slightly different from Patterns and Playlists that you create yourself in that you cannot edit the Attribution field. The Attribution will always be that of the original author of the Pattern or Playlist.
+All of the Patterns in your Pattern Library will initially be Catalog Patterns and Playlists. These are slightly different from Patterns and Playlists that you create yourself in that you cannot edit the Attribution or "Byline" field. The "Byline" will always display the Player Name and Player Team of the original author of the Pattern or Playlist.
 
 ## Pattern Kabob Menu
 
