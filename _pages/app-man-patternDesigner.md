@@ -10,7 +10,7 @@ sidebar:
 
 When you tap on a pattern in a Pattern Library, it opens up in the Pattern Designer.
 
-The Pattern Designer has three tabs: Shot Pattern, Description and Settings. Tapping on each tab will navigate to that page, or you can swipe to move between each page.
+The Pattern Designer has two tabs: Shot Pattern and Description. Tapping on each tab will navigate to that page, or you can swipe to move between each page.
 
 ## Shot Pattern
 The Shot Pattern shows the shots that make up the pattern, and the order of those shots. 
