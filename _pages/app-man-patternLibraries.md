@@ -101,7 +101,7 @@ The Queue is also persistant across sessions. If the last thing you played on We
 
 ## Submit Story on this Pattern (or Playlist)
 
-This menu item appears on both the Pattern and Playlist Queueing pages and has the same effect.
+This menu item appears on both the Pattern and Playlist kabob menu pages and has the same effect.
 
 If you have played a Pattern (or Playlist) a number of times, and wish to provide information for other players, then you can write and submit a Player Story. Tapping on "Submit Story on this Pattern (or Playlist)" will bring up the Story entry form, where you can tap out your story and even add Photos or Videos of you playing this Pattern. 
 
@@ -113,7 +113,7 @@ There is more information on Player Stories in the Community section of this doc
 
 ## Submit Pattern (or Playlist) to Catalog
 
-This menu item appears on both the Pattern and Playlist Queueing page and has the same effect.
+This menu item appears on both the Pattern and Playlist kabob menu pages and has the same effect.
 
 Submitting a Pattern or Playlist to the Catalog will upload it into the online Catalog. 
 
