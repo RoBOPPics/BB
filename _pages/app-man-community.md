@@ -20,7 +20,7 @@ Set the filter at the top of the page to display the type of information you wan
 
 ## Post a Story
 
-Tap the title box at the top of the page and enter the title of Story. 
+Tap the title box at the top of the page and enter the title of your Story. 
 
 Press enter, and you will be presented with the Story Posting form.
 
