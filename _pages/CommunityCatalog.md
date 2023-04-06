@@ -14,9 +14,11 @@ The Catalog is similar to the Pattern and Playlist Libraries in that it has the 
 
 The big difference between the Libraries and the Catalog is that everything in the Catalog is online and is available to all BallBOPPer users, while the Patterns and Playlists in your Libraries are only on your phone or tablet. 
 
-The Catalog contains community Patterns and Playlists that you can browse through and download.
+The Catalog contains community Patterns and Playlists that you can browse through and download into your Pattern and Playlist Libraries.
 
-One other difference is that you cannot create a new Pattern or Playlist in the Catalog. You create new Patterns and Playlists in the Patterns and Playlists Libraries, and then if you want to share them with other BallBOPPer users, you can upload them to the Catalog. 
+Two other difference: although you can drill down into the Pattern Designer and Shot Designer on Patterns in the Catalog, you cannot edit them; and you cannot create a new Pattern or Playlist in the Catalog. 
+
+You create new Patterns and Playlists in the Patterns and Playlists Libraries, and then if you want to share them with other BallBOPPer users, you can upload them to the Catalog.
 
 The menu items for uploading a Pattern or Playlist to the Catalog are found on the Kabob menu for each Pattern or Playlist in their respective libraries. See the Pattern and Playlist Libraries section for additional details.
 
