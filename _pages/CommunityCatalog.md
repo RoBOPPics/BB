@@ -12,15 +12,15 @@ The Catalog is similar to the Pattern and Playlist Libraries in that it has the 
 
 ![Catalog Image](../assets/images/Catalog_500.jpg){: width="300" .align-center } 
 
-The big difference between the Libraries and the Catalog is that everything in the Catalog is online and is available to all BallBOPPer users, while the Patterns and Playlists in your Libraries are only on your phone or tablet. 
+The difference between the Libraries and the Catalog is that everything in the Catalog is online and is available to all BallBOPPer users, while the Patterns and Playlists in your Libraries are only on your phone or tablet. 
 
 The Catalog contains community Patterns and Playlists that you can browse through and download into your Pattern and Playlist Libraries.
 
-Two other difference: although you can drill down into the Pattern Designer and Shot Designer on Patterns in the Catalog, you cannot edit them; and you cannot create a new Pattern or Playlist in the Catalog. 
+Although you can drill down into the Pattern Designer and Shot Designer on Patterns and Playlists in the Catalog, you cannot edit them. And you cannot create a new Pattern or Playlist in the Catalog. 
 
-Players and coaches create new Patterns and Playlists in the Patterns and Playlists Libraries, and then if they want to share them with other BallBOPPer players and coaches, they can upload them to the Catalog. 
+Players and coaches create new Patterns and Playlists in the Patterns and Playlists Libraries, and then if they want to share them with other BallBOPPer players and coaches, they upload them to the Catalog. This is explained in the Pattern and Playlist Library section of this documentation under the Pattern and Playlist kabob menu items.
 
-They can continue to upload new versions of their Patterns and Playlists to the Catalog over time, but only for the Patterns and Playlists that they authored. But note that if you delete the original copy of a Pattern or Playlist from your Pattern or Playlist library, you will no longer be able to update the version in the Catalog.
+The player or coach can continue to upload new versions of their Patterns and Playlists to the Catalog over time, but only for the Patterns and Playlists that they authored. And note that you need to retain the original of your Pattern or Playlist in your library.  If you delete the original copy of a Pattern or Playlist that you uploaded into the Catalog, you will no longer be able to update the version in the Catalog.
 
 The menu items for uploading a Pattern or Playlist to the Catalog are found on the Kabob menu for each Pattern or Playlist in their respective libraries. See the Pattern and Playlist Libraries section for additional details.
 
@@ -30,7 +30,7 @@ Tapping on this item will download the selected Pattern or Playlist into your Pa
 
 You can then Edit, Queue and Play the Pattern or Playlist the same as the Patterns and Playlists that you have created.
 
-Note that you can edit the Patterns and Playlists that you download from the Catalog with the one exception: you cannot change the Attribution to the original author. 
+Note that you can edit the Patterns and Playlists that you download from the Catalog the same as the Patterns and Playlists that you create with one exception: you cannot change the Attribution to the original author. 
 
 Also if you look at the Kabob menu on an item that you downloaded from the Catalog, you will note that the "Upload to Catalog" option is missing. The original author of the item in the Catalog is the only one who can update their own items in the Catalog. 
 
