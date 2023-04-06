@@ -78,9 +78,9 @@ Pressing the "Ad Hoc Launch" button in the center of the screen will launch a ba
 
 If you change the selected launch location, then the BallBOPPer will also Rove to the new launch location before launching the ball.
 
-## Drift Settings
+## Drift Control
 
-The Correct Drift settings at the bottom of the page are specifically for correcting for windy, or other conditions, that are preventing the launched balls from bouncing on their spots. 
+Scrolling further down on the Control page, you will find the Drift Control which is specifically for correcting for windy, or other conditions, that are preventing the launched balls from bouncing on their spots. 
 
 You can add or subtract distance, adjust the shots left or right, and elevate them higher or lower. These settings are temporary and revert to the default settings when you turn the BallBOPPer off.
 
