@@ -51,7 +51,7 @@ If you check the "Keep me signed in" box, then after logging in, your credential
 
 ## Change Password, Edit or Delete your account
 
-After you have created an account and are logged in, you will be able to navigate to your Profile in the Community section of the App. The Profile page has a kabob menu (three vertical dots) that includes items for Logging out, Editing and Deleting your account.
+After you have created an account and are logged in, you will be able to navigate to your Profile in the Community section of the App. The Profile page has a kabob menu (three vertical dots) that includes items for Log In, Log Out, Editing your Account and Deleting your Account.
 
 To change your Password, first log out. Then on the login page, click on "Forgot your password". This will allow you to create and confirm a new password.
 
