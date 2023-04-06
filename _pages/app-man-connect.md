@@ -33,7 +33,11 @@ If this is your first time logging in, you will need to setup your account.
 
 Click on "Sign up now".
 
+Enter your email address and password.
+
 During beta testing, only an email address and password are required. The email address will be verified by emailing you a code.
+
+There are four additonal fields that are required for your account: first name, last name, player name and player team. The player name and player team are combined to create your "Byline" - which appears at the bottom of any Patterns, Playlists, Stories, Insights or Bopps that you create. 
 
 When the BallBOPPer starts shipping to Players, two factor authentication will be enabled. You will then need to enter a verifiable email address, and a verifiable telephone number. 
 
@@ -44,6 +48,10 @@ These will be required to prevent nefarious user's of the App from hijacking you
 If you already have an account, enter your email address and password.
 
 After logging in the first time, your credentials will be remembered by the App for up to 90 days.
+
+## Edit or Delete your account
+
+After you have created an account and are logged in, you will find your Profile in the Community section. The Profile page has a kabob menu (three vertical dots) that includes for Editing or Deleting your account.
 
 
   <nav class="pagination">
