@@ -40,7 +40,7 @@ The Description contains all of the textual data for the Pattern.
 
 The Pattern Name and Description are displayed in the library view of each Pattern. 
 
-The Pattern Nickname (limited to 8 characters) is displayed on the BallBOPPer's display screen prior to the start of each Drill or Pattern. 
+The Pattern Nickname (limited to 8 characters) is displayed on the BallBOPPer's display screen prior to the start of each Pattern. 
 
 If the Coaching field has content, then a Coaching link will appear at the bottom of the Pattern. Clicking on that link will display the Coaching information in a popup. 
 
