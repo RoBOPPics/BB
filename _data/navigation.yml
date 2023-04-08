@@ -8,7 +8,7 @@
   #- title: Play a Pattern
   #  url: /appmanintro/
 
-  - title: "Pattern and Playlist Libraries"
+  - title: "Libraries"
     url: /patternLibraries/
 
   - title: "Pattern Designer"
@@ -26,7 +26,7 @@
   - title: "Community"
     url: /community/
     
-  - title: "Pattern and Playlist Catalog"
+  - title: "Catalog"
     url: /appmancatalog/
     
  robotman:
