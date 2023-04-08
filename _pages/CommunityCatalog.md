@@ -16,13 +16,21 @@ The difference between the Libraries and the Catalog is that everything in the C
 
 The Catalog contains community Patterns and Playlists that you can browse through and download into your Pattern and Playlist Libraries.
 
-Although you can drill down into the Pattern Designer and Shot Designer on Patterns and Playlists in the Catalog, you cannot edit them in the Catalog. Note the banner in the image below.
+## Pattern Designer and Shot Designer in the Catalog
+
+Tapping on a Pattern or Playlist in the Catalog will open the Pattern Designer, and you can tap on the Shots in the Pattern Designer to open the Shot Designer on each. 
+
+The big difference in the Catalog is that you cannot edit the Patterns and Playlists in the Catalog. All of the editing functionality in the Pattern and Shot Designers is disabled. Note the banner in the image below.
 
 ![Catalog Image](../assets/images/CatalogPatternDesigner_500.jpg){: width="300" .align-center } 
 
-And you cannot create a new Pattern or Playlist in the Catalog. 
+## How to create Catalog Items
 
-Players and coaches create new Patterns and Playlists in the Patterns and Playlists Libraries, and then if they want to share them with other BallBOPPer players and coaches, they upload them to the Catalog. This is explained in the Pattern and Playlist Library section of this documentation under the Pattern and Playlist kabob menu items.
+You cannot create a new Pattern or Playlist in the Catalog. 
+
+Players and coaches create new Patterns and Playlists in the Patterns and Playlists Libraries, and then if they want to share them with other BallBOPPer players and coaches, they upload them to the Catalog. 
+
+This is explained in the Pattern and Playlist Library section of this documentation under the Pattern and Playlist kabob menu items.
 
 The player or coach can continue to upload new versions of their Patterns and Playlists to the Catalog over time, but only for the Patterns and Playlists that they authored. 
 
