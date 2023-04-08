@@ -34,9 +34,11 @@ When you tap the Kabob menu on a Pattern or Playlist in the Pattern and Playlist
 
 ![Catalog Image](../assets/images/CatalogKabob_500.jpg){: width="300" .align-center } 
 
-Tapping on this item will download the selected Pattern or Playlist into your Pattern or Playlist Library. 
+Tapping on a Player Story will open it in the Player Story view.
 
-Once the Pattern or Playlist is in your Library, then you can Edit, Queue and Play the Pattern or Playlist the same as the Patterns and Playlists that you yourself created.
+Tapping on the DOWNLOAD PATTERN or DOWNLOAD PLAYLIST will download that item into your Pattern or Playlist Library. 
+
+Once the Pattern or Playlist is in your Library, then you can Edit, Queue and Play the Pattern or Playlist the same as the Patterns and Playlists that you yourself have created.
 
 You can edit the Patterns and Playlists that you download from the Catalog, the same as the Patterns and Playlists that you create, with one exception: you cannot change the "Byline" to the original author. 
 
