@@ -8,7 +8,7 @@ sidebar:
   nav: "appman"
 ---
 
-The Catalog is similar to the Pattern and Playlist Libraries in that it has the same three tabs: Patterns, Selected Playlist, and Playlists. 
+The Pattern and Playlist Catalog is similar to the Pattern and Playlist Libraries in that it has the same three tabs: Patterns, Selected Playlist, and Playlists. 
 
 ![Catalog Image](../assets/images/Catalog001_500.jpg){: width="300" .align-center } 
 
