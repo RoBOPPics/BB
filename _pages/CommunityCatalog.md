@@ -24,7 +24,7 @@ And you cannot create a new Pattern or Playlist in the Catalog. Players and coac
 
 The player or coach can continue to upload new versions of their Patterns and Playlists to the Catalog over time, but only for the Patterns and Playlists that they authored. 
 
-And note that you need to retain the original of your Pattern or Playlist in your library.  If you delete the original copy of a Pattern or Playlist that you uploaded into the Catalog, you will no longer be able to update the version in the Catalog.
+And note that the author of a Catalog pattern needs to retain the original of your Pattern or Playlist in their library.  If they delete the original copy of a Pattern or Playlist then they will no longer be able to update the version in the Catalog.
 
 The menu items for uploading a Pattern or Playlist to the Catalog are found on the Kabob menu for each Pattern or Playlist in their respective libraries. See the Pattern and Playlist Libraries section for additional details.
 
