@@ -30,11 +30,17 @@ And note that the author of a Catalog pattern needs to retain the original of th
 
 The menu items for uploading a Pattern or Playlist to the Catalog are found on the Kabob menu for each Pattern or Playlist in their respective libraries. See the Pattern and Playlist Libraries section for additional details.
 
+## Catalog Kabob Menu
+
 When you tap the Kabob menu on a Pattern or Playlist in the Pattern and Playlist Catalog, you only have one option: Download Pattern or Download Playlist.
 
 ![Catalog Image](../assets/images/CatalogKabob_500.jpg){: width="300" .align-center } 
 
-Tapping on a Player Story will open it in the Player Story view.
+## Player Story
+
+Tapping on the Player Story will open it in the Player Story view so that you can read the whole story, and any Insights that other players have added.
+
+## Download Pattern or Download Playlist
 
 Tapping on the DOWNLOAD PATTERN or DOWNLOAD PLAYLIST will download that item into your Pattern or Playlist Library. 
 
