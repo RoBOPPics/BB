@@ -32,7 +32,7 @@ The menu items for uploading a Pattern or Playlist to the Catalog are found on t
 
 ## Catalog Kabob Menu
 
-When you tap the Kabob menu on a Pattern or Playlist in the Pattern and Playlist Catalog, you only have one option: Download Pattern or Download Playlist.
+Tapping on the Kabob menu (three verticle dots) on a Catalog Pattern or Playlist will open the Kabob Menu shown below.
 
 ![Catalog Image](../assets/images/CatalogKabob_500.jpg){: width="300" .align-center } 
 
