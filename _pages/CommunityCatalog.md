@@ -10,7 +10,7 @@ sidebar:
 
 The Catalog is similar to the Pattern and Playlist Libraries in that it has the same three tabs: Patterns, Selected Playlist, and Playlists. 
 
-![Catalog Image](../assets/images/Catalog_500.jpg){: width="300" .align-center } 
+![Catalog Image](../assets/images/Catalog001_500.jpg){: width="300" .align-center } 
 
 The difference between the Libraries and the Catalog is that everything in the Catalog is online and is available to all BallBOPPer users, while the Patterns and Playlists in your Libraries are only on your phone or tablet. 
 
@@ -25,6 +25,8 @@ The player or coach can continue to upload new versions of their Patterns and Pl
 The menu items for uploading a Pattern or Playlist to the Catalog are found on the Kabob menu for each Pattern or Playlist in their respective libraries. See the Pattern and Playlist Libraries section for additional details.
 
 When you tap the Kabob menu on a Pattern or Playlist in the Pattern and Playlist Catalog, you only have one option: Download Pattern or Download Playlist.
+
+![Catalog Image](../assets/images/CatalogKabob_500.jpg){: width="300" .align-center } 
 
 Tapping on this item will download the selected Pattern or Playlist into your Pattern or Playlist Library. 
 
