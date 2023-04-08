@@ -34,7 +34,7 @@ You can then Edit, Queue and Play the Pattern or Playlist the same as the Patter
 
 Note that you can edit the Patterns and Playlists that you download from the Catalog the same as the Patterns and Playlists that you create with one exception: you cannot change the Attribution to the original author. 
 
-Also if you look at the Kabob menu on an item that you downloaded from the Catalog, you will note that the "Upload to Catalog" option is missing. The original author of the item in the Catalog is the only one who can update their own items in the Catalog. 
+Also if you look at the Kabob menu in the Pattern and Playlist Library on an item that you downloaded from the Catalog, you will note that the "Upload to Catalog" option is missing. The original author of the item in the Catalog is the only one who can update their own items in the Catalog. 
 
   <nav class="pagination">
       <a href="/BallBOPPer/community/" class="pagination--pager" title="Community">Previous</a>
