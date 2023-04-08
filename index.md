@@ -14,11 +14,11 @@ sidebar:
   nav: "appman"
 ---
 
-The documentation for the BallBOPPer App and the BallBOPPer Robot are currently under development. This prerelease version is offered here for those who are interested in developing "Patterns of Play" to be included in the BallBOPPer Catalog.
+The documentation for the BallBOPPer App and the BallBOPPer Robot are currently under development. The BallBOPPer Kickstarter campaign is currently planned for Summer/Fall of 2023. For an invite to the Kickstarter preview, when available, subscribe to our Newsletter at the bottom of our home page at www.roboppics.com. This prerelease version is offered here for those who are interested in developing "Patterns of Play" to be included in the BallBOPPer Catalog.
 
 ![Catalog Image](/assets/images/BallBOPPerShotCropped002_500.jpg){: width="400" .align-center } 
 
-The bottom of each page in this documentation has Previous and Next buttons. This is to make it easier to navigate through this information in sequential order.
+At the bottom of every page in this documentation you will find Previous and Next buttons to help you navigate sequentially.  
 
   <nav class="pagination">
       <a  class="pagination--pager disabled">The Beginning</a>
