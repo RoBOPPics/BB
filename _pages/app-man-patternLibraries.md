@@ -39,6 +39,10 @@ The Pattern menu page will then appear with the options for the selected Pattern
 
 ![PatternModal Image](../assets/images/PatternModal005_500.jpg){: width="300" .align-center } 
 
+## Player Story
+
+Tapping on the Player Story will open it in the Player Story view so that you can read the whole story, and any Insights that other players have added.
+
 ## Queue this Pattern
 
 Queueing is the process of transmitting the Pattern to the BallBOPPer. When you tap on the item "QUEUE THIS PATTERN", the pattern is transmitted to the BallBOPPer where it is placed on the top of the Play queue - next up to be Played.
