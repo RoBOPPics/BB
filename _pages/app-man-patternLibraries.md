@@ -39,15 +39,31 @@ The Pattern menu page will then appear with the options for the selected Pattern
 
 ![PatternModal Image](../assets/images/PatternModal005_500.jpg){: width="300" .align-center } 
 
-## Pattern Player Story
-
-The Player Stories that are displayed on the kabob menu page are Stories that were specifically written about this Pattern. Tapping on a Player Story will open it in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
-
 ## Queue this Pattern
 
 Queueing is the process of transmitting the Pattern to the BallBOPPer. When you tap on the item "QUEUE THIS PATTERN", the pattern is transmitted to the BallBOPPer where it is placed on the top of the Play queue - next up to be Played.
 
 The Control page will then automatically pop up in the App, and when you click the Play button, the BallBOPPer will begin playing the Pattern.
+
+## Submit Story on this Pattern
+
+If you have played a Pattern a number of times, and wish to provide information for other players, then you can write and submit a Player Story. Tapping on "Submit Story on this Pattern" will bring up the Story entry form, where you can tap out your story and even add Photos or Videos of you playing this Pattern. 
+
+The Stories that were posted in this way show up in the window above the menu items, and you can scroll through them. Tapping on a Player Story in the window will open the story in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
+
+There is more information on Player Stories in the Community section of this documentation.
+
+## Submit Pattern to Catalog
+
+Submitting a Pattern to the Catalog will upload it into the online Catalog. 
+
+After it is approved, it will then appear in the Catalog to all users for downloading and playing.
+
+You can only submit a Pattern to the Catalog that you have authored. When you open a Pattern that someone else authored, even if you have modified it, this menu item will not appear. 
+
+The "Submit Pattern to Catalog" item will continue to appear on the items that you have authored after submitting to the Catalog. This allows you to upload newer versions which will replace the original version in the Catalog.
+
+There is more information in the Catalog section of this documentation.
 
 ## Copy to Selected Playlist
 
@@ -93,10 +109,6 @@ The Playlist Kabob Menu will appear.
 
 ![PatternModal Image](../assets/images/PlaylistModal005_500.jpg){: width="300" .align-center }
 
-## Playlist Player Story
-
-The Player Stories that are displayed on the kabob menu page are Stories that were specifically written about this Playlist. Tapping on a Player Story will open it in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
-
 ## Queue this Playlist
 
 Queueing is the process of transmitting the Playlist to the BallBOPPer. When you tap on the "QUEUE THIS PLAYLIST", the Playlist is transmitted to the BallBOPPer where it is placed on the top of the Play queue.  
@@ -107,29 +119,25 @@ The Queue can have a mixture of Patterns and Playlists, but the last item that w
 
 The Queue is also persistant across sessions. If the last thing you played on Wednesday was your favorite Playlist, then your Favorite Playlist is already queued up on Thursday. You do not need to queue it again, just press Play, either in the Controller or the Play button on the BallBOPPer itself.
 
-## Submit Story on this Pattern (or Playlist)
+## Submit Story on this Playlist
 
-This menu item appears on both the Pattern and Playlist kabob menu pages and has the same effect.
+If you have played a Playlist a number of times, and wish to provide information for other players, then you can write and submit a Player Story. Tapping on "Submit Story on this Playlist" will bring up the Story entry form, where you can tap out your story and even add Photos or Videos of you playing this Playlist. 
 
-If you have played a Pattern (or Playlist) a number of times, and wish to provide information for other players, then you can write and submit a Player Story. Tapping on "Submit Story on this Pattern (or Playlist)" will bring up the Story entry form, where you can tap out your story and even add Photos or Videos of you playing this Pattern. 
-
-After approval, these Stories will then show up in the window at the top of the Queueing page, as well as in the Community Feed to help other players decide whether they want to Download and Play the Pattern or Playlist from the Catalog.
-
-All Stories are reviewed before they will appear in the feed to others. Only positive information will be approved.
+The Stories that were posted in this way show up in the window above the menu items, and you can scroll through them. Tapping on a Player Story in the window will open the story in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
 
 There is more information on Player Stories in the Community section of this documentation.
 
-## Submit Pattern (or Playlist) to Catalog
+## Submit Playlist to Catalog
 
-This menu item appears on both the Pattern and Playlist kabob menu pages and has the same effect.
+Submitting a Playlist to the Catalog will upload it into the online Catalog. 
 
-Submitting a Pattern or Playlist to the Catalog will upload it into the online Catalog. 
+After it is approved, it will then appear in the Catalog to all users for downloading and playing.
 
-After it is approved, it will then appear to all users for downloading and playing.
+You can only submit a Playlist to the Catalog that you have authored. When you open a Playlist that someone else authored, even if you have modified it, this menu item will not appear. 
 
-You can only submit a Pattern or Playlist to the Catalog that you have authored. When you open a Pattern that someone else authored, even if you have modified it, this menu item will not appear. 
+The "Submit Playlist to Catalog" item will continue to appear on the items that you have authored after submitting to the Catalog. This allows you to upload newer versions which will replace the original version in the Catalog.
 
-The "Submit Pattern (or Playlist) to Catalog" item will continue to appear on the items that you have authored after submitting to the Catalog. This allows you to upload newer versions which will replace the original version in the Catalog.
+There is more information in the Catalog section of this documentation.
 
   <nav class="pagination">
       <a href="/BallBOPPer/appmanconnect/" class="pagination--pager" title="Login">Previous</a>
