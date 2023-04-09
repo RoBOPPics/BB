@@ -39,9 +39,9 @@ The Pattern menu page will then appear with the options for the selected Pattern
 
 ![PatternModal Image](../assets/images/PatternModal005_500.jpg){: width="300" .align-center } 
 
-## Player Story
+## Pattern Player Story
 
-The Player Stories that are displayed on this page are Stories that were specifically written about this Pattern. Tapping on the Player Story will open it in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
+The Player Stories that are displayed on the kabob menu page are Stories that were specifically written about this Pattern. Tapping on a Player Story will open it in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
 
 ## Queue this Pattern
 
@@ -92,6 +92,10 @@ To play a Playlist using the BallBOPPer, tap on the kabob menu.
 The Playlist Kabob Menu will appear.
 
 ![PatternModal Image](../assets/images/PlaylistModal005_500.jpg){: width="300" .align-center }
+
+## Playlist Player Story
+
+The Player Stories that are displayed on the kabob menu page are Stories that were specifically written about this Playlist. Tapping on a Player Story will open it in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
 
 ## Queue this Playlist
 
