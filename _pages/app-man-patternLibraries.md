@@ -75,7 +75,7 @@ To construct a Playlist, you first create a new empty Playlist in the Playlist L
 
 Repeat this process to add up to 25 Patterns to your Playlist.
 
-## Selected Playlist
+# Selected Playlist
 
 To display a Playlist in the Selected Playlist tab, you first go to the Playlist Library, and tap on the Playlist you wish to view or edit.
 
@@ -87,7 +87,7 @@ Tapping on a Pattern in your Selected Playlist will open it in the Pattern Desig
 
 The Patterns in a Playlist are copies. Changes you make to them will not effect the originals in the Pattern Library.
 
-## Playlist Library
+# Playlist Library
 
 The Playlist Library lists all of the Playlists that you have either created or downloaded from the Pattern and Playlist Catalog.
 
