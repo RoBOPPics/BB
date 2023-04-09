@@ -16,7 +16,9 @@ This documentation covers the Libraries, Controller, Community and Catalog secti
 
 ![GlobalNav Image](../assets/images/GlobalNav_500.png){: width="400" .align-center } 
 
-It also has sections on the Pattern Designer and the Shot Designer. The Pattern Designer displays when you tap on a Pattern in the Libraries or Catalog. The Shot Designer opens when you tap on a Shot in the Pattern Designer.
+It also has sections on the Pattern Designer and the Shot Designer. 
+
+The Pattern Designer opens when you tap on a Pattern in the Libraries or Catalog. The Shot Designer opens when you tap on a Shot in the Pattern Designer.
 
 A beta version of the BallBOPPer App is currently available for testing on Android in the Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.RoBOPPics.bbapp18" >BallBOPPer App on Android</a> 
 
