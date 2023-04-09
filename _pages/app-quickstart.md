@@ -18,7 +18,7 @@ This documentation covers the Libraries, Controller, Community and Catalog secti
 
 ![GlobalNav Image](../assets/images/GlobalNav_500.png){: width="400" .align-center } 
 
-It also has sections on the Pattern Designer and the Shot Designer. 
+This documentation also has sections on the Pattern Designer and the Shot Designer. 
 
 The Pattern Designer opens when you tap on a Pattern in the Libraries or Catalog. The Shot Designer opens when you tap on a Shot in the Pattern Designer.
 
