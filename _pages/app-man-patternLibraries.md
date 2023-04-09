@@ -77,7 +77,7 @@ Repeat this process to add up to 25 Patterns to your Playlist.
 
 # Selected Playlist
 
-To display a Playlist in the Selected Playlist tab, you first go to the Playlist Library, and tap on the Playlist you wish to view or edit.
+To display a Playlist in the Selected Playlist tab, you first go to the Playlist tab, and tap on the Playlist you wish to view or edit.
 
 ![Custom Image](../assets/images/SelectedPatternScreen_500.png){: width="300" .align-center } 
 
