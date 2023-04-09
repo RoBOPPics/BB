@@ -41,7 +41,7 @@ The Pattern menu page will then appear with the options for the selected Pattern
 
 ## Player Story
 
-Tapping on the Player Story will open it in the Player Story view so that you can read the whole story, and any Insights that other players have added.
+The Player Stories that are displayed on this page are Stories that were specifically written about this Pattern. Tapping on the Player Story will open it in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
 
 ## Queue this Pattern
 
