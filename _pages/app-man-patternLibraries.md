@@ -16,7 +16,7 @@ Patterns of Play are for practicing tactics and strategy. They are based on diff
 
 For more information on Patterns of Play, see the <a href="https://roboppics.com/blogs/news">What are Patterns of Play</a> article in the News section of the RoBOPPics website.
 
-## Pattern Library
+# Pattern Library
 The Pattern Library lists the Patterns that you have created, or that you have downloaded from the Pattern and Playlists Catalog. 
 
 ![Catalog Image](../assets/images/PatternLibrary_500.jpg){: width="300" .align-center } 
