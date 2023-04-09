@@ -30,7 +30,7 @@ The form allows you to also add photos and videos of your training sessions.
 
 All Stories are reviewed before they will appear in the feed to others. Only positive information will be approved. 
 
-The "Byline" that appears on all of your Patterns, Playlists, Stories, Bopps and Insights is a combination of the Player Name and Player Team that you entered into your Player Profile. See the Profile item below for more information.
+The "Byline" that appears on all of your Patterns, Playlists, Stories, BOPPs and Insights is a combination of the Player Name and Player Team that you entered into your Player Profile. See the Profile item below for more information.
 
 ## Story View
 
@@ -38,7 +38,7 @@ Tapping on a Story will open it in the Story view. Here you can see the full sto
 
 ![StoryDetails Image](../assets/images/StoryDetails_500.jpg){: width="300" .align-center }
 
-Players can "Bopp" the stories that they like, and they can also add their own "Insights". 
+Players can "BOPP" the stories that they like, and they can also add their own "Insights". 
 
 Users can also report Stories or Insights that they feel are inappropriate using the flag button.
 
