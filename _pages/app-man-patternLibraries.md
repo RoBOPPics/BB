@@ -49,7 +49,9 @@ The Control page will then automatically pop up in the App, and when you click t
 
 If you have played a Pattern a number of times, and wish to provide information for other players, then you can write and submit a Player Story. Tapping on "Submit Story on this Pattern" will bring up the Story entry form, where you can tap out your story and even add Photos or Videos of you playing this Pattern. 
 
-The Stories that were posted in this way show up in the window above the menu items, and you can scroll through them. Tapping on a Player Story in the window will open the story in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
+The Stories that were posted in this way show up in the window above the menu items, and you can scroll through them. The Pattern shown above only has one Story about it entitled "In the upcoming demo video".  
+
+Tapping on a Player Story in the window will open the story in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
 
 There is more information on Player Stories in the Community section of this documentation.
 
@@ -123,7 +125,9 @@ The Queue is also persistant across sessions. If the last thing you played on We
 
 If you have played a Playlist a number of times, and wish to provide information for other players, then you can write and submit a Player Story. Tapping on "Submit Story on this Playlist" will bring up the Story entry form, where you can tap out your story and even add Photos or Videos of you playing this Playlist. 
 
-The Stories that were posted in this way show up in the window above the menu items, and you can scroll through them. Tapping on a Player Story in the window will open the story in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
+The Stories that were posted in this way show up in the window above the menu items, and you can scroll through them. The Playlist shown above only has one Story about it entitled "Excellent general purpose Playlist".  
+
+Tapping on a Player Story in the window will open the story in the Player Story view so that you can read the whole story, and any Insights that other players have added to it.
 
 There is more information on Player Stories in the Community section of this documentation.
 
