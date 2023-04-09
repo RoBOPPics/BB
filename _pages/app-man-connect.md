@@ -15,7 +15,7 @@ You can download the App onto your Android device, and then go through the App a
 
 ## Login
 
-Creating a login will allow you to create your own custom Patterns and Playlists, and add your own Stories into the Community feed.
+Creating a login will allow you to create your own custom Patterns, Playlists, Stories and Insights.
 
 ![Prelogin Image](../assets/images/LogInScreen_500.png){: width="300" .align-center } 
 
