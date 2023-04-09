@@ -8,7 +8,7 @@ sidebar:
   nav: "appman"
 ---
 
-When you tap on a pattern in a Pattern Library, it opens up in the Pattern Designer.
+When you tap on a pattern in the Library or Catalog, it opens up in the Pattern Designer.
 
 The Pattern Designer has two tabs: Shot Pattern and Description. Tapping on each tab will navigate to that page, or you can swipe to move between each page.
 
