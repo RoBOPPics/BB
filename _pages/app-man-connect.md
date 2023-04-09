@@ -11,7 +11,7 @@ sidebar:
 
 Much of the beta version of the BallBOPPer App, that is currently available in the Google Play Store  (<a href="https://play.google.com/store/apps/details?id=com.RoBOPPics.bbapp18" >BallBOPPer App on Android</a>), can be navigated without having to log in. 
 
-You can download the App onto your Android device, and then go through the App and explore the Pattern and Playlist Libraries, the Community, the Catalog, and the Controller. 
+You can download the App onto your Android device, select No when asked if you want to login, and then go through the App and explore the Pattern and Playlist Libraries, the Community, the Catalog, and the Controller. 
 
 ## Login
 
