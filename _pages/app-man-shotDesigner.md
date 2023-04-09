@@ -8,9 +8,9 @@ sidebar:
   nav: "appman"
 ---
 
-The Shot Designer opens when you tap on a Shot in the Pattern Designer. 
+When you tap a Shot in the Pattern Designer, it opens in the Shot Designer. 
 
-It has three tabs: Path, Height-Spin, and Predictability. You can tap on each tab to navigate to each page, or you can swipe.
+The Shot Designer has three tabs: Path, Height-Spin, and Predictability. You can tap on each tab to navigate to each page, or you can swipe.
 
 ## Path
 The Path screen shows the plan view of a tennis court with the BallBOPPer (large orange box) at the opposite side of the court, and the bounce point of the ball (small light green box) on your side of the court. 
@@ -29,7 +29,7 @@ The Shot label for a Shot with Alternates is a black button that displays the Al
 
 A shot that has a Repeating Range of more than 1, will display the Repeating Range on the right side of the center label. The label on the image above shows that this Shot has "1 to 3 Repeats".
 
-More information on Repeating Range and Alternates can be found below under the Predictability item.
+More information on Repeating Range and Alternates can be found below under the Predictability item below.
 
 ## Height-Spin
 
