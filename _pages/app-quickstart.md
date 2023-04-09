@@ -12,7 +12,7 @@ sidebar:
 ---
 The BallBOPPer App reference documentation is for Players and Coaches looking to understand how "Patterns of Play" are designed and run using the App.
 
-This documentation covers the Libraries, Controller, Community and Catalog sections of the App.
+This documentation covers the Libraries, Controller, Community and Catalog sections linked to from the bottom of the App.
 
 ![GlobalNav Image](../assets/images/GlobalNav_500.png){: width="400" .align-center } 
 
