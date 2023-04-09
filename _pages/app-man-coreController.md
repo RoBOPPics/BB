@@ -48,7 +48,7 @@ The difference is that if you press Pause while playing a Pattern or Playlist, t
 
 Pressing the Queue button will send you to the Pattern Libraries where you can select from all of the possibilities in the libraries. 
 
-You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu on a Pattern or Playlist to transmit and queue the Pattern or Playlist on the BallBOPPer. These items are explained in the Patterns and Playlist Libraries section of this documentation.
+You then use the "Queue this Pattern" or "Queue this Playlist" in the Kabob menu on a Pattern or Playlist to transmit and queue the Pattern or Playlist on the BallBOPPer. These items are explained in the Libraries section of this documentation.
 
 The way the Queue button works in the app, and the way the physical Queue button works on the robot, is different. If you press the Queue button on the robot, you can cycle through and select from only the Patterns and Playlists that you have previously Queued on the robot. This makes it possible to play Patterns and Playlists when on-court without a smartphone or tablet.
 
