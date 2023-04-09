@@ -8,7 +8,7 @@ sidebar:
   nav: "appman"
 ---
 
-The Pattern and Playlist Libraries section has three tabs across the top: Patterns, Selected Playlist and Playlists. You can tap each of these tabs to navigate to that page, or you can swipe left and right to navigate between them.
+The Libraries section has three tabs across the top: Patterns, Selected Playlist and Playlists. You can tap each of these tabs to navigate to that page, or you can swipe left and right to navigate between them.
 
 The BallBOPPer robot and the Pattern Library are all about creating "Patterns of Play".
 
