@@ -37,7 +37,7 @@ Enter your email address and password.
 
 During beta testing, only an email address and password are required. The email address will be verified by emailing you a code.
 
-There are four additonal fields that are required for your account: first name, last name, player name and player team. The player name and player team are combined to create your "Byline" - which appears at the bottom of any Patterns, Playlists, Stories, Insights or Bopps that you create. 
+There are four additonal fields that are required for your account: first name, last name, player name and player team. The player name and player team are combined to create your "Byline" - which appears at the bottom of any Patterns, Playlists, Stories, Insights or BOPPs that you create. 
 
 When the BallBOPPer starts shipping to Players, two factor authentication will be enabled. You will then need to enter a verifiable email address, and a verifiable telephone number. 
 
