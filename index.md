@@ -14,7 +14,7 @@ sidebar:
   nav: "appman"
 ---
 
-The documentation for the BallBOPPer App and the BallBOPPer Robot are currently under development. The BallBOPPer Kickstarter campaign is currently planned for Summer/Fall of 2023. For an invite to the Kickstarter preview, when available, subscribe to our Newsletter at the bottom of our home page at www.roboppics.com. 
+The documentation for the BallBOPPer App and the BallBOPPer Robot are currently under development. 
 
 This prerelease version of this documentation is for those who are interested in developing "Patterns of Play" and Playlists for inclusion in the BallBOPPer Pattern and Playlist Catalog.
 
