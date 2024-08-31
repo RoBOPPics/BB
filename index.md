@@ -14,9 +14,9 @@ sidebar:
   nav: "appman"
 ---
 
-The documentation for the BallBOPPer App and the BallBOPPer Robot are currently under development. 
+This is preliminary documentation for the BallBOPPer App and the BallBOPPer Robot. 
 
-This prerelease version of this documentation is for those who are interested in developing "Patterns of Play" and Playlists for inclusion in the BallBOPPer Pattern and Playlist Catalog.
+This prelinimary version of this documentation is for those who are interested in developing "Patterns of Play" and Playlists for inclusion in the BallBOPPer Pattern and Playlist Catalog.
 
 ![Catalog Image](/assets/images/BallBOPPerShotCropped002_500.jpg){: width="400" .align-center } 
 
